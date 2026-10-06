@@ -1,0 +1,1106 @@
+{
+  "category": {
+    "id": "ss-gear-pumps",
+    "name": "SS Gear Pumps",
+    "indiamart_url": "https://www.indiamart.com/rickon-engineering-ahmedabad/ss-gear-pumps.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2026/7/629520720/TP/WV/XM/30258400/ss316-rotary-gear-pump-500x500.png",
+    "indiamart_count": 6,
+    "extracted_count": 6,
+    "extracted_on": "2026-10-06"
+  },
+  "products": [
+    {
+      "id": "ss-01",
+      "indiamart_id": "2850014053712",
+      "slug": "ss316-rotary-gear-pump-3712",
+      "name": "SS316 Rotary Gear Pump",
+      "full_title": "SS316 Rotary Gear Pump, 1/2 inch, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/ss316-rotary-gear-pump-2850014053712.html",
+      "price": {
+        "amount": 9999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629520720/TP/WV/XM/30258400/ss316-rotary-gear-pump-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629520720/TP/WV/XM/30258400/ss316-rotary-gear-pump-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629521789/BZ/JF/BX/30258400/ss316-rotary-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629521789/BZ/JF/BX/30258400/ss316-rotary-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/RP/LB/AB/30258400/ss-rotary-gear-pump-1-page-0001-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/RP/LB/AB/30258400/ss-rotary-gear-pump-1-page-0001-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/NC/KS/PY/30258400/comely-ss-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/NC/KS/PY/30258400/comely-ss-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629541888/EL/SY/CL/30258400/ss316-rotary-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629541888/EL/SY/CL/30258400/ss316-rotary-gear-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=EJpK3k0__FE",
+      "description": [
+        "The SS316 Rotary Gear Pump is a premium, high-efficiency pump designed to handle a wide range of fluids, including aggressive chemicals, oils, and other industrial liquids. Made from SS316 stainless steel, this pump offers exceptional durability, corrosion resistance, and hygienic properties, making it ideal for demanding industries such as chemicals, pharmaceuticals, food processing, and petrochemicals. Its precision-engineered gears provide reliable, smooth, and consistent fluid transfer, ensuring minimal pulsation and a steady flow."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "10.1–25 L/min"
+        },
+        {
+          "label": "Capacity",
+          "value": "25 LPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "10 bar"
+        },
+        {
+          "label": "Pump Size",
+          "value": "1/2 inch"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "1 HP"
+        },
+        {
+          "label": "Pump Material",
+          "value": "SS316"
+        },
+        {
+          "label": "Head",
+          "value": "10 m"
+        },
+        {
+          "label": "Pump Grade",
+          "value": "SS316"
+        },
+        {
+          "label": "Medium",
+          "value": "Pharma Liquid, Veg Oil, Detergent, Chemicals, Milk, Alcohol, Acid, Water, Syrup, Solvent"
+        },
+        {
+          "label": "Seal Type",
+          "value": "Gland Packed"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mount"
+        },
+        {
+          "label": "Application",
+          "value": "Chemical Plant, Dairy, Food Industry, Cosmetic Plant, Pharma Industry"
+        },
+        {
+          "label": "Suction Type",
+          "value": "Self Priming"
+        },
+        {
+          "label": "Gear",
+          "value": "Stainless Steel 316"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [
+        {
+          "label": "Temperature",
+          "value": "Available up to 300° C Max"
+        },
+        {
+          "label": "Sealing",
+          "value": "Oil Seal or Gland"
+        },
+        {
+          "label": "Range",
+          "value": "5 To 2500 Liter Per Minute"
+        },
+        {
+          "label": "Gears",
+          "value": "Stainless Steel - Single Helical/Double Helical"
+        },
+        {
+          "label": "Shaft",
+          "value": "Stainless Steel - Hardened & Ground"
+        },
+        {
+          "label": "Size",
+          "value": "1/4\" To 8\" B.S.P."
+        },
+        {
+          "label": "Bush",
+          "value": "Self Lubricated Sintered Bronze Bushes"
+        },
+        {
+          "label": "Material Of Construction + Pump Body",
+          "value": "Stainless Steel"
+        },
+        {
+          "label": "Liquid",
+          "value": "All General Purpose Viscous Fluid Like Lube Oil, Paints, Edible Oil Etc."
+        },
+        {
+          "label": "Built In Maximum Working Pressure",
+          "value": "10 Kg/Cm2"
+        }
+      ]
+    },
+    {
+      "id": "ss-02",
+      "indiamart_id": "2853725758412",
+      "slug": "edible-oil-transfer-pump-8412",
+      "name": "Edible Oil Transfer Pump",
+      "full_title": "Gear Edible Oil Transfer Pump, SS316 Food Grade, 2 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/edible-oil-transfer-pump-2853725758412.html",
+      "price": {
+        "amount": 14999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629521938/NV/ZS/FY/30258400/edible-oil-transfer-pump-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629521938/NV/ZS/FY/30258400/edible-oil-transfer-pump-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629541746/IJ/BU/BZ/30258400/edible-oil-transfer-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629541746/IJ/BU/BZ/30258400/edible-oil-transfer-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319917656/XZ/EI/UG/30258400/comely-ss-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319917656/XZ/EI/UG/30258400/comely-ss-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629522060/ZT/GP/ET/30258400/edible-oil-transfer-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629522060/ZT/GP/ET/30258400/edible-oil-transfer-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/IOS/Default/2024/3/404795564/AD/CL/AK/30258400/product-jpeg-250x250.png",
+          "large": "https://5.imimg.com/data5/IOS/Default/2024/3/404795564/AD/CL/AK/30258400/product-jpeg-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=cFOizUeLKNM",
+      "description": [
+        "The Edible Oil Transfer Pump is a high-performance pump designed specifically for transferring edible oils and other food-grade liquids. Engineered with precision and built from materials that meet the highest hygiene standards, this pump offers a reliable, efficient, and safe solution for the food industry. Whether used in large-scale manufacturing, processing, or bottling plants, the Edible Oil Transfer Pump ensures smooth and consistent fluid transfer while preserving the quality and integrity of the oils."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "50 LPM"
+        },
+        {
+          "label": "Capacity",
+          "value": "50 LPM"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "300 LPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "10 bar"
+        },
+        {
+          "label": "Pump Size",
+          "value": "1 inch"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Gear"
+        },
+        {
+          "label": "Motor Power",
+          "value": "2 HP"
+        },
+        {
+          "label": "Pump Grade",
+          "value": "SS316"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Lubricating Oil, Hydraulic Oil, Gear Oil, Thermic Oil, Engine Oil, Furnace Oil"
+        },
+        {
+          "label": "Medium",
+          "value": "Acid, Chemicals, Pharma Liquid, Alcohol, Syrup, Detergent, Veg Oil, Solvent, Milk, Water"
+        },
+        {
+          "label": "Viscosity Range",
+          "value": "460 to 1000 cSt"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Seal Type",
+          "value": "Gland Packed"
+        },
+        {
+          "label": "Body Material",
+          "value": "SS316"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Delivery Size",
+          "value": "1\" B.S.P."
+        },
+        {
+          "label": "Head",
+          "value": "10 m"
+        },
+        {
+          "label": "Material",
+          "value": "SS316 Food Grade"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mount"
+        },
+        {
+          "label": "Mounting",
+          "value": "Base Mounted"
+        },
+        {
+          "label": "Application",
+          "value": "Dairy, Pharma Industry, Chemical Plant, Cosmetic Plant, Food Industry"
+        },
+        {
+          "label": "Suction Type",
+          "value": "Self Priming"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [
+        {
+          "label": "Temperature",
+          "value": "Available up to 300° C Max"
+        },
+        {
+          "label": "Sealing",
+          "value": "Oil Seal or Gland"
+        },
+        {
+          "label": "Range",
+          "value": "5 To 2500 Liter Per Minute"
+        },
+        {
+          "label": "Gears",
+          "value": "Stainless Steel - Single Helical/Double Helical"
+        },
+        {
+          "label": "Shaft",
+          "value": "Stainless Steel - Hardened & Ground"
+        },
+        {
+          "label": "Size",
+          "value": "1/4\" To 8\" B.S.P."
+        },
+        {
+          "label": "Bush",
+          "value": "Self Lubricated Sintered Bronze Bushes"
+        },
+        {
+          "label": "Material Of Construction + Pump Body",
+          "value": "Stainless Steel"
+        },
+        {
+          "label": "Liquid",
+          "value": "All General Purpose Viscous Fluid Like Lube Oil, Paints, Edible Oil Etc."
+        },
+        {
+          "label": "Built In Maximum Working Pressure",
+          "value": "10 Kg/Cm2"
+        }
+      ]
+    },
+    {
+      "id": "ss-03",
+      "indiamart_id": "2853229563412",
+      "slug": "ss-gear-pump-1-inch-3412",
+      "name": "SS Gear Pump 1 Inch",
+      "full_title": "SS Gear Pump (Stainless Steel Rotary Gear Pump), 1 inch, 2 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/ss-gear-pump-2853229563412.html",
+      "price": {
+        "amount": 14999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/378386591/PA/LC/OY/30258400/rotary-gear-pump-ss-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/378386591/PA/LC/OY/30258400/rotary-gear-pump-ss-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/378386604/MS/TE/JB/30258400/rotary-gear-pump-ss-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/378386604/MS/TE/JB/30258400/rotary-gear-pump-ss-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/378387756/OD/TR/AV/30258400/rotary-gear-pump-ss-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/378387756/OD/TR/AV/30258400/rotary-gear-pump-ss-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/5/419727068/AG/FZ/VF/30258400/ss-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/5/419727068/AG/FZ/VF/30258400/ss-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/378388061/XP/YQ/HG/30258400/rotary-gear-pump-ss-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/378388061/XP/YQ/HG/30258400/rotary-gear-pump-ss-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/5/419728038/SX/YW/OQ/30258400/ss-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/5/419728038/SX/YW/OQ/30258400/ss-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/9/452641022/KG/AP/CL/30258400/ss-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/9/452641022/KG/AP/CL/30258400/ss-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/10/552841472/FG/WC/QX/30258400/stainless-steel-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/10/552841472/FG/WC/QX/30258400/stainless-steel-gear-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=kqePEVIThtg",
+      "description": [
+        "The SS Gear Pump (Stainless Steel Gear Pump) is a high-performance, reliable fluid transfer pump designed for industries requiring the movement of various liquids, including those that are viscous, abrasive, or corrosive. Made from high-quality stainless steel, this pump provides durability, resistance to corrosion, and superior performance in demanding environments. Whether used in chemical processing, food and beverage, pharmaceuticals, or other industrial applications, the SS Gear Pump ensures efficient and reliable operation for both low and high viscosity fluids.",
+        "This pump is made to provide sturdy design and construction to ensure long trouble-free life with best performance. Built in maximum working pressure is 10 Kg/Cm2."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "50 LPM"
+        },
+        {
+          "label": "Capacity",
+          "value": "50 LPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "10 bar"
+        },
+        {
+          "label": "Pump Size",
+          "value": "1 inch"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "2 HP"
+        },
+        {
+          "label": "Pump Grade",
+          "value": "SS316"
+        },
+        {
+          "label": "Head",
+          "value": "10 m"
+        },
+        {
+          "label": "Medium",
+          "value": "Solvent, Water, Acid, Syrup, Detergent, Chemicals, Veg Oil, Milk, Alcohol, Pharma Liquid"
+        },
+        {
+          "label": "Seal Type",
+          "value": "Gland Packed"
+        },
+        {
+          "label": "Design Type",
+          "value": "Stainless Steel Rotary Gear Pump"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mount"
+        },
+        {
+          "label": "Frequency",
+          "value": "50 Hz"
+        },
+        {
+          "label": "Application",
+          "value": "Food liquid, juice, chemical, non-corrosive fluid transfer"
+        },
+        {
+          "label": "Suction Type",
+          "value": "Self Priming"
+        },
+        {
+          "label": "Inlet Size",
+          "value": "1\" B.S.P."
+        },
+        {
+          "label": "Material",
+          "value": "SS316"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [
+        {
+          "label": "Temperature",
+          "value": "Available up to 300° C Max"
+        },
+        {
+          "label": "Sealing",
+          "value": "Oil Seal or Gland"
+        },
+        {
+          "label": "Range",
+          "value": "5 To 2500 Liter Per Minute"
+        },
+        {
+          "label": "Gears",
+          "value": "Stainless Steel - Single Helical/Double Helical"
+        },
+        {
+          "label": "Shaft",
+          "value": "Stainless Steel - Hardened & Ground"
+        },
+        {
+          "label": "Size",
+          "value": "1/4\" To 8\" B.S.P."
+        },
+        {
+          "label": "Bush",
+          "value": "Self Lubricated Sintered Bronze Bushes"
+        },
+        {
+          "label": "Material Of Construction + Pump Body",
+          "value": "Stainless Steel"
+        },
+        {
+          "label": "Liquid",
+          "value": "All General Purpose Viscous Fluid Like Lube Oil, Paints, Edible Oil Etc."
+        },
+        {
+          "label": "Built In Maximum Working Pressure",
+          "value": "10 Kg/Cm2"
+        }
+      ]
+    },
+    {
+      "id": "ss-04",
+      "indiamart_id": "2850709019488",
+      "slug": "stainless-steel-gear-pump-1-2-inch-20-lpm-9488",
+      "name": "Stainless Steel Gear Pump 1/2 Inch (20 LPM)",
+      "full_title": "Stainless Steel Gear Pump, 1/2 inch, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stainless-steel-gear-pump-2850709019488.html",
+      "price": {
+        "amount": 14999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/316422152/TM/AD/ZH/30258400/stainless-steel-gear-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/316422152/TM/AD/ZH/30258400/stainless-steel-gear-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/299576564/ZI/PZ/QL/30258400/stainless-steel-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/299576564/ZI/PZ/QL/30258400/stainless-steel-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/299576585/CX/FT/AC/30258400/stainless-steel-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/299576585/CX/FT/AC/30258400/stainless-steel-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318502713/BG/QV/OM/30258400/stainless-steel-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318502713/BG/QV/OM/30258400/stainless-steel-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/5/419725985/TG/AA/QK/30258400/stainless-steel-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/5/419725985/TG/AA/QK/30258400/stainless-steel-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/9/452641022/KG/AP/CL/30258400/ss-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/9/452641022/KG/AP/CL/30258400/ss-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/5/419728521/PE/DL/MW/30258400/stainless-steel-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/5/419728521/PE/DL/MW/30258400/stainless-steel-gear-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=v7L-_uQT4-c",
+      "description": [
+        "The Stainless-Steel Gear Pump is a high-performance, reliable fluid transfer pump designed to handle a wide variety of liquids, including corrosive, abrasive, or viscous fluids. Made from high-quality stainless steel, this pump is built to withstand harsh environments and is perfect for industries that demand exceptional corrosion resistance, durability, and consistent fluid flow. Whether used in chemical, food and beverage, pharmaceutical, or industrial applications, the Stainless-Steel Gear Pump ensures reliable operation and minimal maintenance.",
+        "This pump is made to provide sturdy design and construction to ensure long trouble-free life with best performance. Built in maximum working pressure is 10 Kg/Cm2."
+      ],
+      "specifications": [
+        {
+          "label": "Capacity",
+          "value": "25 LPM"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "10 bar"
+        },
+        {
+          "label": "Pump Size",
+          "value": "1/2 inch"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "1 HP"
+        },
+        {
+          "label": "Pump Grade",
+          "value": "SS316"
+        },
+        {
+          "label": "Medium",
+          "value": "Alcohol, Water, Milk, Solvent, Detergent, Acid, Pharma Liquid, Chemicals, Syrup, Veg Oil"
+        },
+        {
+          "label": "Seal Type",
+          "value": "Gland Packed"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mount"
+        },
+        {
+          "label": "Application",
+          "value": "Food Industry, Dairy, Chemical Plant, Pharma Industry, Cosmetic Plant"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Fluid Transfer, Food Liquid Transfer"
+        },
+        {
+          "label": "Suction Type",
+          "value": "Self Priming"
+        },
+        {
+          "label": "Material",
+          "value": "Stainless Steel"
+        },
+        {
+          "label": "Gear",
+          "value": "Stainless Steel"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready in Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Corrugated / Wooden Box"
+        }
+      ],
+      "product_details": [
+        {
+          "label": "Temperature",
+          "value": "Available up to 300° C Max"
+        },
+        {
+          "label": "Sealing",
+          "value": "Oil Seal or Gland"
+        },
+        {
+          "label": "Range",
+          "value": "5 To 2500 Liter Per Minute"
+        },
+        {
+          "label": "Gears",
+          "value": "Stainless Steel - Single Helical/Double Helical"
+        },
+        {
+          "label": "Shaft",
+          "value": "Stainless Steel - Hardened & Ground"
+        },
+        {
+          "label": "Size",
+          "value": "1/4\" To 8\" B.S.P."
+        },
+        {
+          "label": "Bush",
+          "value": "Self Lubricated Sintered Bronze Bushes"
+        },
+        {
+          "label": "Material Of Construction + Pump Body",
+          "value": "Stainless Steel"
+        },
+        {
+          "label": "Liquid",
+          "value": "All General Purpose Viscous Fluid Like Lube Oil, Paints, Edible Oil Etc."
+        },
+        {
+          "label": "Built In Maximum Working Pressure",
+          "value": "10 Kg/Cm2"
+        }
+      ]
+    },
+    {
+      "id": "ss-05",
+      "indiamart_id": "2853229563312",
+      "slug": "ss-rotary-gear-pump-3312",
+      "name": "SS Rotary Gear Pump",
+      "full_title": "SS Rotary Gear Pump, SS316, 1 inch, 2 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/ss-rotary-gear-pump-2853229563312.html",
+      "price": {
+        "amount": 14999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629522267/ON/UI/LL/30258400/ss-rotary-gear-pump-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629522267/ON/UI/LL/30258400/ss-rotary-gear-pump-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/5/419728164/GD/JR/MK/30258400/ss-rotary-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/5/419728164/GD/JR/MK/30258400/ss-rotary-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629541325/KD/RK/DI/30258400/ss-rotary-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629541325/KD/RK/DI/30258400/ss-rotary-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629522327/GZ/KW/MF/30258400/ss-rotary-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629522327/GZ/KW/MF/30258400/ss-rotary-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/378405826/HP/SC/LV/30258400/ss-rotary-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/378405826/HP/SC/LV/30258400/ss-rotary-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/378405841/GV/GG/PL/30258400/ss-rotary-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/378405841/GV/GG/PL/30258400/ss-rotary-gear-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=kqePEVIThtg",
+      "description": [
+        "The SS Rotary Gear Pump (Stainless Steel Rotary Gear Pump) is an advanced and highly efficient fluid transfer solution designed to handle a wide range of liquids, including high-viscosity fluids, chemicals, and oils. Made from high-quality stainless steel, this pump offers superior corrosion resistance, making it ideal for demanding industrial environments. Its precise engineering ensures smooth, reliable operation, providing consistent flow rates and dependable performance across various applications, including chemicals, food and beverage, pharmaceuticals, and petrochemicals.",
+        "This pump is made to provide sturdy design and construction to ensure long trouble-free life with best performance. Built in maximum working pressure is 10 Kg/Cm2."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "50 LPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "10 bar"
+        },
+        {
+          "label": "Pump Size",
+          "value": "1 inch"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "2 HP"
+        },
+        {
+          "label": "Pump Grade",
+          "value": "SS316"
+        },
+        {
+          "label": "Pump Material",
+          "value": "SS316"
+        },
+        {
+          "label": "Head",
+          "value": "10 m"
+        },
+        {
+          "label": "Medium",
+          "value": "Veg Oil, Furnace Oil, LDO, Chemical, Molasses, Resin, Syrup, Diesel, Oil"
+        },
+        {
+          "label": "Seal Type",
+          "value": "Gland Packed"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mount"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "1000 RPM"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "50 bar"
+        },
+        {
+          "label": "Heating Jacket",
+          "value": "Without Jacket"
+        },
+        {
+          "label": "Application",
+          "value": "Pharma Industry, Chemical Plant, Dairy, Cosmetic Plant, Food Industry"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [
+        {
+          "label": "Temperature",
+          "value": "Available up to 300° C Max"
+        },
+        {
+          "label": "Sealing",
+          "value": "Oil Seal or Gland"
+        },
+        {
+          "label": "Range",
+          "value": "5 To 2500 Liter Per Minute"
+        },
+        {
+          "label": "Gears",
+          "value": "Stainless Steel - Single Helical/Double Helical"
+        },
+        {
+          "label": "Shaft",
+          "value": "Stainless Steel - Hardened & Ground"
+        },
+        {
+          "label": "Size",
+          "value": "1/4\" To 8\" B.S.P."
+        },
+        {
+          "label": "Bush",
+          "value": "Self Lubricated Sintered Bronze Bushes"
+        },
+        {
+          "label": "Material Of Construction + Pump Body",
+          "value": "Stainless Steel"
+        },
+        {
+          "label": "Liquid",
+          "value": "All General Purpose Viscous Fluid Like Lube Oil, Paints, Edible Oil Etc."
+        },
+        {
+          "label": "Built In Maximum Working Pressure",
+          "value": "10 Kg/Cm2"
+        }
+      ]
+    },
+    {
+      "id": "ss-06",
+      "indiamart_id": "2851625596597",
+      "slug": "stainless-steel-rotary-gear-pump-25-lpm-6597",
+      "name": "Stainless Steel Rotary Gear Pump 25 LPM",
+      "full_title": "Stainless Steel Rotary Gear Pump, SS316, 25 LPM, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stainless-steel-gear-pump-2851625596597.html",
+      "price": {
+        "amount": 12500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319924672/VH/TU/QG/30258400/stainless-steel-rotary-gear-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319924672/VH/TU/QG/30258400/stainless-steel-rotary-gear-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/10/552841472/FG/WC/QX/30258400/stainless-steel-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/10/552841472/FG/WC/QX/30258400/stainless-steel-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232818/PQ/LD/EA/30258400/stainless-steel-rotary-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232818/PQ/LD/EA/30258400/stainless-steel-rotary-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/6/319921416/ER/GA/LC/30258400/stainless-steel-rotary-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/6/319921416/ER/GA/LC/30258400/stainless-steel-rotary-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/9/452644447/PD/GH/PH/30258400/ss316-rotary-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/9/452644447/PD/GH/PH/30258400/ss316-rotary-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/IOS/Default/2024/2/388273802/RJ/MU/MD/30258400/product-jpeg-250x250.png",
+          "large": "https://5.imimg.com/data5/IOS/Default/2024/2/388273802/RJ/MU/MD/30258400/product-jpeg-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233353/TE/QZ/RR/30258400/stainless-steel-rotary-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233353/TE/QZ/RR/30258400/stainless-steel-rotary-gear-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=-ftONdM9ucY",
+      "description": [
+        "The Stainless-Steel Rotary Gear Pump is a high-performance, reliable, and efficient pump designed for transferring a variety of fluids in demanding industrial applications. Built with stainless steel construction, these pumps offer superior corrosion resistance, hygienic properties, and exceptional durability. Ideal for industries such as chemicals, food and beverage, pharmaceuticals, and oil and gas, these pumps ensure smooth, pulsation-free, and accurate fluid transfer."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "25 LPM"
+        },
+        {
+          "label": "Capacity",
+          "value": "25 LPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "10 bar"
+        },
+        {
+          "label": "Pump Size",
+          "value": "1/2 inch"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Pump Grade",
+          "value": "SS316"
+        },
+        {
+          "label": "Head",
+          "value": "10 m"
+        },
+        {
+          "label": "Medium",
+          "value": "Syrup, Pharma Liquid, Milk, Water, Acid, Solvent, Chemicals, Veg Oil"
+        },
+        {
+          "label": "Seal Type",
+          "value": "Gland Packed"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "1 HP"
+        },
+        {
+          "label": "Design Type",
+          "value": "Stainless Steel Rotary Gear Pump"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mount"
+        },
+        {
+          "label": "Application",
+          "value": "Chemical Plant, Dairy, Cosmetic Plant, Pharma Industry, Food Industry"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Edible Oil Transfer Pump"
+        },
+        {
+          "label": "Suction Type",
+          "value": "Self Priming"
+        },
+        {
+          "label": "Inlet Size",
+          "value": "1/2\" B.S.P."
+        },
+        {
+          "label": "Material",
+          "value": "SS316"
+        },
+        {
+          "label": "Maximum Discharge Flow",
+          "value": "1500 LPH"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [
+        {
+          "label": "Temperature",
+          "value": "Available up to 300° C Max"
+        },
+        {
+          "label": "Sealing",
+          "value": "Oil Seal or Gland"
+        },
+        {
+          "label": "Range",
+          "value": "5 To 2500 Liter Per Minute"
+        },
+        {
+          "label": "Gears",
+          "value": "Stainless Steel - Single Helical/Double Helical"
+        },
+        {
+          "label": "Shaft",
+          "value": "Stainless Steel - Hardened & Ground"
+        },
+        {
+          "label": "Size",
+          "value": "1/4\" To 8\" B.S.P."
+        },
+        {
+          "label": "Bush",
+          "value": "Self Lubricated Sintered Bronze Bushes"
+        },
+        {
+          "label": "Material Of Construction + Pump Body",
+          "value": "Stainless Steel"
+        },
+        {
+          "label": "Liquid",
+          "value": "All General Purpose Viscous Fluid Like Lube Oil, Paints, Edible Oil Etc."
+        },
+        {
+          "label": "Built In Maximum Working Pressure",
+          "value": "10 Kg/Cm2"
+        }
+      ]
+    }
+  ]
+}

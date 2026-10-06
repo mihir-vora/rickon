@@ -1,0 +1,1617 @@
+{
+  "category": {
+    "id": "stone-crusher-spare-parts",
+    "name": "Stone Crusher Spare Parts",
+    "indiamart_url": "https://www.indiamart.com/rickon-engineering-ahmedabad/stone-crusher-spare-parts.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/ZM/KA/LR/30258400/hydraulic-with-tank-single-500x500.jpg",
+    "indiamart_count": 13,
+    "extracted_count": 13,
+    "extracted_on": "2026-10-06"
+  },
+  "products": [
+    {
+      "id": "ssp-01",
+      "indiamart_id": "2849918751833",
+      "slug": "crusher-machine-oil-pump-with-tank-1833",
+      "name": "Crusher Machine Oil Pump with Tank",
+      "full_title": "Crusher Machine Oil Pump (Oil Pump System for Lubrication, 42 L)",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/crusher-machine-oil-pump-2849918751833.html",
+      "price": {
+        "amount": 20000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/ZM/KA/LR/30258400/hydraulic-with-tank-single-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/ZM/KA/LR/30258400/hydraulic-with-tank-single-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/WR/AH/MY/30258400/lubrication-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/WR/AH/MY/30258400/lubrication-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/11/UV/PL/ET/30258400/1-hp-hydraulic-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/11/UV/PL/ET/30258400/1-hp-hydraulic-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/CH/GT/SR/SELLER-30258400/oil-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/CH/GT/SR/SELLER-30258400/oil-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2023/1/BZ/ZK/SJ/30258400/helical-gear-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2023/1/BZ/ZK/SJ/30258400/helical-gear-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/FO/EC/PL/30258400/cone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/FO/EC/PL/30258400/cone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2023/1/NY/HD/IQ/30258400/crusher-machine-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2023/1/NY/HD/IQ/30258400/crusher-machine-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=MafPceirKCk",
+      "description": [
+        "The Crusher Machine Oil Pump is an essential component for maintaining optimal performance and extending the lifespan of crushers in various industrial applications. Designed to provide continuous, efficient lubrication to the moving parts of crushers, this oil pump ensures smooth operation, reduces friction, and helps prevent overheating, all of which are crucial for maximizing productivity and minimizing downtime in crushing operations."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Gear Pump"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Jaw Crusher"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Capacity",
+          "value": "10 LPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "5 bar"
+        },
+        {
+          "label": "Size",
+          "value": "42 Litre"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Driven By",
+          "value": "Electric Motor"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Compatible Fluid",
+          "value": "Hydraulic Oil"
+        },
+        {
+          "label": "Suitable Oil",
+          "value": "Hydraulic Oil, Gear Oil, Lubricating Oil, Engine Oil"
+        },
+        {
+          "label": "Power Rating",
+          "value": "1 HP"
+        },
+        {
+          "label": "Bolt Type",
+          "value": "Coupling Bolt"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mounted"
+        },
+        {
+          "label": "Connection Size",
+          "value": "0.5 inch"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "12 LPM"
+        },
+        {
+          "label": "Application",
+          "value": "Machine Tools, Gearbox, Hydraulic System, Compressor"
+        },
+        {
+          "label": "Product Type",
+          "value": "Oil Pump System for Lubrication"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Motor",
+          "value": "1 HP"
+        },
+        {
+          "label": "RPM",
+          "value": "1440 RPM"
+        },
+        {
+          "label": "Oil Capacity",
+          "value": "12 LPM"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Tank Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-02",
+      "indiamart_id": "2851611112433",
+      "slug": "crusher-oil-pump-ci-rotary-2433",
+      "name": "Crusher Oil Pump (CI Rotary)",
+      "full_title": "Crusher Oil Pump, Gear, 20 LPM, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/crusher-oil-pump-2851611112433.html",
+      "price": {
+        "amount": 3737,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319333574/PT/AU/OU/30258400/ci-rotary-oil-gear-pump-2--500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319333574/PT/AU/OU/30258400/ci-rotary-oil-gear-pump-2--500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319339229/GZ/AA/DY/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319339229/GZ/AA/DY/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319339259/VG/RO/NG/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319339259/VG/RO/NG/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/6/319339401/FI/PS/AD/30258400/crusher-oil-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/6/319339401/FI/PS/AD/30258400/crusher-oil-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/319484236/QV/EK/WI/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/319484236/QV/EK/WI/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/319484237/TI/DQ/BF/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/319484237/TI/DQ/BF/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/319484238/BC/OK/JS/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/319484238/BC/OK/JS/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/319484239/WI/PG/WT/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/319484239/WI/PG/WT/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/319484240/GM/PZ/QA/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/319484240/GM/PZ/QA/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=_EccVUuyrAg",
+      "description": [
+        "The Crusher Oil Pump is a vital component for ensuring the smooth and efficient operation of crushers in demanding industrial environments. Designed to provide consistent and high-quality lubrication to critical parts of the crusher, this oil pump helps prevent overheating, reduces friction, and minimizes wear and tear, ultimately extending the lifespan of the equipment and improving its operational efficiency."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Gear Pump"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher"
+        },
+        {
+          "label": "Capacity",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Driven By",
+          "value": "Electric Motor"
+        },
+        {
+          "label": "Size",
+          "value": "12 inch"
+        },
+        {
+          "label": "Head",
+          "value": "5 m"
+        },
+        {
+          "label": "Power Rating",
+          "value": "1 HP"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Shape",
+          "value": "Square"
+        },
+        {
+          "label": "Compatible Fluid",
+          "value": "Engine Oil, Fuel Oil, Lubricating Oil, Gear Oil, Edible Oil, Hydraulic Oil"
+        },
+        {
+          "label": "Suitable Oil",
+          "value": "Diesel, Lubricating Oil, Gear Oil, Fuel Oil, Engine Oil, Edible Oil, Hydraulic Oil"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Voltage",
+          "value": "430 V"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "10 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Flange Mounted"
+        },
+        {
+          "label": "Frequency",
+          "value": "50 Hz"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "22 LPM"
+        },
+        {
+          "label": "Flow Range",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Rotary Speed",
+          "value": "960 RPM"
+        },
+        {
+          "label": "Winding",
+          "value": "100% Copper"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-03",
+      "indiamart_id": "20815670773",
+      "slug": "1-hp-coolant-pump-0773",
+      "name": "1 HP Coolant Pump",
+      "full_title": "1 HP Coolant Pump (Model CC01)",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/1hp-coolant-pump-20815670773.html",
+      "price": {
+        "amount": 11999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/3/496831373/AP/FK/FH/30258400/1hp-coolant-pump-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/3/496831373/AP/FK/FH/30258400/1hp-coolant-pump-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/CU/GO/HB/SELLER-30258400/13-250x250.JPG",
+          "large": "https://5.imimg.com/data5/CU/GO/HB/SELLER-30258400/13-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/BO/TL/VU/30258400/coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/BO/TL/VU/30258400/coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/LR/QN/WR/30258400/coolant-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/LR/QN/WR/30258400/coolant-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/QK/GB/WB/30258400/coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/QK/GB/WB/30258400/coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/7/438574147/FM/WI/OG/30258400/0-75hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/7/438574147/FM/WI/OG/30258400/0-75hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539590438/DX/MJ/KU/30258400/1hp-coolant-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539590438/DX/MJ/KU/30258400/1hp-coolant-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=EJpK3k0__FE",
+      "description": [
+        "The 1 HP Coolant Pump is a robust and high-performance solution designed for industrial applications that require powerful and efficient coolant circulation. With its 1 horsepower motor, this pump provides exceptional cooling capacity to prevent overheating and maintain the optimal operating temperature of machinery, engines, and equipment. Perfect for use in demanding industries such as metalworking, automotive, manufacturing, and CNC machining, this pump is engineered for durability, energy efficiency, and low maintenance, ensuring that your systems continue running smoothly and effectively."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Types Of Fluids",
+          "value": "Cutting Oil"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Crusher Machines, CNC Machines, Oil Circulation Machines"
+        },
+        {
+          "label": "Product Type",
+          "value": "Oil Pump"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Discharge Range",
+          "value": ">100 LPM"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "CC01"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Fuel Type",
+          "value": "Electric"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "210 LPM"
+        },
+        {
+          "label": "Head",
+          "value": "10 m"
+        },
+        {
+          "label": "Weight",
+          "value": "25 kg"
+        },
+        {
+          "label": "MS Shaft Grade",
+          "value": "EN8"
+        },
+        {
+          "label": "Duty",
+          "value": "Heavy Duty"
+        },
+        {
+          "label": "Speed",
+          "value": "2880 RPM"
+        },
+        {
+          "label": "Delivery Size",
+          "value": "1\" BSPF"
+        },
+        {
+          "label": "Working",
+          "value": "CNC Machine, Stone Crusher Machine, Plastic Machine"
+        },
+        {
+          "label": "Bearing",
+          "value": "SKF"
+        },
+        {
+          "label": "Impeller",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Bracket Length",
+          "value": "270 mm"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-04",
+      "indiamart_id": "2849918917188",
+      "slug": "stone-crusher-oil-pump-with-85-l-tank-ci-7188",
+      "name": "Stone Crusher Oil Pump with 85 L Tank (CI)",
+      "full_title": "Cast Iron Stone Crusher Oil Pump, 12 inch, 85 L tank",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-oil-pump-2849918917188.html",
+      "price": {
+        "amount": 25667,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/UF/BL/MK/30258400/hydraulic-with-tank-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/UF/BL/MK/30258400/hydraulic-with-tank-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/ZM/KA/LR/30258400/hydraulic-with-tank-single-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/ZM/KA/LR/30258400/hydraulic-with-tank-single-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/WC/ZV/YW/30258400/lubrication-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/WC/ZV/YW/30258400/lubrication-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/11/UV/PL/ET/30258400/1-hp-hydraulic-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/11/UV/PL/ET/30258400/1-hp-hydraulic-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/UW/GF/CC/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/UW/GF/CC/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864701/ZP/EW/LN/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864701/ZP/EW/LN/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079474/US/UC/NQ/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079474/US/UC/NQ/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864735/KK/SF/KJ/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864735/KK/SF/KJ/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=s3DKBr8XhBk",
+      "description": [
+        "The Stone Crusher Oil Pump is an essential component designed to provide consistent and efficient lubrication for stone crushers, ensuring smooth operation and extending the life of critical moving parts. As stone crushers are exposed to high levels of stress, dust, and vibrations, the oil pump plays a crucial role in maintaining lubrication and preventing wear and tear, ultimately enhancing the performance and reliability of the machine."
+      ],
+      "specifications": [
+        {
+          "label": "Usage/Application",
+          "value": "Crusher Machine"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Size",
+          "value": "12 inch"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "12 LPM"
+        },
+        {
+          "label": "Product Type",
+          "value": "Oil Pump System for Lubrication"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Motor",
+          "value": "1 HP"
+        },
+        {
+          "label": "RPM",
+          "value": "1440/960 RPM"
+        },
+        {
+          "label": "Flow Capacity",
+          "value": "12 LPM"
+        },
+        {
+          "label": "Oil Tank Capacity",
+          "value": "85 litre"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Tank Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-05",
+      "indiamart_id": "2849918980591",
+      "slug": "stone-crusher-oil-pump-with-85-l-tank-ms-0591",
+      "name": "Stone Crusher Oil Pump with 85 L Tank (MS)",
+      "full_title": "Mild Steel Stone Crusher Oil Pump, 0.5 HP, 85 L tank",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-oil-pump-2849918980591.html",
+      "price": {
+        "amount": 18933,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/NB/EB/NF/30258400/rotary-with-tank-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/NB/EB/NF/30258400/rotary-with-tank-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/AU/ID/IZ/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/AU/ID/IZ/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/EV/UK/JF/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/EV/UK/JF/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/NP/MW/CA/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/NP/MW/CA/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/SZ/XK/PW/30258400/stone-crusher-oil-pump-250x250.JPEG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/SZ/XK/PW/30258400/stone-crusher-oil-pump-500x500.JPEG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/DC/QE/KQ/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/DC/QE/KQ/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/VA/HA/BG/30258400/stone-crusher-oil-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/VA/HA/BG/30258400/stone-crusher-oil-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865808/YP/VY/SH/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865808/YP/VY/SH/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865822/OZ/MJ/ED/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865822/OZ/MJ/ED/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=MafPceirKCk",
+      "description": [
+        "Stone Crusher Oil Pumps are essential for maintaining smooth operation and longevity in stone crushing machinery. These pumps are designed to circulate oil throughout the crusher's moving parts, ensuring that friction is minimized, parts are properly lubricated, and heat is dissipated effectively. With robust performance in heavy-duty conditions, stone crusher oil pumps play a crucial role in keeping crushers running efficiently, even under the harshest operational environments."
+      ],
+      "specifications": [
+        {
+          "label": "Usage/Application",
+          "value": "Jaw Crusher"
+        },
+        {
+          "label": "Material",
+          "value": "Mild Steel"
+        },
+        {
+          "label": "Size",
+          "value": "12 inch"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Motor",
+          "value": "0.5 HP"
+        },
+        {
+          "label": "Max Flow Capacity",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Oil Tank Capacity",
+          "value": "85 litre"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-06",
+      "indiamart_id": "2849919036973",
+      "slug": "crusher-machine-oil-pump-with-40-l-tank-6973",
+      "name": "Crusher Machine Oil Pump with 40 L Tank",
+      "full_title": "Cast Iron Crusher Machine Oil Pump, 0.5 HP, 40 L tank",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/crusher-machine-oil-pump-2849919036973.html",
+      "price": {
+        "amount": 10653,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/NP/MW/CA/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/NP/MW/CA/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/SZ/XK/PW/30258400/stone-crusher-oil-pump-250x250.JPEG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/SZ/XK/PW/30258400/stone-crusher-oil-pump-500x500.JPEG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/AU/ID/IZ/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/AU/ID/IZ/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/EV/UK/JF/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/EV/UK/JF/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2023/1/EA/VN/RO/30258400/crusher-machine-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2023/1/EA/VN/RO/30258400/crusher-machine-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232745/PY/FQ/RJ/30258400/stainless-steel-rotary-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232745/PY/FQ/RJ/30258400/stainless-steel-rotary-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2023/1/BI/UP/WS/30258400/crusher-machine-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2023/1/BI/UP/WS/30258400/crusher-machine-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232818/PQ/LD/EA/30258400/stainless-steel-rotary-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232818/PQ/LD/EA/30258400/stainless-steel-rotary-gear-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=MafPceirKCk",
+      "description": [
+        "Crusher Machine Oil Pumps are vital components in the lubrication and cooling systems of crushing equipment, designed to circulate oil throughout the machinery to reduce friction, prevent overheating, and ensure smooth operation. These pumps play a critical role in maintaining the performance and extending the lifespan of crushers, such as jaw crushers, cone crushers, and impact crushers, by providing consistent lubrication to the critical parts that undergo heavy stress during operation."
+      ],
+      "specifications": [
+        {
+          "label": "Usage/Application",
+          "value": "Crusher Machine"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Size",
+          "value": "12 inch"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Motor",
+          "value": "0.5 HP"
+        },
+        {
+          "label": "Oil Flow Capacity",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Oil Tank Capacity",
+          "value": "40 litre"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-07",
+      "indiamart_id": "20815699948",
+      "slug": "stone-crusher-hydraulic-cylinder-ms-63-mm-9948",
+      "name": "Stone Crusher Hydraulic Cylinder (MS, 63 mm)",
+      "full_title": "Mild Steel Stone Crusher Hydraulic Cylinders, 12 inch",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-hydraulic-cylinders-20815699948.html",
+      "price": {
+        "amount": 5029,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/RU/KR/TG/SELLER-30258400/3-500x500.jpg",
+          "large": "https://5.imimg.com/data5/RU/KR/TG/SELLER-30258400/3-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/QE/FP/VR/30258400/stone-crusher-hydraulic-cylinders-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/QE/FP/VR/30258400/stone-crusher-hydraulic-cylinders-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/WD/TI/KE/30258400/stone-crusher-hydraulic-cylinders-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/WD/TI/KE/30258400/stone-crusher-hydraulic-cylinders-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/VK/XT/MX/30258400/stone-crusher-hydraulic-cylinders-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/VK/XT/MX/30258400/stone-crusher-hydraulic-cylinders-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/FC/QN/CL/30258400/stone-crusher-hydraulic-cylinders-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/FC/QN/CL/30258400/stone-crusher-hydraulic-cylinders-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/WZ/LN/DM/30258400/stone-crusher-hydraulic-cylinders-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/WZ/LN/DM/30258400/stone-crusher-hydraulic-cylinders-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/CE/NQ/NF/30258400/stone-crusher-hydraulic-cylinders-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/CE/NQ/NF/30258400/stone-crusher-hydraulic-cylinders-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/QN/ZC/YG/30258400/stone-crusher-hydraulic-cylinders-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/QN/ZC/YG/30258400/stone-crusher-hydraulic-cylinders-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/UT/DX/GZ/30258400/stone-crusher-hydraulic-cylinders-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/UT/DX/GZ/30258400/stone-crusher-hydraulic-cylinders-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=8kBM7efA854",
+      "description": [
+        "Stone Crusher Hydraulic Cylinders are essential components designed to provide the necessary force and control in stone crushing machinery. These cylinders are part of the hydraulic system that drives the crushing mechanism, enabling precise control of the crusher's movement. They ensure optimal performance by converting hydraulic energy into mechanical force, assisting in processes like adjusting the crusher's settings, managing pressure, and maintaining consistent operation. Hydraulic cylinders are built to withstand heavy loads and harsh environments, making them a vital part of any stone crushing operation."
+      ],
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Mild Steel"
+        },
+        {
+          "label": "Size",
+          "value": "12 inch"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Machine"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Color",
+          "value": "Black"
+        },
+        {
+          "label": "Features",
+          "value": "Heavy Duty Performance"
+        },
+        {
+          "label": "Finishing Type",
+          "value": "Painted"
+        },
+        {
+          "label": "Grade",
+          "value": "Heavy Duty"
+        },
+        {
+          "label": "Outer Diameter",
+          "value": "63 mm"
+        },
+        {
+          "label": "Packaging Type",
+          "value": "Box Packaging"
+        },
+        {
+          "label": "Product Type",
+          "value": "Hydraulic Cylinder"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-08",
+      "indiamart_id": "20815714355",
+      "slug": "stone-crusher-hydraulic-cylinder-ss-1-1-5-ton-4355",
+      "name": "Stone Crusher Hydraulic Cylinder (SS, 1-1.5 ton)",
+      "full_title": "Stainless Steel Stone Crusher Hydraulic Cylinders, 1-1.5 ton",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-hydraulic-cylinders-20815714355.html",
+      "price": {
+        "amount": 5029,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/IOS/Default/2024/1/381964482/VS/DF/KF/30258400/product-jpeg-500x500.png",
+          "large": "https://5.imimg.com/data5/IOS/Default/2024/1/381964482/VS/DF/KF/30258400/product-jpeg-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/PE/FD/NI/30258400/hydraulic-single-acting-cylinder-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/PE/FD/NI/30258400/hydraulic-single-acting-cylinder-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/KS/VL/KN/30258400/hydraulic-single-acting-cylinder-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/KS/VL/KN/30258400/hydraulic-single-acting-cylinder-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/CY/LF/CV/30258400/hydraulic-single-acting-cylinder-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/CY/LF/CV/30258400/hydraulic-single-acting-cylinder-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/RZ/NX/NK/30258400/hydraulic-single-acting-cylinder-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/RZ/NX/NK/30258400/hydraulic-single-acting-cylinder-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/PH/ZV/FI/SELLER-30258400/4-250x250.jpg",
+          "large": "https://5.imimg.com/data5/PH/ZV/FI/SELLER-30258400/4-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=evAsh4BqTCo",
+      "description": [
+        "Stone Crusher Hydraulic Cylinders are integral components of the hydraulic systems in crushing equipment. These cylinders are designed to provide powerful and precise hydraulic force, enabling smooth and controlled movement of the various parts within the crusher, such as the jaw plates, crushing head, and other key mechanisms. Their main role is to ensure the crushing process is efficient, consistent, and safe, even under heavy-duty conditions.",
+        "These cylinders are essential in achieving optimal performance and are engineered for durability, high pressure, and minimal downtime, ensuring your crushing operations are productive and reliable."
+      ],
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Stainless Steel"
+        },
+        {
+          "label": "Color",
+          "value": "Black"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Machine"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Fitting",
+          "value": "Square"
+        },
+        {
+          "label": "Capacity",
+          "value": "1-1.5 ton"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-09",
+      "indiamart_id": "2850709056333",
+      "slug": "single-acting-hydraulic-cylinder-ss-40-mm-bore-6333",
+      "name": "Single Acting Hydraulic Cylinder (SS, 40 mm bore)",
+      "full_title": "Stainless Steel Stone Crusher Hydraulic Cylinders, Single Acting, 12 inch",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-hydraulic-cylinders-2850709056333.html",
+      "price": {
+        "amount": 6800,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/5/312432012/WO/ZN/JB/30258400/single-acting-cylinder-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/5/312432012/WO/ZN/JB/30258400/single-acting-cylinder-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318534696/II/MA/TK/30258400/single-acting-cylinder-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318534696/II/MA/TK/30258400/single-acting-cylinder-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/5/312432671/KC/RG/KJ/30258400/single-acting-cylinder-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/5/312432671/KC/RG/KJ/30258400/single-acting-cylinder-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/5/312432468/PT/DJ/XQ/30258400/single-acting-cylinder-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/5/312432468/PT/DJ/XQ/30258400/single-acting-cylinder-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/5/304896348/VL/ZJ/ZU/30258400/single-acting-cylinder-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/5/304896348/VL/ZJ/ZU/30258400/single-acting-cylinder-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=rBIrus46jrE",
+      "description": [
+        "Stone Crusher Hydraulic Cylinders are specialized hydraulic components designed to provide the necessary force and control for the efficient operation of stone crushing machinery. These cylinders are an essential part of the hydraulic system, responsible for the movement of the crusher's various parts such as the jaws, crusher plates, and other related mechanisms. Designed for heavy-duty and demanding applications, stone crusher hydraulic cylinders play a critical role in ensuring smooth and effective crushing operations, maximizing productivity, and minimizing downtime."
+      ],
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Stainless Steel"
+        },
+        {
+          "label": "Cylinder Type",
+          "value": "Single Acting"
+        },
+        {
+          "label": "Size",
+          "value": "12 inch"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Machine"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Bore Diameter",
+          "value": "40 mm"
+        },
+        {
+          "label": "Oil Capacity",
+          "value": "1.3 L"
+        },
+        {
+          "label": "Flange",
+          "value": "Round"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-10",
+      "indiamart_id": "2850709056573",
+      "slug": "single-acting-hydraulic-cylinder-high-chrome-150-mm-stroke-6573",
+      "name": "Single Acting Hydraulic Cylinder (High Chrome, 150 mm stroke)",
+      "full_title": "High Chrome Stone Crusher Hydraulic Cylinders, Single Acting, 10 inch",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-hydraulic-cylinders-2850709056573.html",
+      "price": {
+        "amount": 6500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/3/591182352/KT/SF/UQ/30258400/stone-crusher-hydraulic-cylinders-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/3/591182352/KT/SF/UQ/30258400/stone-crusher-hydraulic-cylinders-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318604276/IJ/MW/OD/30258400/hydraulic-cylinder--250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318604276/IJ/MW/OD/30258400/hydraulic-cylinder--500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318604274/CS/UG/MG/30258400/hydraulic-cylinder--250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318604274/CS/UG/MG/30258400/hydraulic-cylinder--500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318604272/JP/NM/KU/30258400/hydraulic-cylinder--250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318604272/JP/NM/KU/30258400/hydraulic-cylinder--500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318604269/PN/SL/NL/30258400/hydraulic-cylinder--250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318604269/PN/SL/NL/30258400/hydraulic-cylinder--500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/5/312433135/US/FS/NO/30258400/hydraulic-cylinder-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/5/312433135/US/FS/NO/30258400/hydraulic-cylinder-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/299535731/IR/LQ/MQ/30258400/hydraulic-cylinder-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/299535731/IR/LQ/MQ/30258400/hydraulic-cylinder-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/299535729/MD/UM/BY/30258400/hydraulic-cylinder-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/299535729/MD/UM/BY/30258400/hydraulic-cylinder-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=rBIrus46jrE",
+      "description": [
+        "Stone Crusher Hydraulic Cylinders are essential components of the hydraulic system in stone crushing machinery, designed to provide the necessary force to move and adjust key parts of the equipment. These cylinders are crucial in ensuring smooth, efficient, and precise operations, even in the harshest working conditions. Built for heavy-duty tasks, they are ideal for applications in jaw crushers, cone crushers, and other crushing equipment."
+      ],
+      "specifications": [
+        {
+          "label": "Cylinder Type",
+          "value": "Single Acting"
+        },
+        {
+          "label": "Material",
+          "value": "High Chrome"
+        },
+        {
+          "label": "Size",
+          "value": "10 inch"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Machine"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Stroke",
+          "value": "150 mm"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Capacity",
+          "value": "1-1.5 ton"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-11",
+      "indiamart_id": "20815719055",
+      "slug": "stone-crusher-hydraulic-hand-pump-9055",
+      "name": "Stone Crusher Hydraulic Hand Pump",
+      "full_title": "Stone Crusher Hydraulic Hand Pump, 700 bar (Models HP-12, HP-16)",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-hydraulic-hand-pump-20815719055.html",
+      "price": {
+        "amount": 6000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/RM/PX/WT/SELLER-30258400/31-500x500.JPG",
+          "large": "https://5.imimg.com/data5/RM/PX/WT/SELLER-30258400/31-500x500.JPG",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/9/543912651/UY/TG/FA/30258400/hydraulic-hand-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/9/543912651/UY/TG/FA/30258400/hydraulic-hand-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/HG/BS/AE/30258400/hydraulic-hand-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/HG/BS/AE/30258400/hydraulic-hand-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/RQ/TZ/WM/30258400/hydraulic-hand-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/RQ/TZ/WM/30258400/hydraulic-hand-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/OZ/IY/FK/30258400/hydraulic-hand-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/OZ/IY/FK/30258400/hydraulic-hand-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871636/DV/SC/IZ/30258400/hydraulic-hand-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871636/DV/SC/IZ/30258400/hydraulic-hand-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871647/SE/OB/HR/30258400/hydraulic-hand-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871647/SE/OB/HR/30258400/hydraulic-hand-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871683/FQ/SY/DC/30258400/hydraulic-hand-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871683/FQ/SY/DC/30258400/hydraulic-hand-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=zOMcNCvVyoA",
+      "description": [
+        "A Hydraulic Hand Pump is a versatile and essential tool designed to provide hydraulic pressure manually, ideal for a variety of applications that require controlled fluid movement in hydraulic systems. This pump allows users to generate high-pressure fluid without the need for electric power, making it an excellent choice for both portable and stationary hydraulic applications. It is widely used in industries such as construction, automotive, machinery, and maintenance, providing an efficient solution for powering hydraulic cylinders, lifting equipment, and more."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Single Acting"
+        },
+        {
+          "label": "Material",
+          "value": "Steel"
+        },
+        {
+          "label": "Working Pressure",
+          "value": "700 bar"
+        },
+        {
+          "label": "Oil Capacity",
+          "value": "1 L"
+        },
+        {
+          "label": "Size",
+          "value": "1.2 Litre"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Injection Pump"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Base Mounted"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Application",
+          "value": "Hydraulic Jack, Crimping Tool, Hydraulic Press, Lifting, Puller, Workholding"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "HP-12, HP-16"
+        },
+        {
+          "label": "Color",
+          "value": "Black / Yellow"
+        },
+        {
+          "label": "Handle Type",
+          "value": "Detachable Handle"
+        },
+        {
+          "label": "Oil Port Size",
+          "value": "1/4 inch"
+        },
+        {
+          "label": "Packaging Type",
+          "value": "Box Packaging"
+        },
+        {
+          "label": "Weight",
+          "value": "6 kg"
+        },
+        {
+          "label": "Pressure Capacity",
+          "value": "700 bar max"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready in Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-12",
+      "indiamart_id": "2850029747148",
+      "slug": "sayaji-type-crusher-oil-pump-7148",
+      "name": "Sayaji Type Crusher Oil Pump",
+      "full_title": "Cast Iron Sayaji Type Crusher Oil Pump, 1 HP, 20 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/sayaji-type-crusher-oil-pump-2850029747148.html",
+      "price": {
+        "amount": 13000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/2/VB/LK/ZE/30258400/sayaji-crusher-oil-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/2/VB/LK/ZE/30258400/sayaji-crusher-oil-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/2/BO/UT/EN/30258400/sayaji-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/2/BO/UT/EN/30258400/sayaji-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/2/FI/ZD/PC/30258400/sayaji-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/2/FI/ZD/PC/30258400/sayaji-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865953/TD/ZG/TR/30258400/sayaji-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865953/TD/ZG/TR/30258400/sayaji-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865964/NU/HG/AM/30258400/sayaji-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865964/NU/HG/AM/30258400/sayaji-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865984/KH/BD/BI/30258400/sayaji-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865984/KH/BD/BI/30258400/sayaji-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=SsbND9QF1QE",
+      "description": [
+        "The Sayaji Crusher Oil Pump is an essential component for maintaining optimal performance and longevity in heavy-duty crusher systems. Designed specifically for Sayaji crushers, this oil pump ensures continuous and reliable lubrication to the various moving parts of the crusher, preventing overheating, friction, and wear. By providing a steady flow of oil to critical areas like bearings, gears, and shafts, the Sayaji Crusher Oil Pump plays a pivotal role in ensuring smooth operation and extending the life of the crusher equipment."
+      ],
+      "specifications": [
+        {
+          "label": "Usage/Application",
+          "value": "Crusher Machine"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Size",
+          "value": "1/2\" B.S.P."
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Square"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Hydraulic Oil"
+        },
+        {
+          "label": "Packaging Type",
+          "value": "Box Packaging"
+        },
+        {
+          "label": "Product Type",
+          "value": "Oil Gear Pump"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "ssp-13",
+      "indiamart_id": "ssp-sayaji-35000",
+      "slug": "sayaji-stone-crusher-oil-pump-18-5000",
+      "name": "Sayaji Stone Crusher Oil Pump 18\"",
+      "full_title": "Stone Crusher Oil Pump, Cast Iron, 18 inch",
+      "listing_status": "listed on category page (no separate product page on IndiaMART)",
+      "indiamart_url": "https://www.indiamart.com/rickon-engineering-ahmedabad/stone-crusher-spare-parts.html",
+      "price": {
+        "amount": 35000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/MI/TL/VT/30258400/sayaji-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/MI/TL/VT/30258400/sayaji-pump-500x500.jpg",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [
+        "Stone Crusher Oil Pumps are essential components for the efficient operation of stone crushers, ensuring the proper lubrication of critical moving parts like bearings, gears, and shafts. These pumps deliver a continuous flow of oil to reduce friction and wear."
+      ],
+      "specifications": [
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Size",
+          "value": "18 inch"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        }
+      ],
+      "product_details": [],
+      "note": "Description may be slightly condensed; check against IndiaMART"
+    }
+  ]
+}

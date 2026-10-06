@@ -1,0 +1,883 @@
+{
+  "category": {
+    "id": "coolant-pump",
+    "name": "Coolant Pump",
+    "indiamart_url": "https://www.indiamart.com/rickon-engineering-ahmedabad/coolant-pump.html",
+    "image": "https://5.imimg.com/data5/TN/OF/IZ/SELLER-30258400/coolant-pump-500x500.JPG",
+    "indiamart_count": 6,
+    "extracted_count": 6,
+    "extracted_on": "2026-10-06"
+  },
+  "products": [
+    {
+      "id": "cool-01",
+      "indiamart_id": "2851318301855",
+      "slug": "0-5-hp-coolant-pump-1855",
+      "name": "0.5 HP Coolant Pump",
+      "full_title": "0.5 HP Coolant Pump (Model C0.50)",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/0-5-hp-coolant-pump-2851318301855.html",
+      "price": {
+        "amount": 9999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/TN/OF/IZ/SELLER-30258400/coolant-pump-500x500.JPG",
+          "large": "https://5.imimg.com/data5/TN/OF/IZ/SELLER-30258400/coolant-pump-500x500.JPG",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/FA/TM/WC/30258400/0-5-hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/FA/TM/WC/30258400/0-5-hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/BM/DK/ND/30258400/pump-with-oiltank-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/BM/DK/ND/30258400/pump-with-oiltank-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/7/438572687/RU/UK/JG/30258400/coolant-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/7/438572687/RU/UK/JG/30258400/coolant-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/7/438573465/NW/UZ/RZ/30258400/0-5-hp-coolant-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/7/438573465/NW/UZ/RZ/30258400/0-5-hp-coolant-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/8/539589058/RR/DQ/SS/30258400/0-25-hp-coolant-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/8/539589058/RR/DQ/SS/30258400/0-25-hp-coolant-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531089/EU/ZB/IE/30258400/0-5-hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531089/EU/ZB/IE/30258400/0-5-hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531135/KW/QO/SP/30258400/0-5-hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531135/KW/QO/SP/30258400/0-5-hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539589278/OD/CR/DS/30258400/0-5-hp-coolant-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539589278/OD/CR/DS/30258400/0-5-hp-coolant-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=wfaM7JpDFWg",
+      "description": [
+        "The 0.5 HP Coolant Pump is a high-efficiency, compact, and durable solution designed to provide consistent and reliable coolant circulation for a variety of industrial applications. With its 0.5 horsepower motor, this pump is engineered to deliver excellent performance in cooling systems, ensuring optimal temperature regulation for machinery, engines, and other critical equipment. Whether used in CNC machines, automotive systems, or metalworking applications, the 0.5 HP Coolant Pump is built to offer long-lasting, cost-effective cooling while minimizing energy consumption and maintenance."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Types Of Fluids",
+          "value": "Cutting Oil"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Machines"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Discharge Range",
+          "value": ">100 LPM"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "C0.50"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Power",
+          "value": "0.5 HP"
+        },
+        {
+          "label": "Fuel Type",
+          "value": "Electric"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "160 LPM"
+        },
+        {
+          "label": "Frequency",
+          "value": "50 Hz"
+        },
+        {
+          "label": "Temperature",
+          "value": "100-150 °C"
+        },
+        {
+          "label": "Head",
+          "value": "10 m"
+        },
+        {
+          "label": "Weight",
+          "value": "20 kg"
+        },
+        {
+          "label": "MS Shaft Grade",
+          "value": "EN8"
+        },
+        {
+          "label": "Duty",
+          "value": "S1"
+        },
+        {
+          "label": "Delivery Size",
+          "value": "1\" BSPF"
+        },
+        {
+          "label": "RPM",
+          "value": "2880 RPM"
+        },
+        {
+          "label": "Bracket Length",
+          "value": "270 mm"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cool-02",
+      "indiamart_id": "2850709056497",
+      "slug": "0-25-hp-coolant-oil-pump-6497",
+      "name": "0.25 HP Coolant Oil Pump",
+      "full_title": "0.25 HP Coolant Oil Pump, 40 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/0-25-hp-coolant-oil-pump-2850709056497.html",
+      "price": {
+        "amount": 3700,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/299556492/JT/RK/KB/30258400/impeller-pump-500x500.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/299556492/JT/RK/KB/30258400/impeller-pump-500x500.JPG",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/7/438583976/RA/XM/EZ/30258400/coolant-pumps-0-12hp-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/7/438583976/RA/XM/EZ/30258400/coolant-pumps-0-12hp-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/299556450/HH/HU/XA/30258400/impeller-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/299556450/HH/HU/XA/30258400/impeller-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/299556440/VU/VB/HU/30258400/impeller-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/299556440/VU/VB/HU/30258400/impeller-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/8/539588615/HX/EO/EQ/30258400/0-25-hp-coolant-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/8/539588615/HX/EO/EQ/30258400/0-25-hp-coolant-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/465112696/TI/SS/LX/30258400/0-25-hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/465112696/TI/SS/LX/30258400/0-25-hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/465112713/XH/NZ/AW/30258400/0-25-hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/465112713/XH/NZ/AW/30258400/0-25-hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/465112777/SZ/WQ/CD/30258400/0-25-hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/465112777/SZ/WQ/CD/30258400/0-25-hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539588890/ZD/GW/IJ/30258400/0-25-hp-coolant-oil-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539588890/ZD/GW/IJ/30258400/0-25-hp-coolant-oil-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/8/539589058/RR/DQ/SS/30258400/0-25-hp-coolant-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/8/539589058/RR/DQ/SS/30258400/0-25-hp-coolant-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=9QhhKBmvFSQ",
+      "description": [
+        "The 0.25 HP Coolant Pump is a high-performance and reliable solution designed to provide efficient and consistent coolant circulation for a variety of industrial applications. With its 0.25 horsepower motor, this pump offers powerful cooling performance to ensure that machinery, equipment, and systems operate at optimal temperatures. Ideal for industries such as manufacturing, automotive, metalworking, and HVAC, this pump effectively manages heat, reduces the risk of equipment overheating, and improves the longevity and efficiency of machinery."
+      ],
+      "specifications": [
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Types Of Fluids",
+          "value": "Cutting Oil"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Coolant Oil Pump"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "CNC Machines"
+        },
+        {
+          "label": "Voltage",
+          "value": "430 V"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "30-50 LPM"
+        },
+        {
+          "label": "Power Source",
+          "value": "Electric"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Power",
+          "value": "0.25 HP"
+        },
+        {
+          "label": "Frequency",
+          "value": "50 Hz"
+        },
+        {
+          "label": "Pump Size",
+          "value": "3/4\" BSPF"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "40 LPM"
+        },
+        {
+          "label": "Temperature",
+          "value": "100-150 °C"
+        },
+        {
+          "label": "Head",
+          "value": "2 m"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "2880 RPM"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready in Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cool-03",
+      "indiamart_id": "23567000273",
+      "slug": "coolant-pump-with-85-l-tank-0273",
+      "name": "Coolant Pump with 85 L Tank",
+      "full_title": "Coolant Pump, 1 HP, with 85 L tank",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/coolant-pumps-23567000273.html",
+      "price": {
+        "amount": 19999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/KR/CW/FH/30258400/0-5hp-coolant-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/KR/CW/FH/30258400/0-5hp-coolant-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/10/FD/IR/TB/30258400/coolant-pumps-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/10/FD/IR/TB/30258400/coolant-pumps-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/10/RT/ZM/XS/30258400/coolant-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/10/RT/ZM/XS/30258400/coolant-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/5/419723340/DF/SB/HD/30258400/0-12hp-coolant-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/5/419723340/DF/SB/HD/30258400/0-12hp-coolant-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/7/438572639/RV/VF/YV/30258400/coolant-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/7/438572639/RV/VF/YV/30258400/coolant-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/8/539587235/MF/AA/BF/30258400/0-1-hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/8/539587235/MF/AA/BF/30258400/0-1-hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/KE/FL/YR/30258400/coolant-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/KE/FL/YR/30258400/coolant-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/YU/HP/WH/30258400/coolant-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/YU/HP/WH/30258400/coolant-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/465116171/CG/DH/RL/30258400/coolant-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/465116171/CG/DH/RL/30258400/coolant-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483530995/PI/XK/PB/30258400/coolant-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483530995/PI/XK/PB/30258400/coolant-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/8/539587960/TW/MI/MX/30258400/coolant-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/8/539587960/TW/MI/MX/30258400/coolant-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539588055/QD/KZ/QL/30258400/coolant-pumps-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539588055/QD/KZ/QL/30258400/coolant-pumps-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=JyCJnV9-iTU",
+      "description": [
+        "Coolant pumps are essential components in various industries where maintaining proper temperatures is crucial for equipment performance, longevity, and operational efficiency. These pumps circulate coolant fluids (such as water or oils) through machinery, engines, and industrial systems, preventing overheating, reducing wear and tear, and ensuring that operations run smoothly.",
+        "With a focus on reliability and durability, Coolant Pumps are designed to efficiently maintain temperature control in environments where high heat and continuous operation are common, such as in manufacturing, automotive, HVAC, and metalworking industries."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Types Of Fluids",
+          "value": "Cutting Oil"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "CNC Machines; Stone Crusher Machine"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Type",
+          "value": "Oil Pump"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Discharge Range",
+          "value": ">100 LPM"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "0.1 - 1 HP"
+        },
+        {
+          "label": "Power Source",
+          "value": "Electric"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "500 m³/hr"
+        },
+        {
+          "label": "Temperature",
+          "value": "100-150 °C"
+        },
+        {
+          "label": "Head",
+          "value": "10 m"
+        },
+        {
+          "label": "Speed",
+          "value": "2880 RPM"
+        },
+        {
+          "label": "Output",
+          "value": "1 inch"
+        },
+        {
+          "label": "Working Type",
+          "value": "Oil Circulation"
+        },
+        {
+          "label": "Tank Capacity",
+          "value": "85 litre"
+        },
+        {
+          "label": "Dimension",
+          "value": "30 x 15 x 12 inch"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Tank Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cool-04",
+      "indiamart_id": "20815681348",
+      "slug": "industrial-coolant-pump-1348",
+      "name": "Industrial Coolant Pump",
+      "full_title": "Industrial Coolant Pump, Single Stage, 415 V",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/industrial-coolant-pump-20815681348.html",
+      "price": {
+        "amount": 7999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/FS/HJ/YF/SELLER-30258400/11-500x500.jpg",
+          "large": "https://5.imimg.com/data5/FS/HJ/YF/SELLER-30258400/11-500x500.jpg",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [
+        "This coolant pump is a highly efficient, compact, and reliable solution designed to provide effective cooling for small to medium-sized systems. Ideal for a wide range of industrial applications, it ensures optimal temperature regulation of machinery and equipment."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Types Of Fluids",
+          "value": "Cutting Oil"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        }
+      ],
+      "product_details": [],
+      "note": "IndiaMART product page could not be read (rate limit); data from category listing, images missing"
+    },
+    {
+      "id": "cool-05",
+      "indiamart_id": "20775957273",
+      "slug": "0-1-hp-coolant-pump-7273",
+      "name": "0.1 HP Coolant Pump",
+      "full_title": "0.1 HP (0.12 HP) Coolant Pump, Model T-79",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/0-1-hp-coolant-pump-20775957273.html",
+      "price": {
+        "amount": 3999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/3/495425200/NS/SQ/JH/30258400/coolant-pumps-0-12-hp-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/3/495425200/NS/SQ/JH/30258400/coolant-pumps-0-12-hp-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/8/539587235/MF/AA/BF/30258400/0-1-hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/8/539587235/MF/AA/BF/30258400/0-1-hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/IX/RL/CN/SELLER-30258400/coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/IX/RL/CN/SELLER-30258400/coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/GB/QH/AX/30258400/0-12hp-coolant-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/GB/QH/AX/30258400/0-12hp-coolant-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375223179/CM/VX/RY/30258400/0-12hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375223179/CM/VX/RY/30258400/0-12hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483530727/FR/AY/MR/30258400/coolant-pumps-0-12hp-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483530727/FR/AY/MR/30258400/coolant-pumps-0-12hp-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865843/ZS/XU/IG/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865843/ZS/XU/IG/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/7/438583976/RA/XM/EZ/30258400/coolant-pumps-0-12hp-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/7/438583976/RA/XM/EZ/30258400/coolant-pumps-0-12hp-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/8/539587960/TW/MI/MX/30258400/coolant-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/8/539587960/TW/MI/MX/30258400/coolant-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539588282/NR/QK/TP/30258400/0-1-hp-coolant-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539588282/NR/QK/TP/30258400/0-1-hp-coolant-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=37UHMRsw3fg",
+      "description": [
+        "The 0.12 HP Coolant Pump is a high-performance, compact pump designed for a variety of industrial applications where consistent and reliable coolant circulation is essential. With its powerful 0.12 horsepower motor, this pump efficiently handles cooling duties in smaller equipment, providing optimal temperature regulation to prevent overheating and ensure smooth, continuous operation. Perfect for industries like machining, automotive, metalworking, and laboratory settings, the 0.12 HP Coolant Pump is engineered for energy efficiency, durability, and minimal maintenance, making it an excellent choice for operations where space and performance are both key considerations."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Types Of Fluids",
+          "value": "Cutting Oil"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Industrial"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "30-50 LPM"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "T-79"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Power",
+          "value": "0.12 HP"
+        },
+        {
+          "label": "Size",
+          "value": "3/4\" BSPF"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "40 LPM"
+        },
+        {
+          "label": "Head",
+          "value": "5 m"
+        },
+        {
+          "label": "Speed",
+          "value": "2880 RPM"
+        },
+        {
+          "label": "Use",
+          "value": "CNC Machine, Plastic Oil Machine, Band-Saw Machine, Drilling Machine"
+        },
+        {
+          "label": "Working",
+          "value": "Cutting Oil Circulation"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cool-06",
+      "indiamart_id": "2855279906362",
+      "slug": "0-15-hp-coolant-pump-6362",
+      "name": "0.15 HP Coolant Pump",
+      "full_title": "Coolant Pump, 0.15 HP, 40 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/coolant-pumps-2855279906362.html",
+      "price": {
+        "amount": 3643,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/8/539589748/EY/NO/KR/30258400/coolant-pumps-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/8/539589748/EY/NO/KR/30258400/coolant-pumps-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539590654/QU/OF/EM/30258400/coolant-pumps-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2025/8/539590654/QU/OF/EM/30258400/coolant-pumps-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/465105342/LS/JD/MA/30258400/0-33hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/465105342/LS/JD/MA/30258400/0-33hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/465105295/MS/LK/VG/30258400/0-33hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/465105295/MS/LK/VG/30258400/0-33hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/465105281/TM/OP/CF/30258400/0-33hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/465105281/TM/OP/CF/30258400/0-33hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/3/496821681/IL/SJ/FZ/30258400/1hp-coolant-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/3/496821681/IL/SJ/FZ/30258400/1hp-coolant-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/465105106/JC/DM/TG/30258400/0-33hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/465105106/JC/DM/TG/30258400/0-33hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/3/495425427/BC/WJ/RV/30258400/coolant-pump-0-15-hp-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/3/495425427/BC/WJ/RV/30258400/coolant-pump-0-15-hp-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=NelVkN0BSGA",
+      "description": [
+        "The 0.15 HP Coolant Pump is a compact and reliable solution designed to provide optimal cooling in various industrial applications. This pump is ideal for systems that require consistent coolant oil flow to maintain optimal temperatures in machinery, equipment, and engines. With a powerful 0.15 HP motor, it efficiently circulates coolant oil through systems to prevent overheating, ensuring maximum operational performance and extending the life of your equipment. The 0.15 HP Coolant Pump is engineered for high efficiency, durability, and ease of use, making it an essential component in many industries such as manufacturing, automotive, and HVAC."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Types Of Fluids",
+          "value": "Cutting Oil"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "CNC Machines"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "30-50 LPM"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Power",
+          "value": "0.15 HP"
+        },
+        {
+          "label": "Fluid Output",
+          "value": "40 LPM"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "40 LPM"
+        },
+        {
+          "label": "Temperature",
+          "value": "70-90 °C"
+        },
+        {
+          "label": "Head",
+          "value": "2 m"
+        },
+        {
+          "label": "Delivery Size",
+          "value": "3/4\" BSPF"
+        },
+        {
+          "label": "Winding",
+          "value": "100% standard enameled copper wire"
+        },
+        {
+          "label": "Pump Body",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Immersion Depth",
+          "value": "170 mm"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    }
+  ]
+}

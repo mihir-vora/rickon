@@ -1,0 +1,1434 @@
+{
+  "category": {
+    "id": "industrial-vibrator",
+    "name": "Industrial Vibrator",
+    "indiamart_url": "https://www.indiamart.com/rickon-engineering-ahmedabad/industrial-vibrator.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/11/468795908/XI/DH/XN/30258400/single-phase-table-vibrator-motor-500x500.jpg",
+    "indiamart_count": 11,
+    "extracted_count": 11,
+    "extracted_on": "2026-10-06"
+  },
+  "products": [
+    {
+      "id": "vib-01",
+      "indiamart_id": "2852404407855",
+      "slug": "single-phase-table-vibrator-motor-7855",
+      "name": "Single Phase Table Vibrator Motor",
+      "full_title": "Single Phase Table Vibrator Motor, 0.5 HP, 3 kN",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/single-phase-table-vibrator-motor-2852404407855.html",
+      "price": {
+        "amount": 7500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468795908/XI/DH/XN/30258400/single-phase-table-vibrator-motor-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468795908/XI/DH/XN/30258400/single-phase-table-vibrator-motor-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/9/343208399/DT/FR/XV/30258400/single-phase-table-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/9/343208399/DT/FR/XV/30258400/single-phase-table-vibrator-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/9/343208396/GN/IT/ZF/30258400/single-phase-table-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/9/343208396/GN/IT/ZF/30258400/single-phase-table-vibrator-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/9/343210759/KC/NU/PL/30258400/single-phase-table-vibrator-motor-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/9/343210759/KC/NU/PL/30258400/single-phase-table-vibrator-motor-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370869508/PM/RY/VZ/30258400/single-phase-table-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370869508/PM/RY/VZ/30258400/single-phase-table-vibrator-motor-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=b9fdCnXOzWo",
+      "description": [
+        "The Single Phase Table Vibrator Motor is a compact, reliable, and energy-efficient motor designed specifically for powering vibrating tables used in industrial applications. With its single-phase power supply, this motor offers a cost-effective and straightforward solution for industries that require consistent and powerful vibration in small to medium-scale operations."
+      ],
+      "specifications": [
+        {
+          "label": "Power",
+          "value": "0.5 HP"
+        },
+        {
+          "label": "Centrifugal Force",
+          "value": "3 kN"
+        },
+        {
+          "label": "Power Rating",
+          "value": "0.37 kW"
+        },
+        {
+          "label": "Speed",
+          "value": "3000 rpm"
+        },
+        {
+          "label": "Motor Type",
+          "value": "Electric Vibrator"
+        },
+        {
+          "label": "Rated Voltage",
+          "value": "230 V"
+        },
+        {
+          "label": "Phase",
+          "value": "Single Phase"
+        },
+        {
+          "label": "Number of Poles",
+          "value": "2"
+        },
+        {
+          "label": "Frame Size",
+          "value": "80 Frame"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mounted"
+        },
+        {
+          "label": "Enclosure",
+          "value": "TEFC"
+        },
+        {
+          "label": "Protection Class",
+          "value": "IP54"
+        },
+        {
+          "label": "Current",
+          "value": "3.3 A"
+        },
+        {
+          "label": "Bearing Lubrication",
+          "value": "Grease"
+        },
+        {
+          "label": "Insulation Class",
+          "value": "Class B"
+        },
+        {
+          "label": "Bearing Type",
+          "value": "Roller Bearing"
+        },
+        {
+          "label": "Application",
+          "value": "Concrete Mixer, Vibrating Table, Hopper"
+        },
+        {
+          "label": "Weight",
+          "value": "25 kg"
+        },
+        {
+          "label": "Features",
+          "value": "Thermal protection for stator"
+        },
+        {
+          "label": "Duty",
+          "value": "S1 Continuous"
+        },
+        {
+          "label": "Winding",
+          "value": "100% Copper Standard"
+        },
+        {
+          "label": "Protection",
+          "value": "H Class"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packing"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "vib-02",
+      "indiamart_id": "2851729989912",
+      "slug": "table-vibrator-motor-9912",
+      "name": "Table Vibrator Motor",
+      "full_title": "Table Vibrator Motor, 0.75 kW, 3 kN",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/table-vibrator-motor-2851729989912.html",
+      "price": {
+        "amount": 13171,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468796226/DP/UE/OB/30258400/table-vibrator-motor-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468796226/DP/UE/OB/30258400/table-vibrator-motor-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468796388/KY/ED/NI/30258400/table-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468796388/KY/ED/NI/30258400/table-vibrator-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/7/323538161/XH/UR/CH/30258400/table-vibrator-motor-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/7/323538161/XH/UR/CH/30258400/table-vibrator-motor-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/10/351392448/DX/CJ/IO/30258400/table-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/10/351392448/DX/CJ/IO/30258400/table-vibrator-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/7/324004224/AS/ZS/MD/30258400/table-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/7/324004224/AS/ZS/MD/30258400/table-vibrator-motor-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=b9fdCnXOzWo",
+      "description": [
+        "The Table Vibrator Motor is an essential component in industries requiring high-performance vibration for compacting and settling materials. Designed to provide reliable, consistent vibration, this motor is widely used in concrete compaction, material testing, and various industrial applications. With a robust design and energy-efficient operation, it ensures smooth, effective vibration for accurate results and increased operational efficiency."
+      ],
+      "specifications": [
+        {
+          "label": "Power",
+          "value": "0.75 kW"
+        },
+        {
+          "label": "Centrifugal Force",
+          "value": "3 kN"
+        },
+        {
+          "label": "Speed",
+          "value": "3000 rpm"
+        },
+        {
+          "label": "Motor Type",
+          "value": "Electric Vibrator"
+        },
+        {
+          "label": "Rated Voltage",
+          "value": "230 V"
+        },
+        {
+          "label": "Phase",
+          "value": "Single Phase"
+        },
+        {
+          "label": "Number of Poles",
+          "value": "2"
+        },
+        {
+          "label": "Frame Size",
+          "value": "90 Frame"
+        },
+        {
+          "label": "Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Winding Material",
+          "value": "Copper"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mounted"
+        },
+        {
+          "label": "Enclosure",
+          "value": "TEFC"
+        },
+        {
+          "label": "Protection Class",
+          "value": "IP54"
+        },
+        {
+          "label": "Current",
+          "value": "6 A"
+        },
+        {
+          "label": "Insulation Class",
+          "value": "Class B"
+        },
+        {
+          "label": "Bearing Lubrication",
+          "value": "Grease"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 Year"
+        },
+        {
+          "label": "Bearing Type",
+          "value": "FAG Roller Bearing"
+        },
+        {
+          "label": "Application",
+          "value": "Vibrating Table, Hopper, Vibrating Screen"
+        },
+        {
+          "label": "Weight",
+          "value": "50 kg"
+        },
+        {
+          "label": "Features",
+          "value": "Thermal protection for stator"
+        },
+        {
+          "label": "Duty",
+          "value": "Heavy"
+        },
+        {
+          "label": "Thermal Class",
+          "value": "H Class"
+        },
+        {
+          "label": "Winding",
+          "value": "100% Copper"
+        },
+        {
+          "label": "Body Material",
+          "value": "Mild Steel"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready in Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Wooden Box Packing"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "vib-03",
+      "indiamart_id": "2853229549112",
+      "slug": "stone-crusher-vibratory-motor-9112",
+      "name": "Stone Crusher Vibratory Motor",
+      "full_title": "Stone Crusher Vibratory Motor, 5 HP, 15 kN",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-vibratory-motor-2853229549112.html",
+      "price": {
+        "amount": 56271,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/627762476/SE/RK/RE/30258400/stone-crusher-vibratory-motor-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/627762476/SE/RK/RE/30258400/stone-crusher-vibratory-motor-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/11/357629569/TX/FI/ZZ/30258400/unbalanced-vibratory-motors-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/11/357629569/TX/FI/ZZ/30258400/unbalanced-vibratory-motors-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/376608398/YZ/MP/MB/30258400/stone-crusher-vibratory-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/376608398/YZ/MP/MB/30258400/stone-crusher-vibratory-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/376608368/AI/IY/WS/30258400/stone-crusher-vibratory-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/376608368/AI/IY/WS/30258400/stone-crusher-vibratory-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531089/EU/ZB/IE/30258400/0-5-hp-coolant-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531089/EU/ZB/IE/30258400/0-5-hp-coolant-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468795679/QO/OV/VQ/30258400/stone-crusher-vibratory-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468795679/QO/OV/VQ/30258400/stone-crusher-vibratory-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/376607959/CP/LR/MX/30258400/stone-crusher-vibratory-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/376607959/CP/LR/MX/30258400/stone-crusher-vibratory-motor-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=b9fdCnXOzWo",
+      "description": [
+        "The Stone Crusher Vibratory Motor is an essential component designed specifically for stone crushing machinery. It is engineered to deliver high-performance vibrations, enhancing the operation of crushers, screens, and other heavy-duty equipment used in the mining, construction, and aggregate industries. These motors are ideal for powering vibrating feeders, crushers, and screens, providing the necessary force to ensure consistent, high-speed crushing, and efficient material handling."
+      ],
+      "specifications": [
+        {
+          "label": "Power",
+          "value": "5 HP"
+        },
+        {
+          "label": "Centrifugal Force",
+          "value": "15 kN"
+        },
+        {
+          "label": "Power Rating",
+          "value": "3.7 kW"
+        },
+        {
+          "label": "Number of Poles",
+          "value": "4"
+        },
+        {
+          "label": "Speed",
+          "value": "1500 rpm"
+        },
+        {
+          "label": "Motor Type",
+          "value": "Electric Vibrator"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Rated Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Frame Size",
+          "value": "112"
+        },
+        {
+          "label": "Winding Material",
+          "value": "Copper"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mounted"
+        },
+        {
+          "label": "Enclosure",
+          "value": "TEFC"
+        },
+        {
+          "label": "Protection Class",
+          "value": "IP54"
+        },
+        {
+          "label": "Current",
+          "value": "7.5 A"
+        },
+        {
+          "label": "Insulation Class",
+          "value": "Class B"
+        },
+        {
+          "label": "Bearing Lubrication",
+          "value": "Grease"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 Year"
+        },
+        {
+          "label": "Bearing Type",
+          "value": "Roller Bearing"
+        },
+        {
+          "label": "Application",
+          "value": "Stone Crusher, Hopper, Vibrating Screen, Concrete Mixer, Vibrating Table, Conveyor, Vibratory Feeder, Sand Sieving"
+        },
+        {
+          "label": "Weight",
+          "value": "150 kg"
+        },
+        {
+          "label": "Features",
+          "value": "Thermal protection for stator"
+        },
+        {
+          "label": "Duty",
+          "value": "Heavy"
+        },
+        {
+          "label": "Winding",
+          "value": "Standard Enameled Copper"
+        },
+        {
+          "label": "Temperature Rise",
+          "value": "H Class insulation"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Body",
+          "value": "Rigid Mild Steel"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "100"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "vib-04",
+      "indiamart_id": "22692957548",
+      "slug": "electric-vibrator-motor-7548",
+      "name": "Electric Vibrator Motor",
+      "full_title": "Electric Vibrator Motor, 2 HP, 5 kN",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/electric-vibrator-motor-22692957548.html",
+      "price": {
+        "amount": 20000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/SG/DJ/RA/30258400/electric-vibrator-motor-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/SG/DJ/RA/30258400/electric-vibrator-motor-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/SK/SB/CK/30258400/electric-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/SK/SB/CK/30258400/electric-vibrator-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/HB/OH/XN/30258400/electric-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/HB/OH/XN/30258400/electric-vibrator-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/10/351395692/MF/VB/IZ/30258400/electric-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/10/351395692/MF/VB/IZ/30258400/electric-vibrator-motor-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=2qI1LUcOl0Q",
+      "description": [
+        "The Electric Vibrator Motor is engineered to provide consistent and reliable vibration across a range of industrial applications. Whether used in material handling, compaction, or sorting processes, this motor ensures smooth and efficient operations, reducing downtime and enhancing productivity. Available in a variety of power ratings, it's designed to meet the specific needs of industries requiring vibration for equipment like feeders, conveyors, and vibrating tables."
+      ],
+      "specifications": [
+        {
+          "label": "Centrifugal Force",
+          "value": "5 kN"
+        },
+        {
+          "label": "Power Rating",
+          "value": "1.5 kW"
+        },
+        {
+          "label": "Power",
+          "value": "2 HP"
+        },
+        {
+          "label": "Speed",
+          "value": "< 2000 RPM"
+        },
+        {
+          "label": "Motor Type",
+          "value": "Electric Vibrator"
+        },
+        {
+          "label": "Rated Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Ambient Temperature",
+          "value": "Up to 100 °C"
+        },
+        {
+          "label": "Phase",
+          "value": "Single / Three"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Automatic"
+        },
+        {
+          "label": "Enclosure",
+          "value": "TEFC"
+        },
+        {
+          "label": "Protection Class",
+          "value": "IP54"
+        },
+        {
+          "label": "Insulation Class",
+          "value": "Class B"
+        },
+        {
+          "label": "Poles",
+          "value": "4"
+        },
+        {
+          "label": "Features",
+          "value": "Thermal protection for stator"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Flange Mounted"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "vib-05",
+      "indiamart_id": "21289070012",
+      "slug": "unbalanced-vibratory-motors-0012",
+      "name": "Unbalanced Vibratory Motors",
+      "full_title": "Unbalanced Vibratory Motors, 0.25 HP, 1 kN",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/unbalanced-vibratory-motors-21289070012.html",
+      "price": {
+        "amount": 6000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468796898/XJ/SE/QK/30258400/unbalanced-vibratory-motors-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468796898/XJ/SE/QK/30258400/unbalanced-vibratory-motors-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468810601/SS/OI/CW/30258400/unbalanced-vibratory-motors-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468810601/SS/OI/CW/30258400/unbalanced-vibratory-motors-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/11/359151371/PZ/XN/FH/30258400/unbalanced-vibratory-motors-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/11/359151371/PZ/XN/FH/30258400/unbalanced-vibratory-motors-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468831377/HA/LQ/WQ/30258400/unbalanced-vibratory-motors-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468831377/HA/LQ/WQ/30258400/unbalanced-vibratory-motors-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=2qI1LUcOl0Q",
+      "description": [
+        "Unbalanced Vibratory Motors are specialized industrial motors designed to provide powerful and adjustable vibrations for a wide range of applications, including material handling, screening, feeding, and compacting in various industries. These motors are engineered to create vibrations through the unbalanced design of their rotor, which makes them an ideal choice for tasks that require controlled and consistent vibrational forces. Whether for bulk material processing or specific vibratory applications, Unbalanced Vibratory Motors help ensure optimal performance and efficiency."
+      ],
+      "specifications": [
+        {
+          "label": "Power",
+          "value": "0.25 HP"
+        },
+        {
+          "label": "Centrifugal Force",
+          "value": "1 kN"
+        },
+        {
+          "label": "Power Rating",
+          "value": "0.12 kW"
+        },
+        {
+          "label": "Number of Poles",
+          "value": "2"
+        },
+        {
+          "label": "Speed",
+          "value": "2000-6000 RPM"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Motor Type",
+          "value": "Electric Vibrator"
+        },
+        {
+          "label": "Rated Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Ambient Temperature",
+          "value": "Up to 100 °C"
+        },
+        {
+          "label": "Frame Size",
+          "value": "71"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mounted"
+        },
+        {
+          "label": "Protection Class",
+          "value": "IP54"
+        },
+        {
+          "label": "Insulation Class",
+          "value": "Class B"
+        },
+        {
+          "label": "Features",
+          "value": "Thermal protection for stator"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "RPM",
+          "value": "2880 RPM"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Vibration Equipments"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Corrugated Box"
+        }
+      ],
+      "product_details": [],
+      "features": [
+        "Foot-mount three phase vibration motor",
+        "0.25 HP to 10 HP available",
+        "M.S. mould rigid body",
+        "NJ series roller bearings",
+        "High quality silicon stamping",
+        "Dual enameled standard copper wire",
+        "EN-8 shaft",
+        "NOMEX temperature insulation Class H",
+        "Heavy duty performance",
+        "1 year winding warranty against manufacturing defects"
+      ]
+    },
+    {
+      "id": "vib-06",
+      "indiamart_id": "2850709019891",
+      "slug": "vibration-motor-3-hp-9891",
+      "name": "Vibration Motor 3 HP",
+      "full_title": "Vibration Motor 3 HP, 2.2 kW, 10 kN",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/vibration-motor-3-hp-2850709019891.html",
+      "price": {
+        "amount": 39000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468797338/VZ/QT/AH/30258400/vibration-motor-3-hp-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468797338/VZ/QT/AH/30258400/vibration-motor-3-hp-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/9/348469982/ZJ/GH/YU/30258400/pump-coupling-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/9/348469982/ZJ/GH/YU/30258400/pump-coupling-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/9/348470399/RE/RR/PY/30258400/pump-coupling-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/9/348470399/RE/RR/PY/30258400/pump-coupling-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/9/348471245/ME/SF/LX/30258400/pump-coupling-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/9/348471245/ME/SF/LX/30258400/pump-coupling-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=rBIrus46jrE",
+      "description": [
+        "The 3 HP Vibration Motor is engineered for robust performance in industrial applications that require high-frequency vibration for tasks such as material screening, sorting, compacting, and shaking. Known for its reliability and efficient operation, this motor is designed to deliver powerful, consistent vibrations that are essential for processes in industries like mining, construction, food processing, and packaging."
+      ],
+      "specifications": [
+        {
+          "label": "Power",
+          "value": "2.2 kW"
+        },
+        {
+          "label": "Centrifugal Force",
+          "value": "10 kN"
+        },
+        {
+          "label": "Material",
+          "value": "Mild Steel"
+        },
+        {
+          "label": "RPM",
+          "value": "1500 RPM"
+        },
+        {
+          "label": "Number of Poles",
+          "value": "4"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Motor Type",
+          "value": "Electric Vibrator"
+        },
+        {
+          "label": "Rated Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Frame Size",
+          "value": "100"
+        },
+        {
+          "label": "Winding Material",
+          "value": "Copper"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mounted"
+        },
+        {
+          "label": "Enclosure",
+          "value": "TEFC"
+        },
+        {
+          "label": "Protection Class",
+          "value": "IP54"
+        },
+        {
+          "label": "Current",
+          "value": "3.3 A"
+        },
+        {
+          "label": "Bearing Lubrication",
+          "value": "Grease"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 Year"
+        },
+        {
+          "label": "Insulation Class",
+          "value": "Class B"
+        },
+        {
+          "label": "Bearing Type",
+          "value": "NJ Series Roller Bearing"
+        },
+        {
+          "label": "Application",
+          "value": "Sand Sieving, Conveyor, Bin Activator, Concrete Mixer, Vibratory Feeder, Hopper, Stone Crusher, Vibrating Screen, Vibro Sifter, Vibrating Table"
+        },
+        {
+          "label": "Weight",
+          "value": "100 kg"
+        },
+        {
+          "label": "Features",
+          "value": "Thermal protection for stator"
+        },
+        {
+          "label": "Duty",
+          "value": "S1"
+        },
+        {
+          "label": "Temperature Rise",
+          "value": "H Class insulation"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "100"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Wooden Box Packaging"
+        }
+      ],
+      "product_details": [],
+      "features": [
+        "Foot-mount three phase vibration motor",
+        "0.25 HP to 10 HP available",
+        "M.S. mould rigid body",
+        "NJ series roller bearings",
+        "High quality silicon stamping",
+        "Dual enameled standard copper wire",
+        "EN-8 shaft",
+        "NOMEX temperature insulation Class H",
+        "Heavy duty performance",
+        "1 year winding warranty against manufacturing defects"
+      ]
+    },
+    {
+      "id": "vib-07",
+      "indiamart_id": "20816480197",
+      "slug": "industrial-vibration-motors-30-kn-0197",
+      "name": "Industrial Vibration Motors (30 kN)",
+      "full_title": "Industrial Vibration Motors, 5 HP, 30 kN",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/industrial-vibration-motors-20816480197.html",
+      "price": {
+        "amount": 49999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468809113/TH/ZL/RD/30258400/industrial-vibration-motors-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468809113/TH/ZL/RD/30258400/industrial-vibration-motors-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/10/BL/ZR/UD/30258400/industrial-vibration-motors-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/10/BL/ZR/UD/30258400/industrial-vibration-motors-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/UF/KQ/CA/30258400/industrial-vibration-motors-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/UF/KQ/CA/30258400/industrial-vibration-motors-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/AZ/UC/II/30258400/industrial-vibration-motors-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/AZ/UC/II/30258400/industrial-vibration-motors-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=wfaM7JpDFWg",
+      "description": [
+        "Industrial Vibration Motors are specially designed to provide the necessary force for vibrating equipment in various heavy-duty industrial applications. These motors generate high-frequency vibrations to assist in material handling, processing, and separation tasks, improving operational efficiency. With their robust design and efficient operation, they are used in diverse industries, including mining, construction, agriculture, and manufacturing."
+      ],
+      "specifications": [
+        {
+          "label": "Centrifugal Force",
+          "value": "30 kN"
+        },
+        {
+          "label": "Power Rating",
+          "value": "3.7 kW"
+        },
+        {
+          "label": "Power",
+          "value": "5 HP"
+        },
+        {
+          "label": "Number of Poles",
+          "value": "4"
+        },
+        {
+          "label": "Speed",
+          "value": "1500 rpm"
+        },
+        {
+          "label": "Motor Type",
+          "value": "Electric Vibrator"
+        },
+        {
+          "label": "Rated Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Material",
+          "value": "Mild Steel"
+        },
+        {
+          "label": "Ambient Temperature",
+          "value": "Up to 100 °C"
+        },
+        {
+          "label": "Phase",
+          "value": "3 Phase"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Frame Size",
+          "value": "112"
+        },
+        {
+          "label": "Winding Material",
+          "value": "Copper"
+        },
+        {
+          "label": "Enclosure",
+          "value": "TEFC"
+        },
+        {
+          "label": "Protection Class",
+          "value": "IP54"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 Year"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Vibrating Screen"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Base Mounted"
+        },
+        {
+          "label": "Voltage",
+          "value": "430 V"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "100"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Wooden Cart Packaging"
+        }
+      ],
+      "product_details": [],
+      "features": [
+        "Foot-mount three phase vibration motor",
+        "0.25 HP to 10 HP available",
+        "M.S. mould rigid body",
+        "NJ series roller bearings",
+        "High quality silicon stamping",
+        "Dual enameled standard copper wire",
+        "EN-8 shaft",
+        "NOMEX temperature insulation Class H",
+        "Heavy duty performance",
+        "1 year winding warranty against manufacturing defects"
+      ]
+    },
+    {
+      "id": "vib-08",
+      "indiamart_id": "2850709056230",
+      "slug": "industrial-vibrator-7-5-kw-6230",
+      "name": "Industrial Vibrator 7.5 kW",
+      "full_title": "Three Phase Electric Industrial Vibrator, 7.5 kW, 1500 rpm",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/industrial-vibrator-2850709056230.html",
+      "price": {
+        "amount": 166830,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468797175/YG/IY/TZ/30258400/industrial-vibrator-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468797175/YG/IY/TZ/30258400/industrial-vibrator-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/5/304907094/MI/MN/XX/30258400/industrial-vibrator-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/5/304907094/MI/MN/XX/30258400/industrial-vibrator-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/XI/UO/RL/30258400/1-hp-vibrator-motor-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/XI/UO/RL/30258400/1-hp-vibrator-motor-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/5/312389392/PM/GV/NN/30258400/industrial-vibrator-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/5/312389392/PM/GV/NN/30258400/industrial-vibrator-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318499546/IS/CE/HU/30258400/industrial-vibrator--250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318499546/IS/CE/HU/30258400/industrial-vibrator--500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318499547/WY/VK/IX/30258400/industrial-vibrator--250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318499547/WY/VK/IX/30258400/industrial-vibrator--500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=rBIrus46jrE",
+      "description": [
+        "An Industrial Vibrator is a high-performance device designed to deliver powerful and consistent vibrations to various machinery and processes in industrial settings. Commonly used in manufacturing, material handling, and processing, these vibrators are essential for tasks such as compacting, sorting, sieving, and moving materials. Whether you're working in construction, mining, food processing, or packaging, an Industrial Vibrator ensures optimal efficiency and productivity by promoting smooth material flow, uniform compaction, and effective separation."
+      ],
+      "specifications": [
+        {
+          "label": "Type",
+          "value": "Electric"
+        },
+        {
+          "label": "Vibration Frequency",
+          "value": "1500 rpm"
+        },
+        {
+          "label": "Power",
+          "value": "7.5 kW"
+        },
+        {
+          "label": "Application",
+          "value": "Feeder, Screen"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mounted"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Material",
+          "value": "Mild Steel"
+        },
+        {
+          "label": "Weight",
+          "value": "285 kg"
+        },
+        {
+          "label": "Capacity",
+          "value": "10"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Automatic"
+        },
+        {
+          "label": "Color",
+          "value": "Yellow"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Feeder"
+        },
+        {
+          "label": "Body Material",
+          "value": "Mild Steel"
+        },
+        {
+          "label": "Protection Class",
+          "value": "IP55"
+        },
+        {
+          "label": "Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Speed",
+          "value": "1440 RPM & 960 RPM"
+        },
+        {
+          "label": "Motor",
+          "value": "Vibration"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Wooden Cart Packaging"
+        }
+      ],
+      "product_details": [],
+      "features": [
+        "Foot-mount three phase vibration motor",
+        "0.25 HP to 10 HP available",
+        "M.S. mould rigid body",
+        "NJ series roller bearings",
+        "High quality silicon stamping",
+        "Dual enameled standard copper wire",
+        "EN-8 shaft",
+        "NOMEX temperature insulation Class H",
+        "Heavy duty performance",
+        "1 year winding warranty against manufacturing defects"
+      ]
+    },
+    {
+      "id": "vib-09",
+      "indiamart_id": "2849706017212",
+      "slug": "1-hp-vibrator-motor-7212",
+      "name": "1 HP Vibrator Motor",
+      "full_title": "1 HP Vibrator Motor, 3000 rpm",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/1-hp-vibrator-motor-2849706017212.html",
+      "price": {
+        "amount": 13171,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468795451/TJ/UX/BI/30258400/1-hp-vibrator-motor-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468795451/TJ/UX/BI/30258400/1-hp-vibrator-motor-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/OV/OT/UU/30258400/1-hp-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/OV/OT/UU/30258400/1-hp-vibrator-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/WH/CD/YG/30258400/1-hp-vibrator-motor-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/WH/CD/YG/30258400/1-hp-vibrator-motor-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318486455/UW/TE/GL/30258400/1-hp-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318486455/UW/TE/GL/30258400/1-hp-vibrator-motor-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318486456/GC/AB/KA/30258400/1-hp-vibrator-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318486456/GC/AB/KA/30258400/1-hp-vibrator-motor-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=rBIrus46jrE",
+      "description": [
+        "The 1 HP Vibrator Motor is designed to deliver powerful, consistent vibrations to industrial machinery, ensuring smooth operations in various applications such as material handling, compaction, and sorting. With its 1 horsepower capacity, this motor is ideal for applications requiring medium vibration output while maintaining energy efficiency and durability."
+      ],
+      "specifications": [
+        {
+          "label": "Type",
+          "value": "Electric"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Number of Poles",
+          "value": "2"
+        },
+        {
+          "label": "Vibration Frequency",
+          "value": "3000 rpm"
+        },
+        {
+          "label": "Application",
+          "value": "Silo, Feeder, Screen, Hopper"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mounted"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Body Material",
+          "value": "Mild Steel"
+        },
+        {
+          "label": "Voltage",
+          "value": "440 V"
+        },
+        {
+          "label": "Protection Class",
+          "value": "IP55"
+        },
+        {
+          "label": "Duty",
+          "value": "Heavy"
+        },
+        {
+          "label": "Frame",
+          "value": "90"
+        },
+        {
+          "label": "Temperature",
+          "value": "Up to 100 °C"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Vibrator Table"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Loose / Wooden Cart Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "vib-10",
+      "indiamart_id": "20816471188",
+      "slug": "vibration-motor-10-hp-1188",
+      "name": "Vibration Motor 10 HP",
+      "full_title": "Vibration Motor, 10 HP, 1500 rpm",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/vibration-motor-20816471188.html",
+      "price": {
+        "amount": 47830,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [],
+      "video": null,
+      "description": [
+        "Vibration Motors are compact, robust, and high-performance motors designed to generate controlled vibrations for a wide range of industrial applications. These motors are commonly used in machinery that requires vibrating forces for processes such as feeding, screening, and compacting."
+      ],
+      "specifications": [
+        {
+          "label": "Type",
+          "value": "Electric"
+        },
+        {
+          "label": "Power",
+          "value": "10 HP"
+        },
+        {
+          "label": "Vibration Frequency",
+          "value": "1500 rpm"
+        },
+        {
+          "label": "Application",
+          "value": "Silo, Screen, Hopper, Feeder"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        }
+      ],
+      "product_details": [],
+      "note": "IndiaMART product page could not be read (rate limit); data from category listing, images missing"
+    },
+    {
+      "id": "vib-11",
+      "indiamart_id": "2854723235473",
+      "slug": "vibrator-motor-for-concrete-vibrating-table-5473",
+      "name": "Vibrator Motor For Concrete Vibrating Table",
+      "full_title": "Vibrator Motor For Concrete Vibrating Table, 0.37 kW",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/vibrator-motor-for-concrete-vibrating-table-2854723235473.html",
+      "price": {
+        "amount": 9999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [],
+      "video": null,
+      "description": [
+        "The Concrete Table Vibrator is a specialized piece of equipment used to ensure the efficient and uniform compaction of concrete in molds or forms. It is commonly employed in the construction industry for applications where the quality and finish of the concrete matter."
+      ],
+      "specifications": [
+        {
+          "label": "Type",
+          "value": "Electric"
+        },
+        {
+          "label": "Power",
+          "value": "0.37 kW"
+        },
+        {
+          "label": "Number of Poles",
+          "value": "2"
+        },
+        {
+          "label": "Vibration Frequency",
+          "value": "3000 rpm"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        }
+      ],
+      "product_details": [],
+      "note": "IndiaMART product page could not be read (rate limit); data from category listing, images missing"
+    }
+  ]
+}

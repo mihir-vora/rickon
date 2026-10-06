@@ -1,0 +1,3200 @@
+{
+  "category": {
+    "id": "hydraulic-pump",
+    "name": "Hydraulic Pump",
+    "indiamart_url": "https://www.indiamart.com/rickon-engineering-ahmedabad/hydraulic-pump.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/6/ZI/LN/WB/30258400/hydraulic-pump-500x500.jpg",
+    "indiamart_count": 24,
+    "extracted_count": 20,
+    "extracted_on": "2026-10-06"
+  },
+  "products": [
+    {
+      "id": "hyd-01",
+      "indiamart_id": "21289070597",
+      "slug": "hydraulic-gear-pump-0597",
+      "name": "Hydraulic Gear Pump",
+      "full_title": "Cast Iron Hydraulic Gear Pump, 16 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-gear-pump-21289070597.html",
+      "price": {
+        "amount": 2999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/ZI/LN/WB/30258400/hydraulic-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/ZI/LN/WB/30258400/hydraulic-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/IV/QF/WR/30258400/hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/IV/QF/WR/30258400/hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/10/UV/XY/MS/30258400/hydraulic-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/10/UV/XY/MS/30258400/hydraulic-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/ZD/LK/MS/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/ZD/LK/MS/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/TN/TQ/AD/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/TN/TQ/AD/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/UH/GQ/ET/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/UH/GQ/ET/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/QB/NT/XM/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/QB/NT/XM/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/JR/AH/KF/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/JR/AH/KF/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/RK/WN/GN/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/RK/WN/GN/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/11/469351710/UX/GF/PO/30258400/hydraulic-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/11/469351710/UX/GF/PO/30258400/hydraulic-gear-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=jszT9TPswdI",
+      "description": [
+        "The Hydraulic Gear Pump is a highly efficient solution for a wide range of hydraulic systems, providing smooth and reliable fluid transfer under pressure. It's ideal for both mobile and industrial applications where high efficiency, durability, and precision are essential. Whether you're working in construction, agriculture, automotive, or manufacturing, this pump offers consistent, high-performance fluid flow, reducing the chances of system failure and improving overall operational efficiency."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "16 LPM"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Head",
+          "value": "10-15 m"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Material",
+          "value": "Steel"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Automatic"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "1 HP"
+        },
+        {
+          "label": "Power",
+          "value": "3 Phase"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil circulation, Mining, Crusher Plant, Power Press"
+        },
+        {
+          "label": "Application",
+          "value": "Construction, Agriculture, Mobile Hydraulics, Industrial, Material Handling"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "1000 RPM"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-02",
+      "indiamart_id": "23567187533",
+      "slug": "1hp-hydraulic-gear-pump-7533",
+      "name": "1hp Hydraulic Gear Pump",
+      "full_title": "Cast Iron 1hp Hydraulic Gear Pump, 16 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/1hp-hydraulic-gear-pump-23567187533.html",
+      "price": {
+        "amount": 11884,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630316447/VJ/LR/QE/30258400/1hp-hydraulic-gear-pump-500x500.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630316447/VJ/LR/QE/30258400/1hp-hydraulic-gear-pump-500x500.jpeg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/10/458059357/XG/QL/JM/30258400/1hp-hydraulic-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/10/458059357/XG/QL/JM/30258400/1hp-hydraulic-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630296389/AC/CN/ZG/30258400/1-hp-hydraulic-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630296389/AC/CN/ZG/30258400/1-hp-hydraulic-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/PA/VI/DP/30258400/img-20210427-165951-copy-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/PA/VI/DP/30258400/img-20210427-165951-copy-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531693/EQ/LH/FQ/30258400/hydraulic-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531693/EQ/LH/FQ/30258400/hydraulic-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/RX/KY/QI/30258400/1hp-hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/RX/KY/QI/30258400/1hp-hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531870/QH/AY/JO/30258400/1hp-hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531870/QH/AY/JO/30258400/1hp-hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630316944/ZL/PF/OD/30258400/1hp-hydraulic-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630316944/ZL/PF/OD/30258400/1hp-hydraulic-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/OU/XC/RT/30258400/1hp-hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/OU/XC/RT/30258400/1hp-hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=ACwHD5wLu-o",
+      "description": [
+        "The 1 HP Hydraulic Gear Pump is a compact and efficient pump designed to deliver precise fluid flow and high-pressure performance for a variety of hydraulic systems. This pump is built to provide reliable operation, whether used in industrial, agricultural, construction, or automotive applications. Engineered with robust materials and advanced design, it ensures durability, energy efficiency, and optimal hydraulic power transmission."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "16 LPM"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Oil Pump"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Semi-Automatic"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "1 HP"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Circulation In Stone Crusher Machine"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise (CW)"
+        },
+        {
+          "label": "Application",
+          "value": "Material Handling, Marine, Mobile Hydraulics, Industrial, Construction"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "960 RPM"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Size",
+          "value": "9036"
+        },
+        {
+          "label": "Motor Phase",
+          "value": "3 Phase"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Motor Type",
+          "value": "Hollow Shaft"
+        },
+        {
+          "label": "Connection Size",
+          "value": "0.5 inch x 0.75 inch"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "2000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-03",
+      "indiamart_id": "23562368762",
+      "slug": "1-hp-hydraulic-pump-8762",
+      "name": "1 HP Hydraulic Pump",
+      "full_title": "Cast Iron Gear 1 HP Hydraulic Pump, 11 LPM, 250 bar",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/1-hp-hydraulic-pump-23562368762.html",
+      "price": {
+        "amount": 10500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630295837/HH/RQ/LU/30258400/1-hp-hydraulic-pump-500x500.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630295837/HH/RQ/LU/30258400/1-hp-hydraulic-pump-500x500.jpeg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/10/458059528/SS/PH/XJ/30258400/1hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/10/458059528/SS/PH/XJ/30258400/1hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/DU/XE/NW/30258400/1hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/DU/XE/NW/30258400/1hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/DN/RS/RX/30258400/1hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/DN/RS/RX/30258400/1hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/AO/AL/EJ/30258400/1hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/AO/AL/EJ/30258400/1hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/MQ/JZ/FE/30258400/1hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/MQ/JZ/FE/30258400/1hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630215919/VS/WN/LU/30258400/1-hp-hydraulic-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630215919/VS/WN/LU/30258400/1-hp-hydraulic-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/NO/IV/WB/30258400/1hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/NO/IV/WB/30258400/1hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/10/458059503/RQ/BB/ZG/30258400/1hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/10/458059503/RQ/BB/ZG/30258400/1hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/OV/TQ/ML/30258400/1hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/OV/TQ/ML/30258400/1hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/10/458059422/AK/EK/ZN/30258400/1hp-hydraulic-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/10/458059422/AK/EK/ZN/30258400/1hp-hydraulic-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=s3DKBr8XhBk",
+      "description": [
+        "The 1 HP Hydraulic Pump is a reliable and efficient hydraulic power source, designed to deliver consistent fluid flow and pressure for a variety of industrial and mobile applications. Engineered with precision and durability, this pump is ideal for systems requiring compact power with high performance."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "11 LPM"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "1 HP"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Gear"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Displacement",
+          "value": "18 cc/rev"
+        },
+        {
+          "label": "Max Operating Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Usage",
+          "value": "Industrial"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Pump"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE 2-Bolt"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Machine Oil Circulation Pump"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Hydraulic Oil"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise (CW)"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Application",
+          "value": "Marine, Construction, Material Handling, Mobile Hydraulics, Industrial"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Voltage",
+          "value": "430 V 3 Phase"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Winding",
+          "value": "100% Standard Enameled Copper Wire"
+        },
+        {
+          "label": "Warranty Period",
+          "value": "6-12 Months"
+        },
+        {
+          "label": "Working",
+          "value": "Oil Circulation"
+        },
+        {
+          "label": "Motor MOC",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Pump MOC",
+          "value": "Aluminum"
+        },
+        {
+          "label": "Temperature Capacity",
+          "value": "Up to 90 °C maximum"
+        },
+        {
+          "label": "Fluid",
+          "value": "Hydraulic Oil"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-04",
+      "indiamart_id": "26739931688",
+      "slug": "hydraulic-gear-pump-40-lpm-1688",
+      "name": "Hydraulic Gear Pump 40 LPM",
+      "full_title": "Aluminium Hydraulic Gear Pump, 40 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-gear-pump-26739931688.html",
+      "price": {
+        "amount": 3500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629634401/HT/RZ/PN/30258400/hydraulic-gear-pump-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629634401/HT/RZ/PN/30258400/hydraulic-gear-pump-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629632467/BT/VA/FM/30258400/hydraulic-gear-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629632467/BT/VA/FM/30258400/hydraulic-gear-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149793/DH/GY/UI/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149793/DH/GY/UI/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149777/QE/CZ/SF/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149777/QE/CZ/SF/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629634661/BP/FC/DE/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629634661/BP/FC/DE/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149812/AA/BP/VP/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149812/AA/BP/VP/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149772/OV/ME/BU/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149772/OV/ME/BU/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149810/SK/SZ/TI/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149810/SK/SZ/TI/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149795/XN/AL/YT/30258400/hydraulic-gear-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/11/359149795/XN/AL/YT/30258400/hydraulic-gear-pump-500x500.jpeg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=1YzdwJ9zTh8",
+      "description": [
+        "The Hydraulic Gear Pump is a key component in hydraulic systems, designed to provide consistent and reliable fluid transfer in demanding applications. Whether for construction, industrial machinery, or agricultural equipment, Hydraulic Gear Pumps are built to deliver high performance under pressure, offering smooth and efficient power transmission. Their robust construction and positive displacement design ensure reliable fluid flow even in the toughest operating conditions."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "40 LPM"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Rotary Pump"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Automatic"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "2 HP"
+        },
+        {
+          "label": "Pressure",
+          "value": ">100 bar"
+        },
+        {
+          "label": "Design Type",
+          "value": "Foot & Flange"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "720/960/1440 RPM"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise (CW)"
+        },
+        {
+          "label": "Application",
+          "value": "Mobile Hydraulics, Industrial, Agriculture, Material Handling, Construction"
+        },
+        {
+          "label": "Frequency",
+          "value": "50 Hz"
+        },
+        {
+          "label": "Voltage",
+          "value": "440 V"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Circulation Pump"
+        },
+        {
+          "label": "Type Of Pump",
+          "value": "External Gear Pump"
+        },
+        {
+          "label": "Motor Power Options",
+          "value": "0.5 to 10 HP"
+        },
+        {
+          "label": "Installation / After Sales Service",
+          "value": "Provided"
+        },
+        {
+          "label": "Maximum Discharge Flow",
+          "value": "100 LPM"
+        },
+        {
+          "label": "Discharge",
+          "value": "0-18000 LPH"
+        },
+        {
+          "label": "Warranty Period",
+          "value": "0-6 Months"
+        },
+        {
+          "label": "I Deal In",
+          "value": "New Only"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Loose / Corrugated Box / Wooden Box"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-05",
+      "indiamart_id": "25470584912",
+      "slug": "hydraulic-gear-pump-25-lpm-4912",
+      "name": "Hydraulic Gear Pump 25 LPM",
+      "full_title": "Aluminium Hydraulic Gear Pump, 25 LPM (Model 1P 9036 CPSTB)",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-gear-pump-25470584912.html",
+      "price": {
+        "amount": 2999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/469351975/CX/TU/TY/30258400/hydraulic-gear-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/469351975/CX/TU/TY/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/EQ/VY/LX/30258400/hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/EQ/VY/LX/30258400/hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/ZU/FT/DX/30258400/hydraulic-pump-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/ZU/FT/DX/30258400/hydraulic-pump-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/LK/GV/RW/30258400/hydraulic-pump-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/LK/GV/RW/30258400/hydraulic-pump-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/GS/KG/AM/30258400/hydraulic-pump-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/GS/KG/AM/30258400/hydraulic-pump-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/MK/TQ/ZG/30258400/hydraulic-pump-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/MK/TQ/ZG/30258400/hydraulic-pump-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/XY/MF/IH/30258400/hydraulic-pump-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/XY/MF/IH/30258400/hydraulic-pump-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/11/467558867/AI/JK/RX/30258400/hydraulic-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/11/467558867/AI/JK/RX/30258400/hydraulic-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/11/469351897/UB/VU/BQ/30258400/hydraulic-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/11/469351897/UB/VU/BQ/30258400/hydraulic-gear-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=ACwHD5wLu-o",
+      "description": [
+        "The Hydraulic Gear Pump is a high-performance, reliable, and efficient pump specifically designed to handle hydraulic fluid systems in various industrial applications. It is known for its simplicity, robust construction, and ability to deliver consistent, high-pressure performance. Hydraulic Gear Pumps are essential components in hydraulic circuits, providing smooth fluid transfer, ensuring the power and efficiency of hydraulic machinery and systems."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "25 LPM"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Speed",
+          "value": "3000 RPM"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Automatic"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "1-30 LPM"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Power Pack"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise (CW)"
+        },
+        {
+          "label": "Application",
+          "value": "Material Handling, Mobile Hydraulics, Industrial"
+        },
+        {
+          "label": "Packaging Type",
+          "value": "Box"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "16 LPM"
+        },
+        {
+          "label": "Rotation",
+          "value": "Clockwise"
+        },
+        {
+          "label": "I Deal In",
+          "value": "New Only"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "1P 9036 CPSTB"
+        },
+        {
+          "label": "Maximum Continuous Pressure",
+          "value": "207 bar"
+        },
+        {
+          "label": "Shaft",
+          "value": "Parallel Key"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-06",
+      "indiamart_id": "23566019548",
+      "slug": "hydraulic-gear-pump-20-lpm-9548",
+      "name": "Hydraulic Gear Pump 20 LPM",
+      "full_title": "Aluminium Hydraulic Gear Pump, 20 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-gear-pump-23566019548.html",
+      "price": {
+        "amount": 2900,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/318189631/PM/CH/CA/30258400/hydraulic-gear-pump-500x500.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/318189631/PM/CH/CA/30258400/hydraulic-gear-pump-500x500.jpeg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/IE/IX/FO/30258400/tractors-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/IE/IX/FO/30258400/tractors-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/MX/KB/FX/30258400/tractors-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/MX/KB/FX/30258400/tractors-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/YG/KK/YS/30258400/tractors-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/YG/KK/YS/30258400/tractors-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/AH/TW/VF/30258400/tractors-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/AH/TW/VF/30258400/tractors-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/SE/MF/JS/30258400/tractors-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/SE/MF/JS/30258400/tractors-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/QD/DE/GA/30258400/tractors-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/QD/DE/GA/30258400/tractors-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/JR/YY/UK/30258400/tractors-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/JR/YY/UK/30258400/tractors-hydraulic-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=JyCJnV9-iTU",
+      "description": [
+        "The Hydraulic Gear Pump is a vital component in hydraulic systems, designed to provide a consistent flow of fluid under pressure for a wide range of applications. Known for its durability, compact design, and reliability, this pump is ideal for powering machinery in industries like construction, agriculture, manufacturing, and automotive. Its simple yet effective operation makes it a go-to choice for systems that require dependable performance, especially in heavy-duty applications."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Speed",
+          "value": "1000 RPM"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE B 2-Bolt"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "1-30 LPM"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Tapered"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Counter-Clockwise"
+        },
+        {
+          "label": "Application",
+          "value": "Industrial, Material Handling"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Circulation in Stone Crusher Machine"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "12 LPM"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-07",
+      "indiamart_id": "2850546426212",
+      "slug": "hydraulic-gear-pump-1p-6212",
+      "name": "Hydraulic Gear Pump 1P",
+      "full_title": "Aluminium Hydraulic Gear Pump 1P, 20 LPM (JGP1 series)",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-gear-pump-1p-2850546426212.html",
+      "price": {
+        "amount": 3500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/9/341003463/MP/YZ/JL/30258400/hydraulic-gear-pump-1p-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/9/341003463/MP/YZ/JL/30258400/hydraulic-gear-pump-1p-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/294352618/EJ/JZ/FQ/30258400/hydraulic-gear-pump-1p-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/294352618/EJ/JZ/FQ/30258400/hydraulic-gear-pump-1p-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/294352607/BD/IZ/FF/30258400/hydraulic-gear-pump-1p-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/294352607/BD/IZ/FF/30258400/hydraulic-gear-pump-1p-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375222463/MU/BR/OZ/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375222463/MU/BR/OZ/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531520/CZ/AR/CV/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531520/CZ/AR/CV/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375222511/TS/BJ/CX/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375222511/TS/BJ/CX/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=GoabDadj2hc",
+      "description": [
+        "The Hydraulic Gear Pump 1P is a compact, high-performance hydraulic pump designed for efficient fluid transfer in various industrial and mobile applications. Its robust construction and precision engineering make it a reliable choice for operations requiring consistent power delivery, durability, and ease of maintenance."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Pump Series",
+          "value": "JGP1"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Displacement",
+          "value": "11–20 cm³/rev"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Flange Mount"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Port Size",
+          "value": "3/4 inch"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Circulation / Power Pack"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed Shaft"
+        },
+        {
+          "label": "Pump Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise (CW)"
+        },
+        {
+          "label": "Application",
+          "value": "Industrial Hydraulic, Agriculture Machine, Mobile Hydraulic, Construction Machine, Material Handling"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "India"
+        },
+        {
+          "label": "Weight",
+          "value": "4 kg"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "40 LPM"
+        },
+        {
+          "label": "Maximum Flow",
+          "value": "2400 LPH"
+        },
+        {
+          "label": "Media",
+          "value": "Oil"
+        },
+        {
+          "label": "Head",
+          "value": "5-10 m"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready in Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-08",
+      "indiamart_id": "2850546325330",
+      "slug": "hydraulic-gear-pump-0p-5330",
+      "name": "Hydraulic Gear Pump 0P",
+      "full_title": "Aluminium Hydraulic Gear Pump 0P, 1.2 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-gear-pump-0p-2850546325330.html",
+      "price": {
+        "amount": 2990,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/294351650/XQ/HP/AH/30258400/hydraulic-gear-pump-0p-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/294351650/XQ/HP/AH/30258400/hydraulic-gear-pump-0p-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/294351928/OX/WA/IK/30258400/hydraulic-gear-pump-0p-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/294351928/OX/WA/IK/30258400/hydraulic-gear-pump-0p-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/294351864/GE/EE/ED/30258400/hydraulic-gear-pump-0p-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/294351864/GE/EE/ED/30258400/hydraulic-gear-pump-0p-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=GoabDadj2hc",
+      "description": [
+        "The Hydraulic Gear Pump 0P is a highly efficient and compact pump designed to provide consistent, reliable fluid transfer in hydraulic systems. Known for its simplicity and durability, this pump is perfect for applications that require precise fluid flow under pressure.",
+        "It needs minimal maintenance and suits light to medium-duty applications across construction, material handling, and automotive sectors."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "1.2 LPM"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "1-30 LPM"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Circulation / Power Pack"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise (CW)"
+        },
+        {
+          "label": "Application",
+          "value": "Industrial, Material Handling, Mobile Hydraulics"
+        },
+        {
+          "label": "Material",
+          "value": "Aluminium & CI"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "1 LPM"
+        },
+        {
+          "label": "Maximum Flow",
+          "value": "72 LPH"
+        },
+        {
+          "label": "Head",
+          "value": "0-5 m"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready in Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-09",
+      "indiamart_id": "22692940988",
+      "slug": "hydraulic-gear-pump-10-lpm-0988",
+      "name": "Hydraulic Gear Pump 10 LPM",
+      "full_title": "Cast Iron Hydraulic Gear Pump, 10 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-gear-pump-22692940988.html",
+      "price": {
+        "amount": 3500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/2/EX/YX/RQ/30258400/oil-transfer-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/2/EX/YX/RQ/30258400/oil-transfer-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/314980462/PY/NX/NK/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/314980462/PY/NX/NK/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370870622/HC/OL/TI/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370870622/HC/OL/TI/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370870684/GY/ZJ/XZ/30258400/hydraulic-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370870684/GY/ZJ/XZ/30258400/hydraulic-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370870682/WU/OM/DR/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370870682/WU/OM/DR/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871118/TQ/MI/KC/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871118/TQ/MI/KC/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871159/VW/OI/AC/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871159/VW/OI/AC/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/11/469351502/GV/PF/WT/30258400/hydraulic-gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/11/469351502/GV/PF/WT/30258400/hydraulic-gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531520/CZ/AR/CV/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531520/CZ/AR/CV/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=37UHMRsw3fg",
+      "description": [
+        "The Hydraulic Gear Pump is a reliable and efficient fluid transfer solution designed for a wide range of industrial and mobile hydraulic systems. With its compact design and precision-engineered components, the pump ensures smooth operation, consistent performance, and long service life, even in demanding applications. This versatile pump is ideal for applications requiring high-pressure operation and precise fluid delivery."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "10 LPM"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Gear"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Power",
+          "value": "0.75 HP"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "1-30 LPM"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Lubrication / Oil Transfer"
+        },
+        {
+          "label": "Application",
+          "value": "Construction, Material Handling, Industrial, Mobile Hydraulics"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "1440 RPM"
+        },
+        {
+          "label": "Outlet Delivery",
+          "value": "1/2\" BSPF"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-10",
+      "indiamart_id": "2850546475333",
+      "slug": "hydraulic-gear-pump-9036-5333",
+      "name": "Hydraulic Gear Pump 9036",
+      "full_title": "Aluminium Hydraulic Gear Pump 9036, 16 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-gear-pump-9036-2850546475333.html",
+      "price": {
+        "amount": 3500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/468833111/TK/NT/DG/30258400/hydraulic-gear-pump-9036-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/468833111/TK/NT/DG/30258400/hydraulic-gear-pump-9036-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/294356509/YG/OV/YS/30258400/hydraulic-pump-9036-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/294356509/YG/OV/YS/30258400/hydraulic-pump-9036-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/294356500/DW/WO/AV/30258400/hydraulic-pump-9036-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/294356500/DW/WO/AV/30258400/hydraulic-pump-9036-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375223984/XN/LX/YF/30258400/hydraulic-gear-pump-9036-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375223984/XN/LX/YF/30258400/hydraulic-gear-pump-9036-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375224033/IP/MQ/AZ/30258400/hydraulic-gear-pump-9036-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375224033/IP/MQ/AZ/30258400/hydraulic-gear-pump-9036-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375224041/FQ/WE/IO/30258400/hydraulic-gear-pump-9036-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375224041/FQ/WE/IO/30258400/hydraulic-gear-pump-9036-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375224050/MF/PJ/BQ/30258400/hydraulic-gear-pump-9036-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375224050/MF/PJ/BQ/30258400/hydraulic-gear-pump-9036-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=evAsh4BqTCo",
+      "description": [
+        "The Hydraulic Gear Pump 9036 is a top-tier solution designed for high-efficiency fluid transfer in a wide range of hydraulic systems. Known for its robust construction, reliability, and performance, this pump is ideal for various industries, including manufacturing, construction, agriculture, and automotive. Engineered to deliver smooth, continuous flow with minimal maintenance, the Hydraulic Gear Pump 9036 ensures optimal lubrication and fluid power distribution for heavy-duty applications."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "16 LPM"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Rotary Pump"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "1-30 LPM"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Circulation / Hydraulic Power Pack"
+        },
+        {
+          "label": "Application",
+          "value": "Agriculture, Marine, Industrial, Construction, Material Handling, Mobile Hydraulics"
+        },
+        {
+          "label": "Max Speed",
+          "value": "3000 RPM"
+        },
+        {
+          "label": "Material",
+          "value": "Aluminium / CI"
+        },
+        {
+          "label": "Fluid Type",
+          "value": "Oil"
+        },
+        {
+          "label": "Maximum Flow",
+          "value": "16 LPM"
+        },
+        {
+          "label": "Head",
+          "value": "5-10 m"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready in Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-11",
+      "indiamart_id": "2850546522133",
+      "slug": "hydraulic-oil-pump-9028-2133",
+      "name": "Hydraulic Oil Pump 9028",
+      "full_title": "Cast Iron Hydraulic Oil Pump 9028, 11 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-oil-pump-9028-2850546522133.html",
+      "price": {
+        "amount": 3500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/9/341003691/YM/PJ/HK/30258400/hydraulic-oil-pump-9028-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/9/341003691/YM/PJ/HK/30258400/hydraulic-oil-pump-9028-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/294357677/TD/WY/UE/30258400/hydraulic-pump2-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/294357677/TD/WY/UE/30258400/hydraulic-pump2-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/294357664/NJ/EY/EM/30258400/hydraulic-bracket-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/294357664/NJ/EY/EM/30258400/hydraulic-bracket-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375222734/HY/MA/EA/30258400/hydraulic-gear-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375222734/HY/MA/EA/30258400/hydraulic-gear-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375222725/CV/RR/QX/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375222725/CV/RR/QX/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375222723/NW/HK/CW/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375222723/NW/HK/CW/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232257/CT/AK/RX/30258400/hydraulic-oil-pump-9028-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232257/CT/AK/RX/30258400/hydraulic-oil-pump-9028-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232265/TM/CB/LX/30258400/hydraulic-oil-pump-9028-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232265/TM/CB/LX/30258400/hydraulic-oil-pump-9028-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232283/VJ/AY/YO/30258400/hydraulic-oil-pump-9028-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375232283/VJ/AY/YO/30258400/hydraulic-oil-pump-9028-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=evAsh4BqTCo",
+      "description": [
+        "The Hydraulic Oil Pump 9028 is engineered to provide optimal fluid power and performance for a wide variety of hydraulic applications. Known for its durability, efficiency, and high-pressure capabilities, this pump is ideal for use in manufacturing, construction, automotive, and agricultural equipment, ensuring smooth, continuous operation of hydraulic systems."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "11 LPM"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Gear Pump"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Displacement",
+          "value": "10 cc/rev"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Flange Mounted"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Suitable Oil",
+          "value": "Hydraulic Oil"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "1-30 LPM"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed Shaft"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise (CW)"
+        },
+        {
+          "label": "Driven By",
+          "value": "Electric Motor"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "3000 RPM"
+        },
+        {
+          "label": "Application",
+          "value": "Construction Machinery, Injection Moulding, Agricultural Tractor, Press Machine, Hydraulic Power Pack"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "India"
+        },
+        {
+          "label": "Material",
+          "value": "Aluminium / Cast Iron"
+        },
+        {
+          "label": "Weight",
+          "value": "3.5 kg"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "12 LPM"
+        },
+        {
+          "label": "Maximum Flow",
+          "value": "720 LPH"
+        },
+        {
+          "label": "Head",
+          "value": "5-10 m"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready in Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [],
+      "note": "Description may be slightly condensed; check against IndiaMART"
+    },
+    {
+      "id": "hyd-12",
+      "indiamart_id": "2850570864862",
+      "slug": "comely-hydraulic-gear-pump-4862",
+      "name": "Comely Hydraulic Gear Pump",
+      "full_title": "Aluminium Comely Hydraulic Gear Pump, 40 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/comely-hydraulic-gear-pump-2850570864862.html",
+      "price": {
+        "amount": 3500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629117481/RT/YF/MS/30258400/comely-hydraulic-gear-pump-500x500.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629117481/RT/YF/MS/30258400/comely-hydraulic-gear-pump-500x500.jpeg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318533630/CW/FN/BB/30258400/comely-hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318533630/CW/FN/BB/30258400/comely-hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/295192985/AB/WL/XO/30258400/hydraulic-bracket-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/295192985/AB/WL/XO/30258400/hydraulic-bracket-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318533631/QR/OY/WU/30258400/comely-hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318533631/QR/OY/WU/30258400/comely-hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318533629/PB/RF/WE/30258400/comely-hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318533629/PB/RF/WE/30258400/comely-hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629117756/RS/HA/II/30258400/comely-hydraulic-gear-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629117756/RS/HA/II/30258400/comely-hydraulic-gear-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318533627/FE/LS/LT/30258400/comely-hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318533627/FE/LS/LT/30258400/comely-hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629117758/AO/RH/EO/30258400/comely-hydraulic-gear-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629117758/AO/RH/EO/30258400/comely-hydraulic-gear-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/295192980/GV/DX/JE/30258400/4965483d-fce3-4928-9690-90308a59b4fb-250x250.JPEG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/295192980/GV/DX/JE/30258400/4965483d-fce3-4928-9690-90308a59b4fb-500x500.JPEG",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=rBIrus46jrE",
+      "description": [
+        "The Comely Hydraulic Gear Pump is an excellent choice for industries requiring high-efficiency fluid transfer and consistent performance in hydraulic systems. Known for its robust construction, smooth operation, and long-lasting durability, this gear pump is ideal for a variety of applications across manufacturing, automotive, construction, and material handling sectors. Designed to handle demanding environments, the Comely Hydraulic Gear Pump provides precise fluid delivery with minimal maintenance."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "40 LPM"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Gear Pump"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Pressure",
+          "value": ">100 bar"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "30-60 LPM"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Circulation / Power Pack"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise (CW)"
+        },
+        {
+          "label": "Application",
+          "value": "Mobile Hydraulics, Marine, Industrial, Agriculture, Material Handling, Construction"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "1000 RPM"
+        },
+        {
+          "label": "Weight",
+          "value": "3.5 kg"
+        },
+        {
+          "label": "Motor Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "100 LPM"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready in Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-13",
+      "indiamart_id": "22692950455",
+      "slug": "hydraulic-gear-pump-0-75-hp-0455",
+      "name": "Hydraulic Gear Pump 0.75 HP",
+      "full_title": "Cast Iron Hydraulic Gear Pump, 10 LPM, 0.75 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-gear-pump-22692950455.html",
+      "price": {
+        "amount": 9999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629632649/ZR/GP/PQ/30258400/hydraulic-gear-pump-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629632649/ZR/GP/PQ/30258400/hydraulic-gear-pump-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233915/XV/TP/BJ/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233915/XV/TP/BJ/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233857/BL/XV/IM/30258400/hydraulic-gear-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233857/BL/XV/IM/30258400/hydraulic-gear-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233843/ZI/HK/YC/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233843/ZI/HK/YC/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/9/341002974/DZ/GY/XO/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/9/341002974/DZ/GY/XO/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233939/CF/KV/GD/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233939/CF/KV/GD/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233909/KC/BH/XM/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233909/KC/BH/XM/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/10/MC/TX/MU/30258400/0-75hp-tractor-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/10/MC/TX/MU/30258400/0-75hp-tractor-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233845/TI/YL/VJ/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/1/375233845/TI/YL/VJ/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/GU/PH/XC/30258400/0-75hp-tractor-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/GU/PH/XC/30258400/0-75hp-tractor-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=8kBM7efA854",
+      "description": [
+        "The Hydraulic Gear Pump is a powerful, high-efficiency pump designed for use in hydraulic systems to provide steady, reliable fluid flow under pressure. It is widely used in industries such as construction, agriculture, automotive, and manufacturing, where hydraulic systems require robust and consistent fluid delivery. Known for its durability and smooth operation, the Hydraulic Gear Pump is ideal for high-pressure, high-flow applications, ensuring reliable operation even in demanding environments."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Rotary Pump"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "10 LPM"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Power",
+          "value": "0.75 HP"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "210 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Application",
+          "value": "Construction, Industrial, Material Handling, Mobile Hydraulics"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "1440 RPM"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Fuel",
+          "value": "Oil"
+        },
+        {
+          "label": "Type",
+          "value": "Oil Gear Pump"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-14",
+      "indiamart_id": "2853684208412",
+      "slug": "hydraulic-gear-pump-2p-8412",
+      "name": "Hydraulic Gear Pump 2P",
+      "full_title": "Aluminium Hydraulic Gear Pump 2P, 30 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-gear-pump-2p-2853684208412.html",
+      "price": {
+        "amount": 9999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629118347/UD/ZU/EZ/30258400/hydraulic-gear-pump-2p-500x500.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629118347/UD/ZU/EZ/30258400/hydraulic-gear-pump-2p-500x500.jpeg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/3/402431242/IH/ES/PQ/30258400/hydraulic-gear-pump-2p-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/3/402431242/IH/ES/PQ/30258400/hydraulic-gear-pump-2p-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/3/402430825/WZ/QY/SH/30258400/hydraulic-gear-pump-2p-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/3/402430825/WZ/QY/SH/30258400/hydraulic-gear-pump-2p-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/3/402431272/UM/ZH/JN/30258400/hydraulic-gear-pump-2p-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/3/402431272/UM/ZH/JN/30258400/hydraulic-gear-pump-2p-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629118434/CH/CY/TR/30258400/hydraulic-gear-pump-2p-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629118434/CH/CY/TR/30258400/hydraulic-gear-pump-2p-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2024/8/446511371/GA/CK/EH/30258400/hydraulic-gear-pump-2p-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2024/8/446511371/GA/CK/EH/30258400/hydraulic-gear-pump-2p-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629118409/LP/JM/OY/30258400/hydraulic-gear-pump-2p-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629118409/LP/JM/OY/30258400/hydraulic-gear-pump-2p-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/3/402436603/ZF/GM/BV/30258400/hydraulic-gear-pump-2p-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/3/402436603/ZF/GM/BV/30258400/hydraulic-gear-pump-2p-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/3/402430978/OY/RG/PJ/30258400/hydraulic-gear-pump-2p-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/3/402430978/OY/RG/PJ/30258400/hydraulic-gear-pump-2p-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=y1jAknDpFkA",
+      "description": [
+        "The Hydraulic Gear Pump 2P is a compact, reliable, and efficient pump designed for various hydraulic systems requiring consistent fluid flow and high-pressure operation. Its robust construction and precision-engineered components make it ideal for demanding applications in industries such as agriculture, construction, and manufacturing. With a durable design and efficient performance, this pump ensures longevity and reliability under tough conditions."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "30 LPM"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Speed",
+          "value": "3000 RPM"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "1 HP"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "100 LPM"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Hydraulic Oil Pump"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise (CW)"
+        },
+        {
+          "label": "Application",
+          "value": "Material Handling, Industrial, Agriculture, Mobile Hydraulics, Construction"
+        },
+        {
+          "label": "Size",
+          "value": "3/4 inch"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-15",
+      "indiamart_id": "2850709018691",
+      "slug": "gear-pump-8691",
+      "name": "Gear Pump",
+      "full_title": "Gear Pump (External Gear, 40 LPM)",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/gear-pump-2850709018691.html",
+      "price": {
+        "amount": 3499,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/629118163/NG/BA/NX/30258400/gear-pump-500x500.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/629118163/NG/BA/NX/30258400/gear-pump-500x500.jpeg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/303719373/DB/ET/HO/30258400/gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/303719373/DB/ET/HO/30258400/gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/467363298/KU/UZ/TA/30258400/gear-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/467363298/KU/UZ/TA/30258400/gear-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/303719352/YV/QH/BK/30258400/gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/303719352/YV/QH/BK/30258400/gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/467359366/SS/OF/GH/30258400/gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/467359366/SS/OF/GH/30258400/gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/303719355/YN/AL/EB/30258400/gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/303719355/YN/AL/EB/30258400/gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/303719580/FD/SV/KK/30258400/gear-pump-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/303719580/FD/SV/KK/30258400/gear-pump-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/303719409/MZ/GE/QK/30258400/gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/303719409/MZ/GE/QK/30258400/gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/467359202/CB/IQ/NG/30258400/gear-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/467359202/CB/IQ/NG/30258400/gear-pump-500x500.jpeg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=rBIrus46jrE",
+      "description": [
+        "The Gear Pump is a positive displacement pump designed to provide smooth, continuous, and reliable fluid flow. With its simple yet efficient design, the gear pump is widely used in various industries for transferring both low and high viscosity fluids. It performs well in demanding applications that need high pressure and precision, including lubrication systems, hydraulic systems, and fluid transfer on production lines."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "External Gear"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "40 LPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Motor Power",
+          "value": "5 HP"
+        },
+        {
+          "label": "Pump Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Medium",
+          "value": "Diesel, Chemical, Veg Oil, Hydraulic Oil, Lube Oil"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Flange Mount"
+        },
+        {
+          "label": "Seal Type",
+          "value": "Lip Seal"
+        },
+        {
+          "label": "Suction Type",
+          "value": "Self Priming"
+        },
+        {
+          "label": "Frequency",
+          "value": "50 Hz"
+        },
+        {
+          "label": "Voltage",
+          "value": "430 V"
+        },
+        {
+          "label": "Application",
+          "value": "Mobile Hydraulic, Lubrication, Hydraulic Oil Transfer or Power Pack, Industrial Hydraulic, Transfer Pump"
+        },
+        {
+          "label": "Maximum Discharge Flow",
+          "value": "100 Litre Per Minute"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "100000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [],
+      "features": [
+        "Aluminium housing with special alloys for peak efficiency and long life",
+        "High-grade cast iron pump covers that prevent deformation at pressures up to 200 bar",
+        "Maximum operating speed of 3000 RPM",
+        "Strong construction with 17.45 mm shaft diameter"
+      ],
+      "note": "Description may be slightly condensed; check against IndiaMART"
+    },
+    {
+      "id": "hyd-16",
+      "indiamart_id": "2850709018933",
+      "slug": "electric-hydraulic-pump-8933",
+      "name": "Electric Hydraulic Pump",
+      "full_title": "Cast Iron Electric Hydraulic Pump, 10 LPM (with 50 L tank)",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/electric-hydraulic-pump-2850709018933.html",
+      "price": {
+        "amount": 15500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/5/304894977/VA/LW/GQ/30258400/electric-hydraulic-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/5/304894977/VA/LW/GQ/30258400/electric-hydraulic-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/WY/FW/DS/30258400/hydraulic-with-tank-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/WY/FW/DS/30258400/hydraulic-with-tank-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318699008/HS/RZ/LG/30258400/electric-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/6/318699008/HS/RZ/LG/30258400/electric-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630298484/LP/TA/VD/30258400/electric-hydraulic-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630298484/LP/TA/VD/30258400/electric-hydraulic-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630298479/WY/OR/WS/30258400/electric-hydraulic-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630298479/WY/OR/WS/30258400/electric-hydraulic-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630298486/XQ/XK/VE/30258400/electric-hydraulic-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630298486/XQ/XK/VE/30258400/electric-hydraulic-pump-500x500.jpeg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=NelVkN0BSGA",
+      "description": [
+        "An Electric Hydraulic Pump is a high-performance power unit designed to generate hydraulic pressure using an electric motor, enabling efficient operation of heavy-duty machinery and tools. Widely used in industrial, construction, automotive, and maintenance applications, it delivers high force output, precise control, and reliable performance for cylinders, presses, jacks, and lifting systems."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "10 LPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Rotary Pump"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "1 HP"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Discharge Flow Rate",
+          "value": "10 LPM"
+        },
+        {
+          "label": "Size",
+          "value": "12 inch"
+        },
+        {
+          "label": "Motor Power",
+          "value": "0.75 kW"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "200 LPM"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Operation",
+          "value": "Single Acting"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Automatic"
+        },
+        {
+          "label": "Voltage",
+          "value": "415 V"
+        },
+        {
+          "label": "Mounting",
+          "value": "Tank Mounted"
+        },
+        {
+          "label": "Oil Tank Capacity",
+          "value": "50 litre"
+        },
+        {
+          "label": "Application",
+          "value": "Hydraulic Jack, Hydraulic Press, Lifting"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Circulation or Power Pack Machines"
+        },
+        {
+          "label": "Motor",
+          "value": "100% Copper"
+        },
+        {
+          "label": "Reservoir",
+          "value": "MS Oil Tank"
+        },
+        {
+          "label": "I Deal In",
+          "value": "New Only"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Tank Packaging"
+        }
+      ],
+      "product_details": [
+        {
+          "label": "Pressure Capability",
+          "value": "Up to 10,000 PSI (700 bar) or higher"
+        },
+        {
+          "label": "Power",
+          "value": "AC/DC electric motors"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "Variable per model"
+        },
+        {
+          "label": "Oil Capacity",
+          "value": "5 L – 60 L"
+        },
+        {
+          "label": "Pump Configurations",
+          "value": "Gear / Piston / Vane"
+        },
+        {
+          "label": "Operation",
+          "value": "Single or double acting"
+        }
+      ],
+      "features": [
+        "High-pressure output for demanding applications",
+        "Energy-efficient motor operation",
+        "Compact, portable design",
+        "Durable, long-lasting construction",
+        "Manual or solenoid valve control options",
+        "Low noise and low maintenance"
+      ],
+      "applications": [
+        "Industrial presses and machinery",
+        "Vehicle lifting equipment",
+        "Bolt tensioning and fastening",
+        "Construction and heavy equipment",
+        "Material handling systems"
+      ],
+      "benefits": [
+        "High efficiency with reduced operating costs",
+        "Precise pressure and movement control",
+        "Suitable for continuous industrial operation",
+        "Safe, dependable performance"
+      ],
+      "note": "Description may be slightly condensed; check against IndiaMART"
+    },
+    {
+      "id": "hyd-17",
+      "indiamart_id": "22692926791",
+      "slug": "1-hp-hydraulic-pump-lubrication-unit-6791",
+      "name": "1 HP Hydraulic Pump (Lubrication Unit)",
+      "full_title": "1 HP Hydraulic Pump, Gear, 11-25 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/1-hp-hydraulic-pump-22692926791.html",
+      "price": {
+        "amount": 11884,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630211979/HB/XL/FH/30258400/1-hp-hydraulic-pump-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630211979/HB/XL/FH/30258400/1-hp-hydraulic-pump-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/OE/TM/AG/30258400/1-hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/OE/TM/AG/30258400/1-hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/CF/OP/ZW/30258400/1-hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/CF/OP/ZW/30258400/1-hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/YD/XH/QV/30258400/1-hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/YD/XH/QV/30258400/1-hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/KD/VB/SW/30258400/1-hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/KD/VB/SW/30258400/1-hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/VJ/DG/OV/30258400/1-hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/VJ/DG/OV/30258400/1-hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/MC/MQ/WQ/30258400/1-hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/MC/MQ/WQ/30258400/1-hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630296433/SM/EA/RA/30258400/1-hp-hydraulic-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630296433/SM/EA/RA/30258400/1-hp-hydraulic-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/LE/XU/TT/30258400/1-hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/LE/XU/TT/30258400/1-hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/ED/OU/QG/30258400/1-hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/ED/OU/QG/30258400/1-hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/KM/CO/FK/30258400/1-hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/KM/CO/FK/30258400/1-hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=jszT9TPswdI",
+      "description": [
+        "The 1 HP Hydraulic Pump is a versatile, high-performance solution designed to provide reliable hydraulic power in a wide range of industrial and mobile applications. With its robust construction and efficient operation, this pump is ideal for powering systems that require consistent fluid flow and pressure. Whether used in manufacturing, construction, or material handling, the 1 HP Hydraulic Pump delivers optimal performance while ensuring minimal energy consumption."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Gear"
+        },
+        {
+          "label": "Compatible Machine",
+          "value": "Lubrication Unit"
+        },
+        {
+          "label": "Max Operating Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "11-25 LPM"
+        },
+        {
+          "label": "Operating Pressure Range",
+          "value": "1-100 bar (15-1450 psi)"
+        },
+        {
+          "label": "Usage",
+          "value": "Industrial"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Application",
+          "value": "Earthmoving Machinery, Fly Ash Brick Making Machine, Excavator, Industrial Presses, Material Handling, Agricultural Machinery"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Automatic"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Pump"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "1 HP"
+        },
+        {
+          "label": "Discharge Range",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Machine, Hydraulic Equipments, Power Pack"
+        },
+        {
+          "label": "Displacement",
+          "value": "18 cc/rev"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE 2-Bolt"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise"
+        },
+        {
+          "label": "Max Speed",
+          "value": "3000 RPM"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "1000 RPM"
+        },
+        {
+          "label": "Pump Power",
+          "value": "1 HP (0.75 kW)"
+        },
+        {
+          "label": "Fluid Options",
+          "value": "Mineral Oil, Synthetic Oil"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Condition",
+          "value": "New"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-18",
+      "indiamart_id": "2850546316288",
+      "slug": "hydraulic-pumps-1-10-lpm-6288",
+      "name": "Hydraulic Pumps 1–10 LPM",
+      "full_title": "Hydraulic Pumps, Gear, 1-10 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-pumps-2850546316288.html",
+      "price": {
+        "amount": 2999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/3/592711643/NM/TZ/YV/30258400/hydraulic-pumps-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/3/592711643/NM/TZ/YV/30258400/hydraulic-pumps-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/3/403254234/CR/FP/UL/30258400/hydraulic-pumps-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/3/403254234/CR/FP/UL/30258400/hydraulic-pumps-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/3/294351201/PN/IV/AP/30258400/1-lpm-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/3/294351201/PN/IV/AP/30258400/1-lpm-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370870702/EI/FI/FZ/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370870702/EI/FI/FZ/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/11/469351813/KM/IL/EE/30258400/hydraulic-pumps-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/11/469351813/KM/IL/EE/30258400/hydraulic-pumps-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/3/592712145/PQ/OB/MO/30258400/hydraulic-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/3/592712145/PQ/OB/MO/30258400/hydraulic-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/3/592712007/IC/DT/KG/30258400/hydraulic-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/3/592712007/IC/DT/KG/30258400/hydraulic-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/3/592711777/JR/OL/OB/30258400/hydraulic-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/3/592711777/JR/OL/OB/30258400/hydraulic-pumps-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=GoabDadj2hc",
+      "description": [
+        "Hydraulic Pumps are essential components of hydraulic systems, converting mechanical energy into hydraulic energy to generate fluid flow under pressure. These pumps are designed to deliver precise and consistent performance across a wide range of industrial, agricultural, and mobile applications. With advanced engineering and robust construction, hydraulic pumps provide reliable and efficient operation, even in the most demanding environments."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Gear"
+        },
+        {
+          "label": "Compatible Machine",
+          "value": "Industrial"
+        },
+        {
+          "label": "Max Operating Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "1-10 LPM"
+        },
+        {
+          "label": "Operating Pressure Range",
+          "value": "211-250 bar (3060-3626 psi)"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Usage",
+          "value": "Industrial"
+        },
+        {
+          "label": "Application",
+          "value": "Fly Ash Brick Making Machine, Tractor, Material Handling, Agricultural Machinery, Earthmoving Machinery, Boiler Pressure Vessels, Industrial Presses, Plastic Molding, Machine Tools, Excavator"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Pump"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Circulation / Power Pack"
+        },
+        {
+          "label": "Displacement",
+          "value": "18 cc/rev"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE 2-Bolt"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise"
+        },
+        {
+          "label": "Max Speed",
+          "value": "3000 RPM"
+        },
+        {
+          "label": "Pump Power",
+          "value": "1 HP (0.75 kW)"
+        },
+        {
+          "label": "Fluid Options",
+          "value": "Synthetic Oil, Mineral Oil"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Condition",
+          "value": "New"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "India"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "6 LPM"
+        },
+        {
+          "label": "Maximum Flow",
+          "value": "360 LPH"
+        },
+        {
+          "label": "Head",
+          "value": "0-5 m"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "5000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready in Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-19",
+      "indiamart_id": "2854723184830",
+      "slug": "hydraulic-pumps-20-lpm-4830",
+      "name": "Hydraulic Pumps 20 LPM",
+      "full_title": "Hydraulic Pumps, Gear, 20 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/hydraulic-pumps-2854723184830.html",
+      "price": {
+        "amount": 3500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/630317213/HU/DA/EG/30258400/hydraulic-pumps-500x500.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/630317213/HU/DA/EG/30258400/hydraulic-pumps-500x500.jpeg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/8/445607854/HV/PP/BD/30258400/hydraulic-pumps-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/8/445607854/HV/PP/BD/30258400/hydraulic-pumps-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/8/445607769/VG/CC/SM/30258400/hydraulic-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/8/445607769/VG/CC/SM/30258400/hydraulic-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/AI/IA/JH/30258400/nylon-couple-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/AI/IA/JH/30258400/nylon-couple-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/11/359166255/NE/BQ/BK/30258400/oil-transfer-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/11/359166255/NE/BQ/BK/30258400/oil-transfer-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531693/EQ/LH/FQ/30258400/hydraulic-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483531693/EQ/LH/FQ/30258400/hydraulic-pumps-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=PcPl2eAfjSc",
+      "description": [
+        "Hydraulic Pumps are the cornerstone of fluid power systems, designed to convert mechanical energy into hydraulic energy by creating a flow of fluid under pressure. Known for their reliability, durability, and high efficiency, these pumps are critical components in a wide range of industrial, mobile, and agricultural applications. Whether for lifting, pressing, or transferring power, hydraulic pumps ensure smooth and precise operation in demanding environments."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Gear"
+        },
+        {
+          "label": "Compatible Machine",
+          "value": "Hydraulic Pump"
+        },
+        {
+          "label": "Max Operating Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Operating Pressure Range",
+          "value": "211-250 bar (3060-3626 psi)"
+        },
+        {
+          "label": "Usage",
+          "value": "Industrial"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Application",
+          "value": "Boiler Pressure Vessels, Plastic Molding, Earthmoving Machinery, Machine Tools, Industrial Presses, Excavator, Material Handling, Fly Ash Brick Making Machine, Agricultural Machinery"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Pump"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Automatic"
+        },
+        {
+          "label": "Motor Horsepower",
+          "value": "2 HP"
+        },
+        {
+          "label": "Pressure",
+          "value": "5 bar"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Hydraulic Equipments"
+        },
+        {
+          "label": "Displacement",
+          "value": "18 cc/rev"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE 2-Bolt"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Motor Speed",
+          "value": "2000 RPM"
+        },
+        {
+          "label": "Max Speed",
+          "value": "3000 RPM"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise"
+        },
+        {
+          "label": "Pump Power",
+          "value": "1 HP (0.75 kW)"
+        },
+        {
+          "label": "Fluid Options",
+          "value": "Synthetic Oil, Mineral Oil"
+        },
+        {
+          "label": "Body Material",
+          "value": "Aluminium"
+        },
+        {
+          "label": "Installation / After Sales Service",
+          "value": "Provided"
+        },
+        {
+          "label": "Condition",
+          "value": "New"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "India"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "hyd-20",
+      "indiamart_id": "20815727073",
+      "slug": "aluminium-bell-housing-7073",
+      "name": "Aluminium Bell Housing",
+      "full_title": "Aluminium Bell Housing",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/aluminium-bell-housing-20815727073.html",
+      "price": {
+        "amount": 800,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/VR/DQ/BU/30258400/bell-housing-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/VR/DQ/BU/30258400/bell-housing-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/HR/JB/BV/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/HR/JB/BV/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/DG/SN/MM/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/DG/SN/MM/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/RT/UX/KG/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/RT/UX/KG/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/SJ/SK/PU/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/SJ/SK/PU/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/FP/SP/IB/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/FP/SP/IB/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/OZ/QF/TG/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/OZ/QF/TG/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/AY/YN/QH/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/AY/YN/QH/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/IO/QH/SJ/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/IO/QH/SJ/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/GI/VZ/XN/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/GI/VZ/XN/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/XC/YQ/RZ/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/XC/YQ/RZ/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/TX/LJ/ZE/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/TX/LJ/ZE/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/SW/IS/RL/30258400/aluminium-bell-housing-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/SW/IS/RL/30258400/aluminium-bell-housing-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=ENrT22Bd23o",
+      "description": [
+        "The Aluminium Bell Housing is an essential component designed to provide a secure and precise connection between hydraulic pumps and electric motors. Its lightweight yet robust aluminium construction ensures durability, optimal alignment, and vibration dampening, making it ideal for various hydraulic systems in industrial and mobile applications."
+      ],
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Cast Iron and Aluminium"
+        },
+        {
+          "label": "Application Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Motor Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Diameter",
+          "value": "100 mm"
+        },
+        {
+          "label": "Thickness",
+          "value": "10 mm"
+        },
+        {
+          "label": "Head Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Height",
+          "value": "100 mm"
+        },
+        {
+          "label": "Inner Diameter",
+          "value": "100 mm"
+        },
+        {
+          "label": "Weight",
+          "value": "15 kg"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Industrial"
+        },
+        {
+          "label": "Housing Type",
+          "value": "Bell"
+        },
+        {
+          "label": "Suitable For",
+          "value": "Motor Body"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "500"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    }
+  ]
+}

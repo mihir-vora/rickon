@@ -1,0 +1,1998 @@
+{
+  "category": {
+    "id": "crusher-oil-pump",
+    "name": "Crusher Oil Pump",
+    "indiamart_url": "https://www.indiamart.com/rickon-engineering-ahmedabad/crusher-oil-pump.html",
+    "image": "https://5.imimg.com/data5/TU/BQ/FP/SELLER-30258400/7-500x500.jpg",
+    "indiamart_count": 14,
+    "extracted_count": 14,
+    "extracted_on": "2026-10-06"
+  },
+  "products": [
+    {
+      "id": "cop-01",
+      "indiamart_id": "20815812530",
+      "slug": "stone-crusher-oil-pump-2530",
+      "name": "Stone Crusher Oil Pump",
+      "full_title": "Stone Crusher Oil Pump, 20 LPM, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-oil-pump-20815812530.html",
+      "price": {
+        "amount": 21044,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/TU/BQ/FP/SELLER-30258400/7-500x500.jpg",
+          "large": "https://5.imimg.com/data5/TU/BQ/FP/SELLER-30258400/7-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/XM/FA/CZ/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/XM/FA/CZ/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/VU/SR/AP/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/VU/SR/AP/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/LQ/HS/YA/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/LQ/HS/YA/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/NU/XB/RM/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/NU/XB/RM/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865095/SU/EZ/GN/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865095/SU/EZ/GN/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865111/DT/DB/UE/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865111/DT/DB/UE/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865153/XD/RW/NE/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370865153/XD/RW/NE/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=ac2798UVQhQ",
+      "description": [
+        "The Stone Crusher Oil Pump is an essential component for ensuring the efficient operation of stone crushing equipment by providing continuous lubrication to critical parts such as bearings, gears, and shafts. Designed to withstand the demanding conditions of stone crushing operations, this pump ensures that your machinery runs smoothly, reduces wear and tear, and helps prevent overheating. Whether for primary crushers or secondary crushers, the Stone Crusher Oil Pump is built for reliability, improving the overall productivity and longevity of your equipment."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Gear Pump"
+        },
+        {
+          "label": "Material",
+          "value": "Mild Steel"
+        },
+        {
+          "label": "Capacity",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Driven By",
+          "value": "Electric Motor"
+        },
+        {
+          "label": "Power Rating",
+          "value": "1 HP"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Compatible Fluid",
+          "value": "Hydraulic Oil"
+        },
+        {
+          "label": "Suitable Oil",
+          "value": "Hydraulic Oil, Lubricating Oil, Engine Oil, Gear Oil"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "22 LPM"
+        },
+        {
+          "label": "Phase",
+          "value": "3 Phase"
+        },
+        {
+          "label": "Speed",
+          "value": "960 RPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "10 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Flange Mounted"
+        },
+        {
+          "label": "Application",
+          "value": "Industrial, Automotive, Process Plant"
+        },
+        {
+          "label": "Motor Type",
+          "value": "Induction Motor"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Use",
+          "value": "Stone Crusher Pump"
+        },
+        {
+          "label": "Working",
+          "value": "Oil Circulation"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Machine Oil"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cop-02",
+      "indiamart_id": "23633261433",
+      "slug": "lubricating-oil-pump-1433",
+      "name": "Lubricating Oil Pump",
+      "full_title": "Lubricating Oil Pump, 20 LPM, 0.5 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/lubricating-oil-pump-23633261433.html",
+      "price": {
+        "amount": 3500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/627757248/NL/ME/RW/30258400/lubricating-oil-pump-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/627757248/NL/ME/RW/30258400/lubricating-oil-pump-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/QW/LF/WI/SELLER-30258400/rotary-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/QW/LF/WI/SELLER-30258400/rotary-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/3/590161144/DA/BJ/FY/30258400/lubricating-oil-pump-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/3/590161144/DA/BJ/FY/30258400/lubricating-oil-pump-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/YI/FN/WA/30258400/lubricating-oil-pump-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/YI/FN/WA/30258400/lubricating-oil-pump-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/MQ/FB/BM/30258400/lubricating-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/MQ/FB/BM/30258400/lubricating-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/QG/JG/DE/SELLER-30258400/rotary-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/QG/JG/DE/SELLER-30258400/rotary-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/2/485884450/OA/XK/AV/30258400/1-hp-hydraulic-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/2/485884450/OA/XK/AV/30258400/1-hp-hydraulic-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/QA/FV/QJ/SELLER-30258400/rotary-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/QA/FV/QJ/SELLER-30258400/rotary-gear-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=kQcKB3UAxQw",
+      "description": [
+        "A Lubricating Oil Pump is a crucial component in maintaining the efficiency and longevity of mechanical equipment by ensuring continuous and reliable lubrication. Designed for use in a wide range of industrial machinery, engines, and equipment, these pumps deliver oil to vital parts of the system, reducing friction, wear, and overheating, while increasing performance and reliability. Whether in stone crushers, automotive engines, or heavy-duty machinery, a lubricating oil pump ensures that your equipment operates smoothly, safely, and efficiently."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Gear Pump"
+        },
+        {
+          "label": "Capacity",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "5 bar"
+        },
+        {
+          "label": "Head",
+          "value": "5 m"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Driven By",
+          "value": "Electric Motor"
+        },
+        {
+          "label": "Compatible Fluid",
+          "value": "Engine Oil, Gear Oil, Hydraulic Oil, Lubricating Oil"
+        },
+        {
+          "label": "Suitable Oil",
+          "value": "Lubricating Oil, Hydraulic Oil, Engine Oil, Gear Oil"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Machine oil or any fluid"
+        },
+        {
+          "label": "Power Rating",
+          "value": "0.5 HP"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mounted"
+        },
+        {
+          "label": "Connection Size",
+          "value": "0.5 inch"
+        },
+        {
+          "label": "Application",
+          "value": "Compressor, Hydraulic System, Machine Tools, Gearbox"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cop-03",
+      "indiamart_id": "20815688830",
+      "slug": "sayaji-type-oil-pump-8830",
+      "name": "Sayaji Type Oil Pump",
+      "full_title": "Sayaji Type Oil Pump, 20 LPM, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/sayaji-type-oil-pump-20815688830.html",
+      "price": {
+        "amount": 3737,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/MQ/HW/EK/SELLER-30258400/2-500x500.jpg",
+          "large": "https://5.imimg.com/data5/MQ/HW/EK/SELLER-30258400/2-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/11/QT/LX/HU/30258400/sayaji-rotary-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/11/QT/LX/HU/30258400/sayaji-rotary-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/11/MO/TT/NV/30258400/sayaji-rotary-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/11/MO/TT/NV/30258400/sayaji-rotary-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/JD/FI/TW/30258400/sayaji-rotary-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/JD/FI/TW/30258400/sayaji-rotary-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/AN/II/CT/30258400/sayaji-rotary-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/AN/II/CT/30258400/sayaji-rotary-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/HH/RF/RP/30258400/sayaji-rotary-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/HH/RF/RP/30258400/sayaji-rotary-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/OO/US/MN/30258400/sayaji-rotary-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/OO/US/MN/30258400/sayaji-rotary-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/WK/WZ/KX/30258400/sayaji-rotary-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/WK/WZ/KX/30258400/sayaji-rotary-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=8kBM7efA854",
+      "description": [
+        "The Sayaji Oil Pump is a high-performance, durable solution designed for efficiently transferring oil in industrial and mechanical applications. Widely used in heavy machinery, crushers, and various industrial systems, the Sayaji Oil Pump ensures the smooth and effective circulation of oil, providing essential lubrication to components and helping prevent overheating and wear."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Gear Pump"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Capacity",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Driven By",
+          "value": "Electric Motor"
+        },
+        {
+          "label": "Power Rating",
+          "value": "1 HP"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Compatible Fluid",
+          "value": "Fuel Oil, Lubricating Oil, Hydraulic Oil, Engine Oil, Edible Oil, Diesel, Gear Oil"
+        },
+        {
+          "label": "Suitable Oil",
+          "value": "Edible Oil, Hydraulic Oil, Lubricating Oil, Engine Oil, Fuel Oil, Gear Oil"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "Sayaji Type"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Automatic"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "10 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Flange Mounted"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Application",
+          "value": "Industrial"
+        },
+        {
+          "label": "Product Code",
+          "value": "8413"
+        },
+        {
+          "label": "Fluid",
+          "value": "Oil"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packing"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cop-04",
+      "indiamart_id": "2851610439973",
+      "slug": "crusher-oil-gear-pumps-9973",
+      "name": "Crusher Oil Gear Pumps",
+      "full_title": "Cast Iron Crusher Oil Gear Pumps, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/crusher-oil-gear-pumps-2851610439973.html",
+      "price": {
+        "amount": 20000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/315076572/XP/KJ/YY/30258400/hydraulic-gear-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/315076572/XP/KJ/YY/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/315076512/TG/PZ/EJ/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/315076512/TG/PZ/EJ/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/2/BL/CO/IF/30258400/oil-transfer-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/2/BL/CO/IF/30258400/oil-transfer-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/BJ/QW/QF/30258400/hydraulic-gear-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/BJ/QW/QF/30258400/hydraulic-gear-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/6/319314462/OH/GY/OB/30258400/crusher-oil-gear-pumps-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/6/319314462/OH/GY/OB/30258400/crusher-oil-gear-pumps-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319314782/XC/UK/AU/30258400/crusher-oil-gear-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319314782/XC/UK/AU/30258400/crusher-oil-gear-pumps-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=s3DKBr8XhBk",
+      "description": [
+        "Crusher Oil Gear Pumps are essential components in the efficient operation of crushers used in various industries such as mining, aggregates, and construction. These specialized gear pumps are designed to provide a consistent supply of oil to critical crusher components, ensuring proper lubrication and extending the life of the machinery. With robust construction and precision engineering, they handle demanding industrial applications reliably."
+      ],
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "10–50 L/min"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Size",
+          "value": "12 inch"
+        },
+        {
+          "label": "Maximum Pressure",
+          "value": "210 bar"
+        },
+        {
+          "label": "Motor Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "SAE A 2-Bolt"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Pump Configuration",
+          "value": "Single Stage"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed"
+        },
+        {
+          "label": "Direction of Rotation",
+          "value": "Clockwise (CW)"
+        },
+        {
+          "label": "Application",
+          "value": "Industrial, Agriculture, Material Handling, Mobile Hydraulics, Construction, Marine"
+        },
+        {
+          "label": "Frequency",
+          "value": "50 Hz"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Oil Circulation, Oil Lubrication"
+        },
+        {
+          "label": "Voltage",
+          "value": "430 V"
+        },
+        {
+          "label": "Flow Range",
+          "value": "1 to 100 LPM"
+        },
+        {
+          "label": "Maximum Discharge Flow",
+          "value": "1 to 100 LPM"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Loose Packaging"
+        }
+      ],
+      "product_details": [],
+      "note": "Description may be slightly condensed; check against IndiaMART"
+    },
+    {
+      "id": "cop-05",
+      "indiamart_id": "20815793397",
+      "slug": "crusher-oil-pump-jaw-crusher-3397",
+      "name": "Crusher Oil Pump (Jaw Crusher)",
+      "full_title": "Cast Iron Crusher Oil Pump for Jaw Crusher, 18 inch",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/crusher-oil-pump-20815793397.html",
+      "price": {
+        "amount": 17257,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/DD/JU/CR/SELLER-30258400/6-500x500.jpg",
+          "large": "https://5.imimg.com/data5/DD/JU/CR/SELLER-30258400/6-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/EL/JP/YM/30258400/crusher-oil-pump-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/EL/JP/YM/30258400/crusher-oil-pump-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/JW/JH/OF/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/JW/JH/OF/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/TB/QH/NR/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/TB/QH/NR/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370863969/YL/TS/JG/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370863969/YL/TS/JG/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370863980/WR/KE/LM/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370863980/WR/KE/LM/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864005/CC/HT/FK/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864005/CC/HT/FK/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=aksi71f8AvM",
+      "description": [
+        "The Crusher Oil Pump is a critical component designed to provide continuous lubrication to the moving parts of crushers, including bearings, gears, and shafts. By delivering a steady and reliable flow of oil, it helps to reduce friction, prevent overheating, and minimise wear, so the crusher runs efficiently, lasts longer and needs less downtime. It is suitable for jaw, cone and impact crushers."
+      ],
+      "specifications": [
+        {
+          "label": "Usage/Application",
+          "value": "Jaw Crusher"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Size",
+          "value": "18 inch"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Square"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "22 LPM"
+        },
+        {
+          "label": "Bolt Type",
+          "value": "Coupling Bolt"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Voltage",
+          "value": "430 V"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Use",
+          "value": "Stone Crusher Machine"
+        },
+        {
+          "label": "Working",
+          "value": "Oil Circulation"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [],
+      "note": "Description may be slightly condensed; check against IndiaMART"
+    },
+    {
+      "id": "cop-06",
+      "indiamart_id": "22692932533",
+      "slug": "1-hp-stone-crusher-oil-pump-2533",
+      "name": "1 HP Stone Crusher Oil Pump",
+      "full_title": "1 HP Stone Crusher Oil Pump (Oil Circulation Unit with 125 L Tank)",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/1-hp-stone-crusher-oil-pump-22692932533.html",
+      "price": {
+        "amount": 37700,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2020/10/JS/VM/YN/30258400/8-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2020/10/JS/VM/YN/30258400/8-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/DD/NG/US/30258400/1hp-stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/DD/NG/US/30258400/1hp-stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/QM/WF/BB/30258400/1hp-stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/QM/WF/BB/30258400/1hp-stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/XU/HX/WY/30258400/1hp-stone-crusher-oil-pump-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/XU/HX/WY/30258400/1hp-stone-crusher-oil-pump-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/HD/EX/VK/30258400/1hp-stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/HD/EX/VK/30258400/1hp-stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/HF/IP/KR/30258400/1hp-stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/HF/IP/KR/30258400/1hp-stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864172/FR/VO/IL/30258400/1hp-stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864172/FR/VO/IL/30258400/1hp-stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864205/CL/ZQ/IF/30258400/1hp-stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864205/CL/ZQ/IF/30258400/1hp-stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079741/HV/RT/YL/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079741/HV/RT/YL/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=EJpK3k0__FE",
+      "description": [
+        "The 1 HP Stone Crusher Oil Pump is specifically designed to meet the demanding lubrication needs of stone crushers used in mining, quarrying, and aggregate production. It ensures that gears, bearings, and other mechanical parts are properly lubricated, preventing premature wear and reducing the risk of costly downtime. With its durable, high-performance design, it is an essential tool for maintaining crusher efficiency and extending the lifespan of your equipment."
+      ],
+      "specifications": [
+        {
+          "label": "Usage/Application",
+          "value": "Crusher Machine"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Size",
+          "value": "1 HP"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza / Black"
+        },
+        {
+          "label": "Features",
+          "value": "Oil Circulation Unit"
+        },
+        {
+          "label": "Grade",
+          "value": "High"
+        },
+        {
+          "label": "Packaging Type",
+          "value": "Tank"
+        },
+        {
+          "label": "Product Type",
+          "value": "Oil Pump"
+        },
+        {
+          "label": "Weight",
+          "value": "100 kg"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "44 LPM"
+        },
+        {
+          "label": "Tank Size",
+          "value": "125 litre"
+        },
+        {
+          "label": "Tank",
+          "value": "Mild Steel"
+        },
+        {
+          "label": "Thickness",
+          "value": "16 gauge"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Tank Packaging"
+        }
+      ],
+      "product_details": [],
+      "note": "Description may be slightly condensed; check against IndiaMART"
+    },
+    {
+      "id": "cop-07",
+      "indiamart_id": "2851610117088",
+      "slug": "crusher-gear-oil-pump-18-7088",
+      "name": "Crusher Gear Oil Pump 18\"",
+      "full_title": "Cast Iron Crusher Oil Pump, 18 inch, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/crusher-oil-pump-2851610117088.html",
+      "price": {
+        "amount": 35000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319301995/NO/JT/XR/30258400/crusher-gear-oil-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319301995/NO/JT/XR/30258400/crusher-gear-oil-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319301996/LA/OR/OL/30258400/crusher-gear-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319301996/LA/OR/OL/30258400/crusher-gear-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319302001/LR/XP/YG/30258400/crusher-gear-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319302001/LR/XP/YG/30258400/crusher-gear-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319302002/BL/JO/NF/30258400/crusher-gear-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319302002/BL/JO/NF/30258400/crusher-gear-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319302007/EM/YL/WE/30258400/crusher-gear-oil-pump-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319302007/EM/YL/WE/30258400/crusher-gear-oil-pump-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/319302031/PE/GK/UT/30258400/crusher-gear-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/319302031/PE/GK/UT/30258400/crusher-gear-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/6/319303337/WI/OG/OY/30258400/crusher-gear-oil-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/6/319303337/WI/OG/OY/30258400/crusher-gear-oil-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=_EccVUuyrAg",
+      "description": [
+        "Crusher Gear Oil Pumps are designed to deliver efficient lubrication and cooling to the gear assemblies and other critical components of crushers. In industries like mining, construction, and aggregate production, crushers work under extreme conditions, making reliable lubrication essential to ensure smooth operation, prevent wear, and extend the life of the equipment. These pumps are engineered to provide consistent oil flow, preventing overheating, reducing friction, and safeguarding against premature equipment failure, even under high-pressure and high-load scenarios."
+      ],
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Size",
+          "value": "18 inch"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Crusher Machine Oil Gear Pump"
+        },
+        {
+          "label": "Head",
+          "value": "5 m"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "22 LPM"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Hydraulic Oil"
+        },
+        {
+          "label": "Voltage",
+          "value": "430 V"
+        },
+        {
+          "label": "Frequency",
+          "value": "50 Hz"
+        },
+        {
+          "label": "Winding",
+          "value": "100% Copper"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cop-08",
+      "indiamart_id": "23562483030",
+      "slug": "cone-crusher-machine-oil-pump-3030",
+      "name": "Cone Crusher Machine Oil Pump",
+      "full_title": "Cast Iron Cone Crusher Machine Oil Pump (Pressure Control Oil Tank)",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/cone-crusher-machine-oil-pump-23562483030.html",
+      "price": {
+        "amount": 25555,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/WC/LJ/KH/30258400/pressure-controller-tank-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/WC/LJ/KH/30258400/pressure-controller-tank-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/XQ/MF/MO/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/XQ/MF/MO/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/GV/PN/AE/30258400/cone-crusher-machine-oil-pump-250x250.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/GV/PN/AE/30258400/cone-crusher-machine-oil-pump-500x500.JPG",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/MP/ZL/ZU/30258400/cone-crusher-machine-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/MP/ZL/ZU/30258400/cone-crusher-machine-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864905/EZ/YU/OZ/30258400/cone-crusher-machine-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864905/EZ/YU/OZ/30258400/cone-crusher-machine-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864947/XT/QX/BF/30258400/cone-crusher-machine-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864947/XT/QX/BF/30258400/cone-crusher-machine-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864894/VD/FF/AJ/30258400/cone-crusher-machine-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864894/VD/FF/AJ/30258400/cone-crusher-machine-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=zOMcNCvVyoA",
+      "description": [
+        "The Cone Crusher Machine Oil Pump is an essential component designed to provide continuous lubrication to the moving parts of a cone crusher, such as the bearings, gears, and shafts. Its primary function is to reduce friction, prevent overheating, and minimize wear on critical components, ensuring that your cone crusher operates at peak efficiency and lasts longer. With a robust design capable of handling heavy loads and harsh conditions, the oil pump ensures smooth and efficient operation, making it an indispensable part of your crusher system."
+      ],
+      "specifications": [
+        {
+          "label": "Crusher Type",
+          "value": "Cone Crusher"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Cone Crusher Machine"
+        },
+        {
+          "label": "Size",
+          "value": "18 inch"
+        },
+        {
+          "label": "Part Type",
+          "value": "Oil Pump"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Grade",
+          "value": "Alloy Steel"
+        },
+        {
+          "label": "Thickness",
+          "value": "10 mm"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "Pressure Control Oil Tank"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Flow Range",
+          "value": "22 LPM"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Machine Oil"
+        },
+        {
+          "label": "Phase",
+          "value": "3 Phase"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Max Speed",
+          "value": "960 RPM"
+        },
+        {
+          "label": "Pressure Range",
+          "value": "Pressure Controller"
+        },
+        {
+          "label": "Motor Type",
+          "value": "AC Motor"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Master Pump"
+        },
+        {
+          "label": "Working",
+          "value": "Oil Circulation"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Tank Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cop-09",
+      "indiamart_id": "23643865191",
+      "slug": "stone-crusher-spare-parts-oil-pump-5191",
+      "name": "Stone Crusher Spare Parts (Oil Pump)",
+      "full_title": "Cast Iron Stone Crusher Spare Parts – Oil Lubrication Pump, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-spare-parts-23643865191.html",
+      "price": {
+        "amount": 17257,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/LE/LD/IU/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/LE/LD/IU/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/VM/OX/OB/30258400/stone-crusher-spare-parts-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/VM/OX/OB/30258400/stone-crusher-spare-parts-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/ZH/FO/TK/30258400/stone-crusher-spare-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/ZH/FO/TK/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/NU/QG/HF/30258400/stone-crusher-spare-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/NU/QG/HF/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/BH/LE/TN/30258400/stone-crusher-spare-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/BH/LE/TN/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/MO/UA/KH/30258400/stone-crusher-spare-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/MO/UA/KH/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/JY/AX/VF/30258400/stone-crusher-spare-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/JY/AX/VF/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/DC/BL/NG/30258400/stone-crusher-spare-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/DC/BL/NG/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/MQ/QD/HB/30258400/stone-crusher-spare-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/MQ/QD/HB/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/YU/KV/XM/30258400/stone-crusher-spare-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/YU/KV/XM/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/KW/HZ/PE/30258400/stone-crusher-spare-parts-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/KW/HZ/PE/30258400/stone-crusher-spare-parts-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/SW/QY/FJ/30258400/stone-crusher-spare-parts-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/SW/QY/FJ/30258400/stone-crusher-spare-parts-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=wfaM7JpDFWg",
+      "description": [
+        "Stone Crusher Spare Parts are crucial for ensuring the continued performance, durability, and efficiency of stone crushers in industries such as mining, construction, and aggregate production. These components, including jaws, plates, rotors, hammers, shafts, and bearings, are built to withstand demanding crushing conditions. Regular replacement and maintenance maximise uptime, minimise repair costs, and keep the output of crushed material at high quality."
+      ],
+      "specifications": [
+        {
+          "label": "Usage/Application",
+          "value": "Crusher Machine"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Size",
+          "value": "18 inch"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Color",
+          "value": "Phiroza"
+        },
+        {
+          "label": "Bolt Type",
+          "value": "Coupling Bolt"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "12 LPM"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Working",
+          "value": "Oil Lubrication in Stone Crusher Machine"
+        },
+        {
+          "label": "Motor",
+          "value": "1 HP"
+        },
+        {
+          "label": "Pump Capacity",
+          "value": "22 Litre per minute"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [],
+      "note": "Description may be slightly condensed; check against IndiaMART"
+    },
+    {
+      "id": "cop-10",
+      "indiamart_id": "22692960933",
+      "slug": "stone-crusher-oil-pump-master-pump-0933",
+      "name": "Stone Crusher Oil Pump (Master Pump)",
+      "full_title": "Cast Iron Stone Crusher Oil Pump, Master Pump, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-oil-pump-22692960933.html",
+      "price": {
+        "amount": 9999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2020/10/SK/ZN/NR/30258400/27-500x500.JPG",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2020/10/SK/ZN/NR/30258400/27-500x500.JPG",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/10/RJ/QW/PP/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/10/RJ/QW/PP/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/10/GZ/ED/NF/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/10/GZ/ED/NF/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/10/VZ/ZY/NL/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/10/VZ/ZY/NL/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864387/WC/XI/KF/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864387/WC/XI/KF/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079741/HV/RT/YL/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079741/HV/RT/YL/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864419/HS/EC/PN/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370864419/HS/EC/PN/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=aksi71f8AvM",
+      "description": [
+        "The Stone Crusher Oil Pump is a vital component designed to ensure continuous lubrication for the moving parts of stone crushers, including bearings, gears, and shafts. It provides essential oil circulation that reduces friction, minimizes wear, and prevents overheating, enabling efficient crusher operation. Engineered for demanding stone crushing environments, this pump extends equipment lifespan and reduces the risk of breakdowns, improving productivity and lowering maintenance costs."
+      ],
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Machine"
+        },
+        {
+          "label": "Size",
+          "value": "18 inch"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "Master Pump"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Machine Oil"
+        },
+        {
+          "label": "Flow Range",
+          "value": "22 LPM"
+        },
+        {
+          "label": "Use",
+          "value": "Stone Crusher Machine"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "5000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [],
+      "note": "Description may be slightly condensed; check against IndiaMART"
+    },
+    {
+      "id": "cop-11",
+      "indiamart_id": "22692970888",
+      "slug": "stone-crusher-oil-pump-20-lpm-0888",
+      "name": "Stone Crusher Oil Pump 20 LPM",
+      "full_title": "Cast Iron Stone Crusher Oil Pump, Gear, 20 LPM, 1 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/stone-crusher-oil-pump-22692970888.html",
+      "price": {
+        "amount": 28500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/11/467546005/VH/LL/RS/30258400/stone-crusher-oil-pump-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/11/467546005/VH/LL/RS/30258400/stone-crusher-oil-pump-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079114/EU/UE/XT/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079114/EU/UE/XT/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079145/HR/TI/UP/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079145/HR/TI/UP/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079188/TI/XK/KL/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079188/TI/XK/KL/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079289/GV/AZ/ZG/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079289/GV/AZ/ZG/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079330/QP/CN/FT/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079330/QP/CN/FT/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079331/IX/KQ/XN/30258400/stone-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/1/483079331/IX/KQ/XN/30258400/stone-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=ENrT22Bd23o",
+      "description": [
+        "The Stone Crusher Oil Pump is a critical component in ensuring the smooth, efficient, and reliable operation of stone crushers in industries such as mining, construction, and aggregate production. These pumps are designed to deliver a steady flow of oil to the gear mechanisms, bearings, and other moving parts of the crusher, helping to reduce friction, prevent overheating, and extend the lifespan of your equipment. With its durable construction and high-performance capabilities, the Stone Crusher Oil Pump ensures that your crushers operate at peak efficiency, minimizing downtime and maintenance costs."
+      ],
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Gear"
+        },
+        {
+          "label": "Capacity",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Machine"
+        },
+        {
+          "label": "Size",
+          "value": "18 inch"
+        },
+        {
+          "label": "Driven By",
+          "value": "Electric Motor"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Power Rating",
+          "value": "1 HP"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Power Source",
+          "value": "AC Powered"
+        },
+        {
+          "label": "Automation Grade",
+          "value": "Automatic"
+        },
+        {
+          "label": "Suitable Oil",
+          "value": "Edible Oil, Lubricating Oil, Diesel, Hydraulic Oil, Fuel Oil, Engine Oil, Gear Oil"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "Oil Pump"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "5-500 LPM"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "10 bar"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Flange Mounted"
+        },
+        {
+          "label": "Application",
+          "value": "Automotive"
+        },
+        {
+          "label": "Flow Range",
+          "value": "1-500 LPM"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Available"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cop-12",
+      "indiamart_id": "23565578348",
+      "slug": "1hp-oil-pump-flow-controller-8348",
+      "name": "1HP Oil Pump (Flow Controller)",
+      "full_title": "1HP Oil Pump with Flow-Controller Oil Tank",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/1hp-oil-pump-23565578348.html",
+      "price": {
+        "amount": 26040,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/ZP/QL/UX/30258400/1hp-oil-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/ZP/QL/UX/30258400/1hp-oil-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/LV/US/NV/30258400/flow-control-oilpumpp-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/LV/US/NV/30258400/flow-control-oilpumpp-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/ED/EB/TH/30258400/1hp-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/ED/EB/TH/30258400/1hp-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/KF/LY/CU/30258400/1hp-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/KF/LY/CU/30258400/1hp-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871391/NL/UI/CR/30258400/1hp-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871391/NL/UI/CR/30258400/1hp-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871405/VB/OQ/MY/30258400/1hp-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871405/VB/OQ/MY/30258400/1hp-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871434/LI/DX/CB/30258400/1hp-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/12/370871434/LI/DX/CB/30258400/1hp-oil-pump-500x500.jpg",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=JyCJnV9-iTU",
+      "description": [
+        "The 1HP Oil Pump is a high-performance, compact pump designed to efficiently transfer and circulate oil in various industrial and commercial applications. With its 1 horsepower (HP) motor, this pump is built to deliver robust performance while offering exceptional energy efficiency and reliability. Ideal for tasks that require the movement of lubricating oil, hydraulic oil, or other fluids, the 1HP Oil Pump ensures smooth operation with minimal maintenance and maximum longevity."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Gear Pump"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Displacement",
+          "value": "10 cc/rev"
+        },
+        {
+          "label": "Size",
+          "value": "18 inch"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Industrial"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Flange Mounted"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed Shaft"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Compatible Fluid",
+          "value": "Hydraulic Oil"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "Flow-controller Oil Tank"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Machine Oil"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Driven By",
+          "value": "Electric Motor"
+        },
+        {
+          "label": "Application",
+          "value": "Hydraulic Power Pack, Construction Machinery"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "India"
+        },
+        {
+          "label": "Motor",
+          "value": "1 HP"
+        },
+        {
+          "label": "Pump",
+          "value": "Master Pump"
+        },
+        {
+          "label": "Working Type",
+          "value": "Flow Controller"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cop-13",
+      "indiamart_id": "27043803662",
+      "slug": "oil-pump-for-stone-crusher-3662",
+      "name": "Oil Pump For Stone Crusher",
+      "full_title": "Oil Pump For Stone Crusher, 1 HP, 16 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/oil-pump-for-stone-crusher-27043803662.html",
+      "price": {
+        "amount": 12000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/MX/DZ/ZW/30258400/lubrication-pumps-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/MX/DZ/ZW/30258400/lubrication-pumps-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/DJ/WD/TK/30258400/lubrication-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/DJ/WD/TK/30258400/lubrication-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/12/NJ/BT/ZN/30258400/lubrication-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/12/NJ/BT/ZN/30258400/lubrication-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/3/402449623/MZ/JE/ME/30258400/oilpump-for-stone-crusher-250x250.jpeg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/3/402449623/MZ/JE/ME/30258400/oilpump-for-stone-crusher-500x500.jpeg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/FP/PY/OW/30258400/lubrication-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/FP/PY/OW/30258400/lubrication-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/PN/KJ/HX/30258400/lubrication-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/PN/KJ/HX/30258400/lubrication-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/2/486697689/NS/UD/GV/30258400/oilpump-for-stone-crusher-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/2/486697689/NS/UD/GV/30258400/oilpump-for-stone-crusher-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/TZ/IJ/SE/30258400/lubrication-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/TZ/IJ/SE/30258400/lubrication-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/SN/XW/ER/30258400/lubrication-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/SN/XW/ER/30258400/lubrication-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/PT/QN/EW/30258400/lubrication-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/GLADMIN/Default/2022/12/PT/QN/EW/30258400/lubrication-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2024/3/402449033/AB/ZI/YM/30258400/oilpump-for-stone-crusher-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2024/3/402449033/AB/ZI/YM/30258400/oilpump-for-stone-crusher-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=ACwHD5wLu-o",
+      "description": [
+        "The Oil Pump for Stone Crusher is a vital component that ensures the smooth and efficient operation of stone crushers, which are heavily relied upon in industries such as mining, construction, and aggregate production. Designed to provide consistent lubrication to the crusher's critical parts, the oil pump helps minimize friction, reduce wear and tear, and prevent overheating. By maintaining optimal lubrication levels, the pump increases the lifespan of the crusher, enhances its performance, and reduces the need for costly repairs and downtime."
+      ],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Gear Pump"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher"
+        },
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "250 bar"
+        },
+        {
+          "label": "Displacement",
+          "value": "10 cc/rev"
+        },
+        {
+          "label": "Size",
+          "value": "1 HP"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mounted"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Keyed Shaft"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Compatible Fluid",
+          "value": "Hydraulic Oil"
+        },
+        {
+          "label": "Color",
+          "value": "Blue / Phiroza"
+        },
+        {
+          "label": "Features",
+          "value": "Robust Oil Pump"
+        },
+        {
+          "label": "Body Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Grade",
+          "value": "High"
+        },
+        {
+          "label": "Driven By",
+          "value": "Electric Motor"
+        },
+        {
+          "label": "Application",
+          "value": "Construction Machinery, Hydraulic Power Pack"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Installation",
+          "value": "Ready to Install"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "12 LPM"
+        },
+        {
+          "label": "Product Type",
+          "value": "Oil Pump"
+        },
+        {
+          "label": "Weight",
+          "value": "25 kg"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Pump Capacity",
+          "value": "16 LPM"
+        },
+        {
+          "label": "RPM",
+          "value": "960"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "cop-14",
+      "indiamart_id": "2852574223991",
+      "slug": "jaw-crusher-oil-pump-3991",
+      "name": "Jaw Crusher Oil Pump",
+      "full_title": "Cast Iron Jaw Crusher Oil Pump, 1 HP, 22 LPM",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/jaw-crusher-oil-pump-2852574223991.html",
+      "price": {
+        "amount": 17000,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/9/348593838/AN/CF/YW/30258400/jaw-crusher-oil-pump-500x500.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/9/348593838/AN/CF/YW/30258400/jaw-crusher-oil-pump-500x500.jpg",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/10/351387149/LW/IL/RN/30258400/jaw-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/10/351387149/LW/IL/RN/30258400/jaw-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/10/351387150/EO/WJ/FP/30258400/jaw-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/10/351387150/EO/WJ/FP/30258400/jaw-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/10/351387155/HN/ZL/JN/30258400/jaw-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/10/351387155/HN/ZL/JN/30258400/jaw-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/10/351387176/UR/FT/TZ/30258400/jaw-crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/10/351387176/UR/FT/TZ/30258400/jaw-crusher-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2023/10/351387419/WI/UN/GQ/30258400/jaw-crusher-oil-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2023/10/351387419/WI/UN/GQ/30258400/jaw-crusher-oil-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=ac2798UVQhQ",
+      "description": [
+        "The Jaw Crusher Oil Pump is a critical component in the operation of jaw crushers, responsible for providing consistent lubrication to the crusher's moving parts, including bearings, gears, and other mechanical components. This continuous oil flow ensures smooth operation, reduces friction, prevents overheating, and prolongs the life of the crusher. Designed for use in rugged and demanding environments, the Jaw Crusher Oil Pump helps minimize downtime, extend the service life of the crusher, and enhance its efficiency in handling large volumes of material."
+      ],
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Size",
+          "value": "18 inch"
+        },
+        {
+          "label": "Usage/Application",
+          "value": "Stone Crusher Machine Oil Circulation for Lubrication"
+        },
+        {
+          "label": "Machine Type",
+          "value": "Hydraulic"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "22 LPM"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Oil"
+        },
+        {
+          "label": "Packaging Type",
+          "value": "Box"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "10000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packing"
+        }
+      ],
+      "product_details": []
+    }
+  ]
+}

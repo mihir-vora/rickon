@@ -1,0 +1,410 @@
+{
+  "category": {
+    "id": "barrel-oil-pump",
+    "name": "Barrel Oil Pump",
+    "indiamart_url": "https://www.indiamart.com/rickon-engineering-ahmedabad/barrel-oil-pump.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2025/10/553687097/FS/GB/ND/30258400/electric-rotary-oil-barrel-pumps-500x500.png",
+    "indiamart_count": 3,
+    "extracted_count": 3,
+    "extracted_on": "2026-10-06"
+  },
+  "products": [
+    {
+      "id": "bar-01",
+      "indiamart_id": "2857731943633",
+      "slug": "electric-rotary-oil-barrel-pump-3633",
+      "name": "Electric Rotary Oil Barrel Pump",
+      "full_title": "Electric Rotary Oil Barrel Pump, 0.5 HP, for 210 L barrels",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/electric-rotary-oil-barrel-pumps-2857731943633.html",
+      "price": {
+        "amount": 2999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/10/553687097/FS/GB/ND/30258400/electric-rotary-oil-barrel-pumps-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/10/553687097/FS/GB/ND/30258400/electric-rotary-oil-barrel-pumps-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2025/10/553688198/UI/PS/LU/30258400/electric-rotary-oil-barrel-pumps-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2025/10/553688198/UI/PS/LU/30258400/electric-rotary-oil-barrel-pumps-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/10/553687094/YI/ZI/LS/30258400/electric-rotary-oil-barrel-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/10/553687094/YI/ZI/LS/30258400/electric-rotary-oil-barrel-pumps-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/10/553687093/MD/SR/ZG/30258400/electric-rotary-oil-barrel-pumps-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/10/553687093/MD/SR/ZG/30258400/electric-rotary-oil-barrel-pumps-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/10/553687096/MU/AQ/XW/30258400/electric-rotary-oil-barrel-pumps-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/10/553687096/MU/AQ/XW/30258400/electric-rotary-oil-barrel-pumps-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=TcuRw8JkcoI",
+      "description": [
+        "Monoblock Oil Pumps are high-performance, positive displacement pumps designed specifically for the transfer and circulation of oils, lubricants, and other viscous liquids. Known for their robust design and compact, integrated construction, these pumps are ideal for use in automotive, industrial, and manufacturing applications where efficient oil circulation is critical. Their monoblock design consolidates multiple components into one compact housing, reducing space requirements and improving operational efficiency."
+      ],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "10–50 L/min"
+        },
+        {
+          "label": "Max Flow Rate",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Media",
+          "value": "Oil"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "3 bar"
+        },
+        {
+          "label": "Barrel Size",
+          "value": "210 L"
+        },
+        {
+          "label": "Pump Size",
+          "value": "1/2 inch"
+        },
+        {
+          "label": "Discharge",
+          "value": "20 LPM"
+        },
+        {
+          "label": "Suction Tube Length",
+          "value": "1300 mm"
+        },
+        {
+          "label": "Seal Type",
+          "value": "Lip Seal"
+        },
+        {
+          "label": "Operation Type",
+          "value": "Rotary"
+        },
+        {
+          "label": "Dimensions",
+          "value": "15 x 6 x 8 inch"
+        },
+        {
+          "label": "Pump Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Head",
+          "value": "7 m"
+        },
+        {
+          "label": "Motor Power",
+          "value": "0.5 HP"
+        },
+        {
+          "label": "Mounting Type",
+          "value": "Foot Mount"
+        },
+        {
+          "label": "Suction Type",
+          "value": "Self Priming"
+        },
+        {
+          "label": "Heating Jacket",
+          "value": "Without Jacket"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Weight",
+          "value": "10 kg"
+        },
+        {
+          "label": "Voltage",
+          "value": "230/430 V"
+        },
+        {
+          "label": "Application",
+          "value": "Barrel Oil Transfer"
+        },
+        {
+          "label": "Inlet Port",
+          "value": "0.5 in BSP"
+        },
+        {
+          "label": "Outlet Port",
+          "value": "0.5 in BSP"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [
+        {
+          "label": "Temperature",
+          "value": "Available up to 100° C Max"
+        },
+        {
+          "label": "Sealing",
+          "value": "Oil Seal"
+        },
+        {
+          "label": "Range",
+          "value": "20 To 50 Liter Per Minute"
+        },
+        {
+          "label": "Gears",
+          "value": "Alloy Steel - Single Helical"
+        },
+        {
+          "label": "Shaft",
+          "value": "Alloy Steel - Hardened & Ground"
+        },
+        {
+          "label": "Size",
+          "value": "1/2\" To 1\" B.S.P."
+        },
+        {
+          "label": "Bush",
+          "value": "Self Lubricated Sintered Bronze Bushes"
+        },
+        {
+          "label": "Material Of Construction + Pump Body",
+          "value": "Graded CI Casting"
+        },
+        {
+          "label": "Liquid",
+          "value": "All General Purpose Viscous Fluid Like Lube Oil, Paints, Edible Oil Etc."
+        },
+        {
+          "label": "Built In Maximum Working Pressure",
+          "value": "10 Kg/Cm2"
+        }
+      ]
+    },
+    {
+      "id": "bar-02",
+      "indiamart_id": "2857506355673",
+      "slug": "barrel-oil-transfer-pump-1-hp-t-63-5673",
+      "name": "Barrel Oil Transfer Pump 1 HP (T-63)",
+      "full_title": "Rotary Barrel Oil Transfer Pump, 1 HP, 50 LPM, Model T-63",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/barrel-oil-transfer-pump-2857506355673.html",
+      "price": {
+        "amount": 9999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/9/543925187/LV/NQ/CJ/30258400/ef732128-cb29-4030-b5f1-5376316890e3-500x500.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/9/543925187/LV/NQ/CJ/30258400/ef732128-cb29-4030-b5f1-5376316890e3-500x500.png",
+          "primary": true
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/9/543923737/SW/UE/BC/30258400/barrel-oil-transfer-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/9/543923737/SW/UE/BC/30258400/barrel-oil-transfer-pump-500x500.png",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/7/528145535/ME/VB/HU/30258400/barrel-oil-transfer-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/7/528145535/ME/VB/HU/30258400/barrel-oil-transfer-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2025/9/543922447/CA/ZU/AZ/30258400/monoblock-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2025/9/543922447/CA/ZU/AZ/30258400/monoblock-oil-pump-500x500.jpg",
+          "primary": false
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/543926777/SW/CK/BW/30258400/barrel-oil-transfer-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/PDFImage/2025/9/543926777/SW/CK/BW/30258400/barrel-oil-transfer-pump-500x500.png",
+          "primary": false
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=TcuRw8JkcoI",
+      "description": [
+        "A Barrel Oil Transfer Pump is a specialized pump designed to efficiently and safely transfer oil or other fluids from barrels or drums (typically 55-gallon or 200-liter containers) to smaller containers, machinery, or systems.",
+        "It is engineered for extracting and transferring oils and other non-corrosive fluids directly from standard drums or barrels, and is commonly used in industrial, automotive, agricultural, and workshop settings to ensure clean, spill-free oil transfer and minimize waste.",
+        "The pump typically includes a long intake tube that reaches to the bottom of a 55-gallon drum, a discharge hose or spout for directing the fluid, and a motor for operation."
+      ],
+      "specifications": [
+        {
+          "label": "Max Flow Rate",
+          "value": "50 LPM"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "40 LPM"
+        },
+        {
+          "label": "Media",
+          "value": "Oil"
+        },
+        {
+          "label": "Motor Power",
+          "value": "1 HP / 1.1 kW"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Gear"
+        },
+        {
+          "label": "Pump Material",
+          "value": "Cast Iron"
+        },
+        {
+          "label": "Barrel Size",
+          "value": "210 L"
+        },
+        {
+          "label": "Operation Type",
+          "value": "Rotary"
+        },
+        {
+          "label": "Oil Type",
+          "value": "Lubricating Oil, Gear Oil, Hydraulic Oil, Engine Oil"
+        },
+        {
+          "label": "Suction Tube Length",
+          "value": "1200 mm"
+        },
+        {
+          "label": "Viscosity Range",
+          "value": "460 to 1000 cSt"
+        },
+        {
+          "label": "Discharge",
+          "value": "50 LPM"
+        },
+        {
+          "label": "Phase",
+          "value": "Three Phase"
+        },
+        {
+          "label": "Model Name/Number",
+          "value": "T-63"
+        },
+        {
+          "label": "Frequency",
+          "value": "50 Hz"
+        },
+        {
+          "label": "Mounting",
+          "value": "Base Mounted"
+        },
+        {
+          "label": "Inlet Size",
+          "value": "1 in BSP"
+        },
+        {
+          "label": "Outlet Size",
+          "value": "25 mm"
+        },
+        {
+          "label": "Voltage",
+          "value": "430 V"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Country of Origin",
+          "value": "Made in India"
+        },
+        {
+          "label": "Product Capacity",
+          "value": "1000"
+        },
+        {
+          "label": "Delivery Time",
+          "value": "Ready Stock"
+        },
+        {
+          "label": "Packaging Details",
+          "value": "Box Packaging"
+        }
+      ],
+      "product_details": [],
+      "features": [
+        "Compatible with 55-gallon (200 L) drums and other container sizes",
+        "Suitable for oils, lubricants, transmission fluids, and other non-corrosive liquids",
+        "Easy installation and user-friendly operation",
+        "Corrosion-resistant construction for durability and safety"
+      ]
+    },
+    {
+      "id": "bar-03",
+      "indiamart_id": "bar-0-5hp-627889908",
+      "slug": "barrel-oil-transfer-pump-0-5-hp-9908",
+      "name": "Barrel Oil Transfer Pump 0.5 HP",
+      "full_title": "Barrel Oil Transfer Pump, Motorised, 0.5 HP",
+      "listing_status": "listed on category page (no separate product page on IndiaMART)",
+      "indiamart_url": "https://www.indiamart.com/rickon-engineering-ahmedabad/barrel-oil-pump.html",
+      "price": {
+        "amount": 9999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2026/7/627889908/IR/WC/KH/30258400/barrel-oil-transfer-pump-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2026/7/627889908/IR/WC/KH/30258400/barrel-oil-transfer-pump-500x500.png",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [
+        "A Barrel Oil Transfer Pump is a specialized pump designed to efficiently and safely transfer oil or other fluids from barrels or drums (typically 55-gallon or 200-liter containers) to smaller containers, machinery, or systems."
+      ],
+      "specifications": [
+        {
+          "label": "Media",
+          "value": "Oil"
+        },
+        {
+          "label": "Operation Type",
+          "value": "Motorised"
+        },
+        {
+          "label": "Motor Power",
+          "value": "0.5 HP"
+        },
+        {
+          "label": "Max Pressure",
+          "value": "3 bar"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        }
+      ],
+      "product_details": []
+    }
+  ]
+}
