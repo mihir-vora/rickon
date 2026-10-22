@@ -82,6 +82,9 @@ textarea.lines{min-height:110px}
 .danger{background:transparent;color:var(--red);border:0;border-radius:999px;padding:14px 8px;font-weight:700;cursor:pointer}
 .danger:hover{background:#FDE8EA}
 .danger:disabled{opacity:.6;cursor:wait}
+.confirm{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.confirm p{margin:0;font-size:14px;font-weight:650}
+.confirm .ghost{margin-top:0}
 .save{background:var(--red);color:#fff;border:0;border-radius:999px;padding:14px 22px;font-weight:700;cursor:pointer;box-shadow:0 10px 24px -12px rgba(225,6,0,.8)}
 .save:hover{background:#C10500}
 .save:disabled{opacity:.6;cursor:wait}
@@ -119,6 +122,12 @@ textarea.lines{min-height:110px}
       <select id="findProduct"></select>
       <p class="hint" id="editingHint" hidden></p>
     </div>
+    <div class="confirm" id="categoryDeleteConfirm" hidden>
+      <p id="categoryDeleteText"></p>
+      <button class="danger" id="confirmDeleteCategory" type="button">Yes, delete the category</button>
+      <button class="ghost" id="cancelDeleteCategory" type="button">Cancel</button>
+    </div>
+    <button class="danger" id="removeCategory" type="button">Delete this category</button>
   </div>
   <div class="sheet">
   <div class="field">
@@ -211,6 +220,11 @@ textarea.lines{min-height:110px}
   </section>
   <div class="dock">
     <button class="danger" id="removeProduct" type="button" hidden>Delete product</button>
+    <div class="confirm" id="productDeleteConfirm" hidden>
+      <p id="productDeleteText"></p>
+      <button class="danger" id="confirmDeleteProduct" type="button">Yes, delete it</button>
+      <button class="ghost" id="cancelDeleteProduct" type="button">Cancel</button>
+    </div>
     <p id="dockNote">The product appears on the website after Netlify publishes it.</p>
     <button class="save" id="save" type="submit">Save product</button>
   </div>
@@ -248,7 +262,6 @@ let mode = "new";
 let editing = null;
 let cardLabels = Object.fromEntries(CARD_FIELDS.map(field => [field.id, field.label]));
 let suppressCategoryChange = false;
-let deleteArmedUntil = 0;
 
 function specRow(container, label = "", value = "") {
   const row = document.createElement("div");
@@ -288,8 +301,8 @@ function resetForm() {
   newCatWrap.hidden = true;
   editing = null;
   editingHint.hidden = true;
-  deleteArmedUntil = 0;
-  removeProductButton.textContent = "Delete product";
+  hideProductDeleteConfirm();
+  hideCategoryDeleteConfirm();
   resetLists();
   clearPhotos();
   if (category.options.length) category.value = category.options[0].value;
@@ -377,11 +390,23 @@ function loadProductOptions() {
     })
     .catch(() => show("The products in this category could not be loaded. Refresh this page.", true));
 }
+function hideProductDeleteConfirm() {
+  document.getElementById("productDeleteConfirm").hidden = true;
+  if (mode === "edit") removeProductButton.hidden = false;
+}
+function hideCategoryDeleteConfirm() {
+  document.getElementById("categoryDeleteConfirm").hidden = true;
+  document.getElementById("removeCategory").hidden = false;
+}
+function dropCategory(id) {
+  categories = categories.filter(item => item.id !== id);
+  categoryOptions(category, true);
+  categoryOptions(findCategory, false);
+}
 function clearLoadedFields() {
   editing = null;
   editingHint.hidden = true;
-  deleteArmedUntil = 0;
-  removeProductButton.textContent = "Delete product";
+  hideProductDeleteConfirm();
   ["name", "price", "title", "video", "description", "flow", "pressure", "power", "size", "features", "applications", "benefits", "newCat"].forEach(id => {
     document.getElementById(id).value = "";
   });
@@ -391,6 +416,7 @@ function clearLoadedFields() {
   msg.hidden = true;
 }
 findCategory.addEventListener("change", () => {
+  hideCategoryDeleteConfirm();
   if (editing) clearLoadedFields();
   loadProductOptions();
 });
@@ -461,6 +487,8 @@ function setMode(next) {
   finder.hidden = !editingMode;
   categoryHint.hidden = !editingMode;
   removeProductButton.hidden = !editingMode;
+  hideProductDeleteConfirm();
+  hideCategoryDeleteConfirm();
   document.getElementById("dockNote").textContent = editingMode
     ? "Changes appear on the website after Netlify publishes them."
     : "The product appears on the website after Netlify publishes it.";
@@ -731,36 +759,71 @@ form.addEventListener("submit", async event => {
   }
 });
 
-removeProductButton.addEventListener("click", async () => {
+removeProductButton.addEventListener("click", () => {
   if (!editing) {
     show("Choose a product to delete.", true);
     return;
   }
-  if (Date.now() > deleteArmedUntil) {
-    deleteArmedUntil = Date.now() + 4000;
-    removeProductButton.textContent = "Click again to delete";
-    setTimeout(() => {
-      if (Date.now() >= deleteArmedUntil) removeProductButton.textContent = "Delete product";
-    }, 4100);
-    return;
-  }
-  deleteArmedUntil = 0;
-  removeProductButton.textContent = "Delete product";
-  removeProductButton.disabled = true;
+  document.getElementById("productDeleteText").textContent = "Delete “" + editing.name + "”?";
+  removeProductButton.hidden = true;
+  document.getElementById("productDeleteConfirm").hidden = false;
+});
+document.getElementById("cancelDeleteProduct").addEventListener("click", hideProductDeleteConfirm);
+document.getElementById("confirmDeleteProduct").addEventListener("click", async () => {
+  if (!editing) return;
+  const confirmDelete = document.getElementById("confirmDeleteProduct");
+  confirmDelete.disabled = true;
   document.getElementById("save").disabled = true;
   show("Deleting “" + editing.name + "”…");
   try {
     const saved = await postProduct({ action: "delete", categoryId: editing.categoryId, slug: editing.slug });
-    show("Deleted “" + saved.name + "”. It leaves the website after Netlify finishes publishing, usually within a couple of minutes.");
-    const categoryId = editing.categoryId;
+    const categoryId = saved.categoryId;
+    if (saved.categoryRemoved) dropCategory(categoryId);
+    else {
+      const option = [...findProduct.options].find(item => item.value === saved.slug);
+      if (option) option.remove();
+    }
     resetForm();
-    findCategory.value = categoryId;
-    loadProductOptions();
+    if (saved.categoryRemoved) loadProductOptions();
+    else if ([...findCategory.options].some(item => item.value === categoryId)) findCategory.value = categoryId;
+    show("Deleted “" + saved.name + "”. It leaves the website after Netlify finishes publishing, usually within a couple of minutes.");
   } catch (error) {
     show(error.message || "The product could not be deleted.", true);
+    hideProductDeleteConfirm();
   } finally {
-    removeProductButton.disabled = false;
+    confirmDelete.disabled = false;
     document.getElementById("save").disabled = false;
+  }
+});
+
+document.getElementById("removeCategory").addEventListener("click", () => {
+  const selected = categories.find(item => item.id === findCategory.value);
+  if (!selected) {
+    show("Choose a category to delete.", true);
+    return;
+  }
+  document.getElementById("categoryDeleteText").textContent = "Delete “" + selected.name + "” and every product in it?";
+  document.getElementById("removeCategory").hidden = true;
+  document.getElementById("categoryDeleteConfirm").hidden = false;
+});
+document.getElementById("cancelDeleteCategory").addEventListener("click", hideCategoryDeleteConfirm);
+document.getElementById("confirmDeleteCategory").addEventListener("click", async () => {
+  const selected = categories.find(item => item.id === findCategory.value);
+  if (!selected) return;
+  const confirmDelete = document.getElementById("confirmDeleteCategory");
+  confirmDelete.disabled = true;
+  show("Deleting “" + selected.name + "”…");
+  try {
+    const saved = await postProduct({ action: "delete-category", categoryId: selected.id });
+    dropCategory(saved.categoryId);
+    resetForm();
+    loadProductOptions();
+    show("Deleted the category “" + saved.category + "” and its products. They leave the website after Netlify finishes publishing, usually within a couple of minutes.");
+  } catch (error) {
+    show(error.message || "The category could not be deleted.", true);
+    hideCategoryDeleteConfirm();
+  } finally {
+    confirmDelete.disabled = false;
   }
 });
 </script>

@@ -358,6 +358,10 @@ async function commitFiles(token, repo, branch, files, message) {
   const parent = await github(token, `/repos/${repo}/git/commits/${parentSha}`);
   const blobs = [];
   for (const file of files) {
+    if (file.deleted) {
+      blobs.push({ path: file.path, mode: "100644", type: "blob", sha: null });
+      continue;
+    }
     const blob = await github(token, `/repos/${repo}/git/blobs`, {
       method: "POST",
       body: { content: file.content, encoding: "base64" }
@@ -432,18 +436,40 @@ async function deleteOnce(payload, token, repo, branch) {
   const category = findCategory(catalog, String(payload.categoryId || ""));
   const current = await readRepoJson(token, repo, branch, "data/" + category.file);
   const product = removeProduct(current, slug);
-  const files = [{ path: "data/" + category.file, content: jsonFile(current) }];
-  if (!current.products.length) {
+  const categoryRemoved = current.products.length === 0;
+  const files = [];
+  if (categoryRemoved) {
     catalog.categories = (catalog.categories || []).filter(item => item.id !== category.id);
     files.push({ path: "data/catalog.json", content: jsonFile(catalog) });
+    files.push({ path: "data/" + category.file, deleted: true });
+  } else {
+    files.push({ path: "data/" + category.file, content: jsonFile(current) });
   }
   await commitFiles(token, repo, branch, files, `Remove product: ${product.name}\n\nSaved from the Rickon admin page.`);
-  return { name: product.name, category: category.name, categoryId: category.id, slug, deleted: true };
+  return { name: product.name, category: category.name, categoryId: category.id, slug, deleted: true, categoryRemoved };
+}
+
+async function deleteCategoryOnce(payload, token, repo, branch) {
+  const catalog = await readRepoJson(token, repo, branch, "data/catalog.json");
+  const category = findCategory(catalog, String(payload.categoryId || ""));
+  let missing = false;
+  try {
+    await readRepoJson(token, repo, branch, "data/" + category.file);
+  } catch (error) {
+    if (error.status !== 404) throw error;
+    missing = true;
+  }
+  catalog.categories = (catalog.categories || []).filter(item => item.id !== category.id);
+  const files = [{ path: "data/catalog.json", content: jsonFile(catalog) }];
+  if (!missing) files.push({ path: "data/" + category.file, deleted: true });
+  await commitFiles(token, repo, branch, files, `Remove category: ${category.name}\n\nSaved from the Rickon admin page.`);
+  return { category: category.name, categoryId: category.id, deletedCategory: true };
 }
 
 async function saveOnce(payload, token, repo, branch) {
   if (payload.action === "update") return updateOnce(payload, token, repo, branch);
   if (payload.action === "delete") return deleteOnce(payload, token, repo, branch);
+  if (payload.action === "delete-category") return deleteCategoryOnce(payload, token, repo, branch);
   const catalog = await readRepoJson(token, repo, branch, "data/catalog.json");
   const category = resolveCategory(catalog, payload);
   let current = null;
@@ -529,6 +555,7 @@ async function handler(event) {
     const statusCode = error.statusCode || (error.status === 401 || error.status === 403 ? 502 : 500);
     let message = error.statusCode ? error.message : "The product could not be saved. Try again in a moment.";
     if (payload && payload.action === "delete" && !error.statusCode) message = "The product could not be deleted. Try again in a moment.";
+    if (payload && payload.action === "delete-category" && !error.statusCode) message = "The category could not be deleted. Try again in a moment.";
     if (error.status === 401 || error.status === 403) message = "GitHub refused the save. Check the GITHUB_TOKEN in Netlify.";
     if (error.status === 404) message = "GitHub could not find the repository or the catalogue file.";
     return response(statusCode, { error: message });
