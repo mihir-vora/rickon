@@ -16,15 +16,21 @@
         "currency": "INR",
         "unit": "Piece"
       },
-      "images": [],
+      "images": [
+        {
+          "src": "/images/vdsj-942f/1.jpg",
+          "large": "/images/vdsj-942f/1.jpg",
+          "primary": true
+        }
+      ],
       "video": "https://www.youtube.com/watch?v=rGdPqEKf6DI",
       "description": [
-        "dlfgibh ndfsgnhgfda"
+        "E2E update description 221026. This line should appear on the product page."
       ],
       "specifications": [
         {
           "label": "Flow Rate",
-          "value": "w45"
+          "value": "88 LPM"
         },
         {
           "label": "Max Pressure",
@@ -40,11 +46,7 @@
         },
         {
           "label": "Brand",
-          "value": "45"
-        },
-        {
-          "label": "Material",
-          "value": "435"
+          "value": "Comely Test"
         }
       ],
       "product_details": [
@@ -78,7 +80,7 @@
         }
       ],
       "features": [
-        "435dffv"
+        "E2E feature line"
       ],
       "applications": [
         "ewr6ytfg"
