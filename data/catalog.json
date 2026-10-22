@@ -54,11 +54,6 @@
       "id": "fuel-injection-pump",
       "name": "LDO & Burner Pumps",
       "file": "fuel-injection-pump.json"
-    },
-    {
-      "id": "test",
-      "name": "test",
-      "file": "test.json"
     }
   ]
 }
