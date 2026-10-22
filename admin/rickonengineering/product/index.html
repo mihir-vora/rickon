@@ -1,0 +1,447 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Add a product · Rickon Engineering</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..800&family=Instrument+Sans:wght@400;500;600;700&display=swap">
+<style>
+:root{
+  --iron:#151B21; --phiroza:#127A73; --red:#E10600; --paper:#F3F5F4; --white:#fff;
+  --ink:#151B21; --ink-2:#5C6770; --line:#E3E8E6; --line-2:#CDD5D2;
+  --f-display:"Archivo",Arial,sans-serif;
+  --f-body:"Instrument Sans",system-ui,sans-serif;
+  --shadow:0 1px 2px rgba(21,27,33,.04), 0 12px 32px -20px rgba(21,27,33,.28);
+}
+*{box-sizing:border-box}
+[hidden]{display:none !important}
+body{margin:0;background:
+  radial-gradient(900px 420px at 100% -10%, rgba(28,156,147,.16), transparent 60%),
+  radial-gradient(700px 360px at -10% 0%, rgba(225,6,0,.06), transparent 55%),
+  var(--paper);
+  color:var(--ink);font:16px/1.5 var(--f-body);-webkit-font-smoothing:antialiased}
+.top{position:sticky;top:0;z-index:5;background:rgba(243,245,244,.86);backdrop-filter:blur(16px);border-bottom:1px solid rgba(21,27,33,.06)}
+.top .bar{max-width:920px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between}
+.top a{color:var(--ink-2);text-decoration:none;font-size:14px;font-weight:600}
+.top a:hover{color:var(--ink)}
+.mark{font:700 13px/1 var(--f-display);letter-spacing:.14em;text-transform:uppercase;color:var(--phiroza)}
+main{max-width:920px;margin:0 auto;padding:36px 24px 96px}
+.intro{margin-bottom:28px}
+.intro h1{font-family:var(--f-display);font-weight:760;font-size:clamp(36px,5vw,52px);letter-spacing:-.035em;line-height:.95;margin:8px 0 10px}
+.intro p{margin:0;max-width:46ch;color:var(--ink-2)}
+form{display:grid;gap:16px}
+.sheet,.block{background:rgba(255,255,255,.92);border:1px solid rgba(255,255,255,.8);border-radius:22px;box-shadow:var(--shadow);padding:22px}
+.sheet{display:grid;gap:16px}
+.field{display:flex;flex-direction:column;gap:6px;min-width:0}
+label{font-size:13px;font-weight:650;letter-spacing:.01em}
+.hint{margin:0;color:var(--ink-2);font-size:13px;font-weight:450;line-height:1.45}
+.block h2{font-family:var(--f-display);font-size:22px;letter-spacing:-.03em;margin:0 0 4px}
+.block>.hint{margin-bottom:16px}
+input,select,textarea,button{font:inherit;color:inherit}
+input[type="text"],input[type="url"],input[type="number"],select,textarea{
+  width:100%;border:1px solid var(--line-2);background:#fff;border-radius:14px;padding:13px 14px;
+  transition:border-color .15s, box-shadow .15s;
+}
+select{appearance:none;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16' fill='none' stroke='%235C6770' stroke-width='1.8' stroke-linecap='round'><path d='M4 6l4 4 4-4'/></svg>");background-repeat:no-repeat;background-position:right 14px center;padding-right:40px}
+input::placeholder,textarea::placeholder{color:#9AA4AB}
+input:focus,select:focus,textarea:focus{outline:none;border-color:var(--phiroza);box-shadow:0 0 0 4px rgba(18,122,115,.15)}
+textarea{min-height:132px;resize:vertical}
+textarea.lines{min-height:110px}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.spec{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr) 42px;gap:8px;margin-bottom:8px;align-items:center}
+.spec button{width:42px;height:46px;border:1px solid var(--line);background:#fff;border-radius:12px;color:#7A858F;font-size:20px;line-height:1;cursor:pointer;padding:0}
+.spec button:hover{background:#FDE8EA;color:var(--red);border-color:#F3C2C6}
+.ghost{margin-top:4px;background:#F4F7F6;border:0;border-radius:999px;padding:11px 16px;font-weight:650;font-size:14px;cursor:pointer}
+.ghost:hover{background:#E7EFED}
+.drop{position:relative;background:linear-gradient(#fff,#F8FBFA);border:1.5px dashed #B7C9C6;border-radius:18px;padding:28px 18px;text-align:center;transition:border-color .2s,background .2s,transform .2s}
+.drop.over{border-color:var(--phiroza);background:#E7F6F4;transform:translateY(-1px)}
+.drop strong{display:block;font-family:var(--f-display);font-size:24px;letter-spacing:-.03em;margin-bottom:6px}
+.drop p{margin:0 auto 16px;max-width:42ch;color:var(--ink-2)}
+.pick{background:var(--iron);color:#fff;border:0;border-radius:999px;padding:12px 18px;font-weight:700;cursor:pointer}
+.pick:hover{background:#0c1014}
+.file-input{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
+.photo-count{margin:14px 0 0;color:var(--ink-2);font-size:14px;font-weight:600}
+.photo-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin-top:12px}
+.photo-card{background:#fff;border-radius:16px;overflow:hidden;border:1px solid var(--line)}
+.photo-card.cover{border-color:var(--phiroza);box-shadow:0 0 0 3px rgba(18,122,115,.16)}
+.photo-card img{width:100%;aspect-ratio:1;object-fit:cover;display:block;background:#E8EEEE}
+.photo-card .top{position:relative}
+.badge{position:absolute;left:8px;top:8px;background:var(--phiroza);color:#fff;border-radius:999px;padding:4px 8px;font-size:11px;font-weight:700}
+.photo-card .tools{display:flex;gap:6px;padding:8px}
+.photo-card button{flex:1;border:0;background:var(--paper);border-radius:10px;padding:8px 4px;font-size:12px;font-weight:650;cursor:pointer}
+.photo-card button:hover{background:#E7F6F4}
+.dock{position:sticky;bottom:16px;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:12px 12px 12px 18px;border-radius:18px;background:rgba(255,255,255,.9);backdrop-filter:blur(16px);border:1px solid rgba(21,27,33,.06);box-shadow:0 18px 40px -24px rgba(21,27,33,.5)}
+.dock p{margin:0;color:var(--ink-2);font-size:13px}
+.save{background:var(--red);color:#fff;border:0;border-radius:999px;padding:14px 22px;font-weight:700;cursor:pointer;box-shadow:0 10px 24px -12px rgba(225,6,0,.8)}
+.save:hover{background:#C10500}
+.save:disabled{opacity:.6;cursor:wait}
+.msg{border-radius:14px;padding:14px 16px;background:#E7F6F4;color:#0E4E49}
+.msg.bad{background:#FDE8EA;color:#8E1220}
+@media (max-width:800px){.metrics{grid-template-columns:1fr 1fr}}
+@media (max-width:640px){
+  .row,.metrics,.spec{grid-template-columns:1fr}
+  .spec button{width:100%;height:42px}
+  .dock{flex-direction:column;align-items:stretch}
+  .save{width:100%}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="bar"><a href="/">← Back to the website</a><span class="mark">Rickon</span></div></header>
+<main>
+<div class="intro">
+  <p class="mark">Catalogue</p>
+  <h1>Add a product</h1>
+  <p>Fill in what applies. Empty rows are left off the website.</p>
+</div>
+<form id="form">
+  <div class="sheet">
+  <div class="field">
+    <label for="category">Category</label>
+    <select id="category" required></select>
+  </div>
+  <div class="field" id="newCatWrap" hidden>
+    <label for="newCat">New category name</label>
+    <input id="newCat" type="text" placeholder="e.g. Gear Oil Pump">
+  </div>
+  <div class="row">
+    <div class="field">
+      <label for="name">Product name</label>
+      <input id="name" type="text" required placeholder="e.g. 1 HP Coolant Pump">
+    </div>
+    <div class="field">
+      <label for="price">Price</label>
+      <input id="price" type="number" min="0" step="1" required placeholder="9999">
+      <p class="hint">Rupees per piece, shown on the website.</p>
+    </div>
+  </div>
+  <div class="field">
+    <label for="title">Full title</label>
+    <input id="title" type="text" placeholder="e.g. 1 HP Coolant Pump, 40 LPM, Model C0.50">
+    <p class="hint">Optional longer name on the product page. Leave blank to use the product name.</p>
+  </div>
+  <div class="field">
+    <label for="video">Product video</label>
+    <input id="video" type="url" inputmode="url" placeholder="https://www.youtube.com/watch?v=...">
+    <p class="hint">Paste a YouTube link. It plays on the product page.</p>
+  </div>
+  <div class="field">
+    <label for="description">Description</label>
+    <textarea id="description" placeholder="What this pump is used for, and what makes it suitable."></textarea>
+    <p class="hint">Start a new paragraph with a blank line.</p>
+  </div>
+  </div>
+  <section class="block">
+    <h2>Shown on the product card</h2>
+    <p class="hint">These appear next to the price in the catalogue. Leave blank if they do not apply.</p>
+    <div class="metrics">
+      <div class="field"><label for="flow">Flow</label><input id="flow" type="text" placeholder="50 LPM"></div>
+      <div class="field"><label for="pressure">Pressure</label><input id="pressure" type="text" placeholder="10 bar"></div>
+      <div class="field"><label for="power">Power</label><input id="power" type="text" placeholder="1 HP"></div>
+      <div class="field"><label for="size">Size</label><input id="size" type="text" placeholder="1 inch"></div>
+    </div>
+  </section>
+  <section class="block">
+    <h2>Specifications</h2>
+    <p class="hint">Fill the rows that apply. Remove the rest. Add any other detail, such as RPM, tank capacity, or viscosity.</p>
+    <div id="specs"></div>
+    <button class="ghost" id="addSpec" type="button">Add a specification</button>
+  </section>
+  <section class="block">
+    <h2>Construction details</h2>
+    <p class="hint">How the pump is built: gears, shaft, sealing, temperature, and similar details.</p>
+    <div id="details"></div>
+    <button class="ghost" id="addDetail" type="button">Add a construction detail</button>
+  </section>
+  <section class="block">
+    <h2>Features, uses and benefits</h2>
+    <p class="hint">One item per line.</p>
+    <div class="field">
+      <label for="features">Features</label>
+      <textarea class="lines" id="features" placeholder="Continuous oil circulation&#10;Low noise and vibration"></textarea>
+    </div>
+    <div class="row" style="margin-top:14px">
+      <div class="field">
+        <label for="applications">Applications</label>
+        <textarea class="lines" id="applications" placeholder="Gearboxes&#10;CNC machines"></textarea>
+      </div>
+      <div class="field">
+        <label for="benefits">Benefits</label>
+        <textarea class="lines" id="benefits" placeholder="Extends machinery life&#10;Reduces downtime"></textarea>
+      </div>
+    </div>
+  </section>
+  <section class="block">
+    <h2>Photos</h2>
+    <p class="hint">Add as many as you need. The first photo is the one buyers see in the catalogue.</p>
+    <div class="drop" id="drop">
+      <strong>Add photos</strong>
+      <p>Drop photos here, or choose them from your computer. You can add more than once.</p>
+      <button class="pick" id="pick" type="button">Choose photos</button>
+      <input class="file-input" id="photos" type="file" accept="image/*" multiple>
+    </div>
+    <p class="photo-count" id="photoCount" hidden></p>
+    <div class="photo-grid" id="previews"></div>
+  </section>
+  <div class="dock">
+    <p>The product appears on the website after Netlify publishes it.</p>
+    <button class="save" id="save" type="submit">Save product</button>
+  </div>
+  <div class="msg" id="msg" hidden></div>
+</form>
+</main>
+<script>
+const form = document.getElementById("form");
+const category = document.getElementById("category");
+const newCatWrap = document.getElementById("newCatWrap");
+const specs = document.getElementById("specs");
+const details = document.getElementById("details");
+const COMMON_SPECS = ["Brand","Material","Pump Type","Phase","Voltage","Head","Mounting Type","Usage/Application","Model Name/Number","Speed","Seal Type","Weight","Frequency","Capacity","Country of Origin","Delivery Time","Packaging Details"];
+const COMMON_DETAILS = ["Temperature","Sealing","Gears","Shaft","Bush","Liquid","Material Of Construction + Pump Body"];
+const msg = document.getElementById("msg");
+const previews = document.getElementById("previews");
+const photoCount = document.getElementById("photoCount");
+const photoInput = document.getElementById("photos");
+const drop = document.getElementById("drop");
+const photos = [];
+
+function specRow(container, label = "", value = "") {
+  const row = document.createElement("div");
+  row.className = "spec";
+  row.innerHTML = `<input type="text" placeholder="Label, e.g. RPM" aria-label="Detail label">
+    <input type="text" placeholder="Value" aria-label="Detail value">
+    <button type="button" aria-label="Remove">×</button>`;
+  row.children[0].value = label;
+  row.children[1].value = value;
+  row.children[2].addEventListener("click", () => row.remove());
+  container.appendChild(row);
+}
+function fillPairs(container, labels) {
+  container.replaceChildren();
+  labels.forEach(label => specRow(container, label, ""));
+}
+function resetLists() {
+  fillPairs(specs, COMMON_SPECS);
+  fillPairs(details, COMMON_DETAILS);
+}
+resetLists();
+document.getElementById("addSpec").addEventListener("click", () => specRow(specs));
+document.getElementById("addDetail").addEventListener("click", () => specRow(details));
+function collectPairs(container) {
+  return [...container.children].map(row => ({ label: row.children[0].value, value: row.children[1].value }));
+}
+
+function show(text, bad) {
+  msg.hidden = false;
+  msg.className = bad ? "msg bad" : "msg";
+  msg.textContent = text;
+}
+
+category.addEventListener("change", () => { newCatWrap.hidden = category.value !== "__new"; });
+
+fetch("/data/catalog.json", { cache: "no-cache" })
+  .then(r => { if (!r.ok) throw new Error("catalog"); return r.json(); })
+  .then(data => {
+    category.replaceChildren();
+    (data.categories || []).forEach(item => {
+      const option = document.createElement("option");
+      option.value = item.id;
+      option.textContent = item.name;
+      category.appendChild(option);
+    });
+    const fresh = document.createElement("option");
+    fresh.value = "__new";
+    fresh.textContent = "New category";
+    category.appendChild(fresh);
+  })
+  .catch(() => show("The category list could not be loaded. Refresh this page.", true));
+
+function renderPhotos() {
+  previews.replaceChildren();
+  photoCount.hidden = photos.length === 0;
+  photoCount.textContent = photos.length === 1 ? "1 photo" : photos.length + " photos";
+  photos.forEach((photo, index) => {
+    const card = document.createElement("article");
+    card.className = "photo-card" + (index === 0 ? " cover" : "");
+    card.draggable = true;
+    const top = document.createElement("div");
+    top.className = "top";
+    const img = document.createElement("img");
+    img.src = photo.url;
+    img.alt = "";
+    top.appendChild(img);
+    if (index === 0) {
+      const badge = document.createElement("span");
+      badge.className = "badge";
+      badge.textContent = "Catalogue photo";
+      top.appendChild(badge);
+    }
+    const tools = document.createElement("div");
+    tools.className = "tools";
+    if (index !== 0) {
+      const cover = document.createElement("button");
+      cover.type = "button";
+      cover.textContent = "Make first";
+      cover.addEventListener("click", () => {
+        photos.splice(index, 1);
+        photos.unshift(photo);
+        renderPhotos();
+      });
+      tools.appendChild(cover);
+    }
+    const remove = document.createElement("button");
+    remove.type = "button";
+    remove.textContent = "Remove";
+    remove.addEventListener("click", () => {
+      URL.revokeObjectURL(photo.url);
+      photos.splice(index, 1);
+      renderPhotos();
+    });
+    tools.appendChild(remove);
+    card.append(top, tools);
+    card.addEventListener("dragstart", event => {
+      event.dataTransfer.setData("text/plain", photo.id);
+      event.dataTransfer.effectAllowed = "move";
+    });
+    card.addEventListener("dragover", event => event.preventDefault());
+    card.addEventListener("drop", event => {
+      event.preventDefault();
+      const from = photos.findIndex(item => item.id === event.dataTransfer.getData("text/plain"));
+      if (from < 0 || from === index) return;
+      const [moved] = photos.splice(from, 1);
+      photos.splice(index, 0, moved);
+      renderPhotos();
+    });
+    previews.appendChild(card);
+  });
+}
+function addFiles(list) {
+  let skipped = 0;
+  [...list].forEach(file => {
+    if (!file.type || !file.type.startsWith("image/")) { skipped++; return; }
+    photos.push({ id: crypto.randomUUID(), file, url: URL.createObjectURL(file) });
+  });
+  renderPhotos();
+  if (skipped) show(skipped === 1 ? "One file was skipped because it is not a photo." : skipped + " files were skipped because they are not photos.", true);
+}
+document.getElementById("pick").addEventListener("click", event => { event.stopPropagation(); photoInput.click(); });
+drop.addEventListener("click", event => { if (!event.target.closest("button")) photoInput.click(); });
+photoInput.addEventListener("change", () => { addFiles(photoInput.files); photoInput.value = ""; });
+["dragenter", "dragover"].forEach(name => drop.addEventListener(name, event => { event.preventDefault(); drop.classList.add("over"); }));
+["dragleave", "drop"].forEach(name => drop.addEventListener(name, event => { event.preventDefault(); drop.classList.remove("over"); }));
+drop.addEventListener("drop", event => { if (event.dataTransfer) addFiles(event.dataTransfer.files); });
+
+function fileToJpeg(file) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    const url = URL.createObjectURL(file);
+    img.onload = () => {
+      const max = 1400;
+      const scale = Math.min(1, max / Math.max(img.width, img.height));
+      const canvas = document.createElement("canvas");
+      canvas.width = Math.max(1, Math.round(img.width * scale));
+      canvas.height = Math.max(1, Math.round(img.height * scale));
+      canvas.getContext("2d").drawImage(img, 0, 0, canvas.width, canvas.height);
+      URL.revokeObjectURL(url);
+      canvas.toBlob(blob => {
+        if (!blob) { reject(new Error("Could not prepare a photo.")); return; }
+        const reader = new FileReader();
+        reader.onload = () => resolve(String(reader.result).split(",")[1]);
+        reader.onerror = () => reject(new Error("Could not prepare a photo."));
+        reader.readAsDataURL(blob);
+      }, "image/jpeg", 0.82);
+    };
+    img.onerror = () => { URL.revokeObjectURL(url); reject(new Error("Could not read one of the photos.")); };
+    img.src = url;
+  });
+}
+
+form.addEventListener("submit", async event => {
+  event.preventDefault();
+  const save = document.getElementById("save");
+  save.disabled = true;
+  show("Preparing the photos…");
+  try {
+    if (!photos.length) throw new Error("Add at least one photo.");
+    const videoValue = document.getElementById("video").value.trim();
+    if (videoValue && !/(?:v=|youtu\.be\/|embed\/|shorts\/)[\w-]{6,}/.test(videoValue) && !/^[\w-]{6,}$/.test(videoValue)) {
+      throw new Error("Paste a YouTube link for the product video.");
+    }
+    const encoded = [];
+    for (let i = 0; i < photos.length; i++) {
+      show("Preparing photo " + (i + 1) + " of " + photos.length + "…");
+      encoded.push({ data: await fileToJpeg(photos[i].file) });
+    }
+    const batches = [];
+    let current = [];
+    let size = 0;
+    encoded.forEach(image => {
+      if (current.length && (current.length >= 6 || size + image.data.length > 2800000)) {
+        batches.push(current);
+        current = [];
+        size = 0;
+      }
+      current.push(image);
+      size += image.data.length;
+    });
+    if (current.length) batches.push(current);
+    const fields = {
+      categoryId: category.value,
+      categoryName: document.getElementById("newCat").value.trim(),
+      name: document.getElementById("name").value.trim(),
+      fullTitle: document.getElementById("title").value.trim(),
+      price: document.getElementById("price").value,
+      video: document.getElementById("video").value.trim(),
+      description: document.getElementById("description").value,
+      specifications: [
+        { label: "Flow Rate", value: document.getElementById("flow").value },
+        { label: "Max Pressure", value: document.getElementById("pressure").value },
+        { label: "Power", value: document.getElementById("power").value },
+        { label: "Size", value: document.getElementById("size").value },
+        ...collectPairs(specs)
+      ],
+      productDetails: collectPairs(details),
+      features: document.getElementById("features").value,
+      applications: document.getElementById("applications").value,
+      benefits: document.getElementById("benefits").value
+    };
+    let saved = null;
+    let sent = 0;
+    for (let i = 0; i < batches.length; i++) {
+      const batch = batches[i];
+      show("Saving photos " + (sent + 1) + "–" + (sent + batch.length) + " of " + encoded.length + "…");
+      const body = saved
+        ? { append: true, categoryId: saved.categoryId, slug: saved.slug, images: batch, startIndex: sent }
+        : { ...fields, images: batch, startIndex: 0 };
+      const res = await fetch("/.netlify/functions/save-product", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body)
+      });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(data.error || "The product could not be saved.");
+      saved = data;
+      sent += batch.length;
+    }
+    const photoWord = sent === 1 ? "1 photo" : sent + " photos";
+    show(`Saved “${saved.name}” in ${saved.category} with ${photoWord}. It will appear on the website after Netlify finishes publishing, usually within a couple of minutes.`);
+    form.reset();
+    newCatWrap.hidden = true;
+    resetLists();
+    photos.forEach(photo => URL.revokeObjectURL(photo.url));
+    photos.length = 0;
+    renderPhotos();
+    if (category.options.length) category.value = category.options[0].value;
+  } catch (error) {
+    show(error.message || "The product could not be saved.", true);
+  } finally {
+    save.disabled = false;
+  }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "id": "rotary-gear-pump",
+      "name": "Rotary Gear Pump",
+      "file": "rotary-gear-pump.json"
+    },
+    {
+      "id": "hydraulic-pump",
+      "name": "Hydraulic Pump",
+      "file": "hydraulic-pump.json"
+    },
+    {
+      "id": "crusher-oil-pump",
+      "name": "Crusher Oil Pump",
+      "file": "crusher-oil-pump.json"
+    },
+    {
+      "id": "cone-crusher-oil-pump",
+      "name": "Cone Crusher Oil Pump",
+      "file": "cone-crusher-oil-pump.json"
+    },
+    {
+      "id": "stone-crusher-spare-parts",
+      "name": "Stone Crusher Spare Parts",
+      "file": "stone-crusher-spare-parts.json"
+    },
+    {
+      "id": "industrial-vibrator",
+      "name": "Industrial Vibrator",
+      "file": "industrial-vibrator.json"
+    },
+    {
+      "id": "coolant-pump",
+      "name": "Coolant Pump",
+      "file": "coolant-pump.json"
+    },
+    {
+      "id": "ss-gear-pumps",
+      "name": "SS Gear Pumps",
+      "file": "ss-gear-pumps.json"
+    },
+    {
+      "id": "barrel-oil-pump",
+      "name": "Barrel Oil Pump",
+      "file": "barrel-oil-pump.json"
+    },
+    {
+      "id": "electric-motor",
+      "name": "Electric & Induction Motors",
+      "file": "electric-motor.json"
+    },
+    {
+      "id": "fuel-injection-pump",
+      "name": "LDO & Burner Pumps",
+      "file": "fuel-injection-pump.json"
+    }
+  ]
+}

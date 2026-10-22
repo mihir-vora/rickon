@@ -1,0 +1,132 @@
+{
+  "category": {
+    "id": "fuel-injection-pump",
+    "name": "LDO & Burner Pumps",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/6/314950903/IB/NV/DT/30258400/fig-pump-500x500.jpg"
+  },
+  "products": [
+    {
+      "id": "fip-01",
+      "slug": "ldo-oil-burner-pump-8633",
+      "name": "LDO Oil Burner Pump",
+      "full_title": "LDO Oil Burner Pump",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/ldo-oil-burner-pump-2851393118633.html",
+      "price": {
+        "amount": 4999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/314950903/IB/NV/DT/30258400/fig-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/314950903/IB/NV/DT/30258400/fig-pump-500x500.jpg",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "60 LPH"
+        },
+        {
+          "label": "Pump Brand",
+          "value": "Comely"
+        },
+        {
+          "label": "Pump Capacity",
+          "value": "60 LPH"
+        },
+        {
+          "label": "Discharge Pressure",
+          "value": "17–25 bar"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "fip-02",
+      "slug": "fig-pump-2033",
+      "name": "FIG Pump",
+      "full_title": "FIG Pump",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/fig-pumps-2851643102033.html",
+      "price": {
+        "amount": 4444,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/320633290/RF/DF/BD/30258400/fig-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/320633290/RF/DF/BD/30258400/fig-pumps-500x500.jpg",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [],
+      "specifications": [
+        {
+          "label": "Pump Type",
+          "value": "Rotary Pump"
+        },
+        {
+          "label": "Fuel Type",
+          "value": "LDO"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "50 LPM"
+        },
+        {
+          "label": "Capacity",
+          "value": "6000 LPH"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "fip-03",
+      "slug": "ldo-pump-3-hp-7755",
+      "name": "LDO Pump 3 HP",
+      "full_title": "LDO Pump 3 HP",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/ldo-pumps-2854723137755.html",
+      "price": {
+        "amount": 5555,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2024/9/453832858/KZ/PC/FP/30258400/ldo-pumps-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2024/9/453832858/KZ/PC/FP/30258400/ldo-pumps-500x500.jpg",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [],
+      "specifications": [
+        {
+          "label": "Flow Rate",
+          "value": "401–800 LPH"
+        },
+        {
+          "label": "Power",
+          "value": "3 HP"
+        },
+        {
+          "label": "Discharge Pressure",
+          "value": "26–40 bar"
+        },
+        {
+          "label": "Pump Type",
+          "value": "Rotary Pump"
+        }
+      ],
+      "product_details": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "id": "cone-crusher-oil-pump",
+    "name": "Cone Crusher Oil Pump",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2022/9/JL/ZP/LF/30258400/crusher-oil-pump-500x500.jpg"
+  },
+  "products": [
+    {
+      "id": "cco-01",
+      "slug": "cone-crusher-oil-pump-1444",
+      "name": "Cone Crusher Oil Pump",
+      "full_title": "Cone Crusher Oil Pump",
+      "listing_status": "listed on category page",
+      "indiamart_url": "",
+      "price": {
+        "amount": 21444,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/JL/ZP/LF/30258400/crusher-oil-pump-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/JL/ZP/LF/30258400/crusher-oil-pump-500x500.jpg",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [],
+      "specifications": [
+        {
+          "label": "Application",
+          "value": "Cone Crusher"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        }
+      ],
+      "product_details": []
+    }
+  ]
+}

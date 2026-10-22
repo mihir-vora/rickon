@@ -1,0 +1,239 @@
+{
+  "category": {
+    "id": "electric-motor",
+    "name": "Electric & Induction Motors",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/6/RH/VL/VI/30258400/blower-motor-500x500.png"
+  },
+  "products": [
+    {
+      "id": "em-01",
+      "slug": "comely-burner-motor-4497",
+      "name": "Comely Burner Motor",
+      "full_title": "Comely Burner Motor",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/comely-burner-motor-23562514497.html",
+      "price": {
+        "amount": 3999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/6/RH/VL/VI/30258400/blower-motor-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2021/6/RH/VL/VI/30258400/blower-motor-500x500.png",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [],
+      "specifications": [
+        {
+          "label": "Application",
+          "value": "Oil Burner"
+        },
+        {
+          "label": "Power Rating",
+          "value": "0.12 kW"
+        },
+        {
+          "label": "Rated Voltage",
+          "value": "230 V AC"
+        },
+        {
+          "label": "Shaft Type",
+          "value": "Single Shaft"
+        },
+        {
+          "label": "Brand",
+          "value": "Comely"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "em-02",
+      "slug": "double-shaft-motor-5991",
+      "name": "Double Shaft Motor",
+      "full_title": "Double Shaft Motor",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/double-shaft-motor-2849777205991.html",
+      "price": {
+        "amount": 5500,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/1/QL/BW/KI/30258400/double-shaft-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/1/QL/BW/KI/30258400/double-shaft-motor-500x500.jpg",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [],
+      "specifications": [
+        {
+          "label": "Shaft Configuration",
+          "value": "Extended Both Ends"
+        },
+        {
+          "label": "Power",
+          "value": "1 HP"
+        },
+        {
+          "label": "Power Rating",
+          "value": "0.75 kW"
+        },
+        {
+          "label": "Voltage",
+          "value": "440 V"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "em-03",
+      "slug": "bentone-b40-type-oil-burner-motor-8848",
+      "name": "Bentone B40 Type Oil Burner Motor",
+      "full_title": "Bentone B40 Type Oil Burner Motor",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/bentone-b40-type-oil-burner-motors-2850709018848.html",
+      "price": {
+        "amount": 3999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/4/303720266/NL/LK/BQ/30258400/single-phase-motors-250x250.png",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/4/303720266/NL/LK/BQ/30258400/single-phase-motors-500x500.png",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [],
+      "specifications": [
+        {
+          "label": "Application",
+          "value": "Oil Burner"
+        },
+        {
+          "label": "Power Rating",
+          "value": "0.12 kW"
+        },
+        {
+          "label": "Rated Voltage",
+          "value": "220 V AC"
+        },
+        {
+          "label": "Speed",
+          "value": "2800 rpm"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "em-04",
+      "slug": "1-hp-induction-motor-9055",
+      "name": "1 HP Induction Motor",
+      "full_title": "1 HP Induction Motor",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/1-hp-induction-motor-27023579055.html",
+      "price": {
+        "amount": 5999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/LG/AM/BB/30258400/1-hp-induction-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2022/9/LG/AM/BB/30258400/1-hp-induction-motor-500x500.jpg",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [],
+      "specifications": [
+        {
+          "label": "Power",
+          "value": "1 HP / 0.75 kW"
+        },
+        {
+          "label": "Speed",
+          "value": "1440 RPM (4 Pole)"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "em-05",
+      "slug": "three-phase-induction-motor-7655",
+      "name": "Three Phase Induction Motor",
+      "full_title": "Three Phase Induction Motor",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/three-phase-induction-motor-2851536067655.html",
+      "price": {
+        "amount": 9999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/6/316403142/OL/AV/VT/30258400/three-phase-induction-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/6/316403142/OL/AV/VT/30258400/three-phase-induction-motor-500x500.jpg",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [],
+      "specifications": [
+        {
+          "label": "Power Rating",
+          "value": "1.5 kW"
+        },
+        {
+          "label": "Pole Rating",
+          "value": "4 Pole"
+        },
+        {
+          "label": "Speed",
+          "value": "1500 rpm"
+        }
+      ],
+      "product_details": []
+    },
+    {
+      "id": "em-06",
+      "slug": "3-hp-induction-motor-8073",
+      "name": "3 HP Induction Motor",
+      "full_title": "3 HP Induction Motor",
+      "listing_status": "listed on category page",
+      "indiamart_url": "https://www.indiamart.com/proddetail/3-hp-induction-motor-2852308328073.html",
+      "price": {
+        "amount": 9999,
+        "currency": "INR",
+        "unit": "Piece"
+      },
+      "images": [
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2023/5/304907403/GC/XE/DI/30258400/single-phase-induction-motor-250x250.jpg",
+          "large": "https://5.imimg.com/data5/SELLER/Default/2023/5/304907403/GC/XE/DI/30258400/single-phase-induction-motor-500x500.jpg",
+          "primary": true
+        }
+      ],
+      "video": null,
+      "description": [],
+      "specifications": [
+        {
+          "label": "Power",
+          "value": "3 HP / 2.2 kW"
+        },
+        {
+          "label": "Pole Rating",
+          "value": "4 Pole"
+        }
+      ],
+      "product_details": []
+    }
+  ]
+}
