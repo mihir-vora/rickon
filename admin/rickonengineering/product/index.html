@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
-<title>Add a product · Rickon Engineering</title>
+<title>Products · Rickon Engineering</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..800&family=Instrument+Sans:wght@400;500;600;700&display=swap">
@@ -32,6 +32,9 @@ main{max-width:920px;margin:0 auto;padding:36px 24px 96px}
 .intro{margin-bottom:28px}
 .intro h1{font-family:var(--f-display);font-weight:760;font-size:clamp(36px,5vw,52px);letter-spacing:-.035em;line-height:.95;margin:8px 0 10px}
 .intro p{margin:0;max-width:46ch;color:var(--ink-2)}
+.modes{display:flex;gap:8px;margin-top:18px}
+.mode{border:1px solid var(--line-2);background:#fff;border-radius:999px;padding:10px 16px;font-weight:700;font-size:14px;cursor:pointer}
+.mode.on{background:var(--iron);color:#fff;border-color:var(--iron)}
 form{display:grid;gap:16px}
 .sheet,.block{background:rgba(255,255,255,.92);border:1px solid rgba(255,255,255,.8);border-radius:22px;box-shadow:var(--shadow);padding:22px}
 .sheet{display:grid;gap:16px}
@@ -76,6 +79,9 @@ textarea.lines{min-height:110px}
 .photo-card button:hover{background:#E7F6F4}
 .dock{position:sticky;bottom:16px;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:12px 12px 12px 18px;border-radius:18px;background:rgba(255,255,255,.9);backdrop-filter:blur(16px);border:1px solid rgba(21,27,33,.06);box-shadow:0 18px 40px -24px rgba(21,27,33,.5)}
 .dock p{margin:0;color:var(--ink-2);font-size:13px}
+.danger{background:transparent;color:var(--red);border:0;border-radius:999px;padding:14px 8px;font-weight:700;cursor:pointer}
+.danger:hover{background:#FDE8EA}
+.danger:disabled{opacity:.6;cursor:wait}
 .save{background:var(--red);color:#fff;border:0;border-radius:999px;padding:14px 22px;font-weight:700;cursor:pointer;box-shadow:0 10px 24px -12px rgba(225,6,0,.8)}
 .save:hover{background:#C10500}
 .save:disabled{opacity:.6;cursor:wait}
@@ -86,7 +92,7 @@ textarea.lines{min-height:110px}
   .row,.metrics,.spec{grid-template-columns:1fr}
   .spec button{width:100%;height:42px}
   .dock{flex-direction:column;align-items:stretch}
-  .save{width:100%}
+  .save,.danger{width:100%}
 }
 </style>
 </head>
@@ -95,14 +101,30 @@ textarea.lines{min-height:110px}
 <main>
 <div class="intro">
   <p class="mark">Catalogue</p>
-  <h1>Add a product</h1>
-  <p>Fill in what applies. Empty rows are left off the website.</p>
+  <h1 id="heading">Add a product</h1>
+  <p id="lede">Fill in what applies. Empty rows are left off the website.</p>
+  <div class="modes">
+    <button class="mode on" id="modeNew" type="button" aria-pressed="true">New product</button>
+    <button class="mode" id="modeEdit" type="button" aria-pressed="false">Change a product</button>
+  </div>
 </div>
 <form id="form">
+  <div class="sheet" id="finder" hidden>
+    <div class="field">
+      <label for="findCategory">Find in category</label>
+      <select id="findCategory"></select>
+    </div>
+    <div class="field">
+      <label for="findProduct">Product</label>
+      <select id="findProduct"></select>
+      <p class="hint" id="editingHint" hidden></p>
+    </div>
+  </div>
   <div class="sheet">
   <div class="field">
     <label for="category">Category</label>
     <select id="category" required></select>
+    <p class="hint" id="categoryHint" hidden>Change the category to move this product.</p>
   </div>
   <div class="field" id="newCatWrap" hidden>
     <label for="newCat">New category name</label>
@@ -188,7 +210,8 @@ textarea.lines{min-height:110px}
     <div class="photo-grid" id="previews"></div>
   </section>
   <div class="dock">
-    <p>The product appears on the website after Netlify publishes it.</p>
+    <button class="danger" id="removeProduct" type="button" hidden>Delete product</button>
+    <p id="dockNote">The product appears on the website after Netlify publishes it.</p>
     <button class="save" id="save" type="submit">Save product</button>
   </div>
   <div class="msg" id="msg" hidden></div>
@@ -208,6 +231,24 @@ const photoCount = document.getElementById("photoCount");
 const photoInput = document.getElementById("photos");
 const drop = document.getElementById("drop");
 const photos = [];
+const findCategory = document.getElementById("findCategory");
+const findProduct = document.getElementById("findProduct");
+const finder = document.getElementById("finder");
+const editingHint = document.getElementById("editingHint");
+const categoryHint = document.getElementById("categoryHint");
+const removeProductButton = document.getElementById("removeProduct");
+const CARD_FIELDS = [
+  { id: "flow", aliases: ["flow rate", "max flow rate", "flow", "capacity", "flow range", "maximum discharge flow"], label: "Flow Rate" },
+  { id: "pressure", aliases: ["max pressure", "maximum pressure", "pressure", "max operating pressure", "working pressure"], label: "Max Pressure" },
+  { id: "power", aliases: ["motor power", "power", "motor horsepower", "power rating", "motor"], label: "Power" },
+  { id: "size", aliases: ["pump size", "size", "inlet size", "port size"], label: "Size" }
+];
+let categories = [];
+let mode = "new";
+let editing = null;
+let cardLabels = Object.fromEntries(CARD_FIELDS.map(field => [field.id, field.label]));
+let suppressCategoryChange = false;
+let deleteArmedUntil = 0;
 
 function specRow(container, label = "", value = "") {
   const row = document.createElement("div");
@@ -224,9 +265,34 @@ function fillPairs(container, labels) {
   container.replaceChildren();
   labels.forEach(label => specRow(container, label, ""));
 }
+function fillRows(container, rows) {
+  container.replaceChildren();
+  const list = rows && rows.length ? rows : [{ label: "", value: "" }];
+  list.forEach(row => specRow(container, row.label || "", row.value || ""));
+}
+function resetCardLabels() {
+  cardLabels = Object.fromEntries(CARD_FIELDS.map(field => [field.id, field.label]));
+}
 function resetLists() {
+  resetCardLabels();
   fillPairs(specs, COMMON_SPECS);
   fillPairs(details, COMMON_DETAILS);
+}
+function clearPhotos() {
+  photos.forEach(photo => { if (photo.url && photo.url.startsWith("blob:")) URL.revokeObjectURL(photo.url); });
+  photos.length = 0;
+  renderPhotos();
+}
+function resetForm() {
+  form.reset();
+  newCatWrap.hidden = true;
+  editing = null;
+  editingHint.hidden = true;
+  deleteArmedUntil = 0;
+  removeProductButton.textContent = "Delete product";
+  resetLists();
+  clearPhotos();
+  if (category.options.length) category.value = category.options[0].value;
 }
 resetLists();
 document.getElementById("addSpec").addEventListener("click", () => specRow(specs));
@@ -241,24 +307,169 @@ function show(text, bad) {
   msg.textContent = text;
 }
 
-category.addEventListener("change", () => { newCatWrap.hidden = category.value !== "__new"; });
+category.addEventListener("change", () => {
+  newCatWrap.hidden = category.value !== "__new";
+  if (suppressCategoryChange || mode !== "edit" || editing) return;
+});
+
+function categoryOptions(select, includeNew) {
+  const current = select.value;
+  select.replaceChildren();
+  categories.forEach(item => {
+    const option = document.createElement("option");
+    option.value = item.id;
+    option.textContent = item.name;
+    option.dataset.file = item.file;
+    select.appendChild(option);
+  });
+  if (includeNew) {
+    const fresh = document.createElement("option");
+    fresh.value = "__new";
+    fresh.textContent = "New category";
+    select.appendChild(fresh);
+  }
+  if ([...select.options].some(option => option.value === current)) select.value = current;
+}
+function ensureCategory(id, name) {
+  if (categories.some(item => item.id === id)) return;
+  categories.push({ id, name, file: id + ".json" });
+  categoryOptions(category, true);
+  categoryOptions(findCategory, false);
+}
 
 fetch("/data/catalog.json", { cache: "no-cache" })
   .then(r => { if (!r.ok) throw new Error("catalog"); return r.json(); })
   .then(data => {
-    category.replaceChildren();
-    (data.categories || []).forEach(item => {
-      const option = document.createElement("option");
-      option.value = item.id;
-      option.textContent = item.name;
-      category.appendChild(option);
-    });
-    const fresh = document.createElement("option");
-    fresh.value = "__new";
-    fresh.textContent = "New category";
-    category.appendChild(fresh);
+    categories = data.categories || [];
+    categoryOptions(category, true);
+    categoryOptions(findCategory, false);
+    if (mode === "edit") loadProductOptions();
   })
   .catch(() => show("The category list could not be loaded. Refresh this page.", true));
+
+let productRequest = 0;
+function loadProductOptions() {
+  const request = ++productRequest;
+  const selected = categories.find(item => item.id === findCategory.value);
+  findProduct.replaceChildren();
+  const waiting = document.createElement("option");
+  waiting.value = "";
+  waiting.textContent = "Loading products…";
+  findProduct.appendChild(waiting);
+  if (!selected) return;
+  fetch("/data/" + selected.file, { cache: "no-cache" })
+    .then(r => { if (!r.ok) throw new Error("products"); return r.json(); })
+    .then(data => {
+      if (request !== productRequest) return;
+      findProduct.replaceChildren();
+      const placeholder = document.createElement("option");
+      placeholder.value = "";
+      placeholder.textContent = "Choose a product";
+      findProduct.appendChild(placeholder);
+      (data.products || []).forEach(product => {
+        const option = document.createElement("option");
+        option.value = product.slug;
+        option.textContent = product.name;
+        option.dataset.product = JSON.stringify(product);
+        findProduct.appendChild(option);
+      });
+      if (editing && editing.categoryId === selected.id) findProduct.value = editing.slug;
+    })
+    .catch(() => show("The products in this category could not be loaded. Refresh this page.", true));
+}
+function clearLoadedFields() {
+  editing = null;
+  editingHint.hidden = true;
+  deleteArmedUntil = 0;
+  removeProductButton.textContent = "Delete product";
+  ["name", "price", "title", "video", "description", "flow", "pressure", "power", "size", "features", "applications", "benefits", "newCat"].forEach(id => {
+    document.getElementById(id).value = "";
+  });
+  newCatWrap.hidden = category.value !== "__new";
+  resetLists();
+  clearPhotos();
+  msg.hidden = true;
+}
+findCategory.addEventListener("change", () => {
+  if (editing) clearLoadedFields();
+  loadProductOptions();
+});
+findProduct.addEventListener("change", () => {
+  const option = findProduct.selectedOptions[0];
+  if (!option || !option.dataset.product) return;
+  loadProduct(findCategory.value, JSON.parse(option.dataset.product));
+});
+
+function splitCardSpecs(list) {
+  const remaining = (list || []).map(row => ({ label: row.label || "", value: row.value || "" }));
+  const values = {};
+  CARD_FIELDS.forEach(field => {
+    let found = -1;
+    for (const alias of field.aliases) {
+      found = remaining.findIndex(row => row.label.trim().toLowerCase() === alias);
+      if (found >= 0) break;
+    }
+    if (found >= 0) {
+      values[field.id] = remaining[found].value;
+      cardLabels[field.id] = remaining[found].label;
+      remaining.splice(found, 1);
+    } else {
+      values[field.id] = "";
+      cardLabels[field.id] = field.label;
+    }
+  });
+  return { values, remaining };
+}
+function loadProduct(categoryId, product) {
+  editing = { categoryId, slug: product.slug, images: product.images || [], name: product.name };
+  suppressCategoryChange = true;
+  category.value = categoryId;
+  newCatWrap.hidden = true;
+  suppressCategoryChange = false;
+  document.getElementById("name").value = product.name || "";
+  document.getElementById("price").value = product.price && product.price.amount != null ? product.price.amount : "";
+  document.getElementById("title").value = product.full_title || "";
+  document.getElementById("video").value = product.video || "";
+  document.getElementById("description").value = (product.description || []).join("\n\n");
+  const split = splitCardSpecs(product.specifications);
+  CARD_FIELDS.forEach(field => { document.getElementById(field.id).value = split.values[field.id] || ""; });
+  fillRows(specs, split.remaining);
+  fillRows(details, product.product_details || []);
+  document.getElementById("features").value = (product.features || []).join("\n");
+  document.getElementById("applications").value = (product.applications || []).join("\n");
+  document.getElementById("benefits").value = (product.benefits || []).join("\n");
+  clearPhotos();
+  (product.images || []).forEach(image => {
+    photos.push({ id: crypto.randomUUID(), existing: true, src: image.src, large: image.large || image.src, url: image.src });
+  });
+  renderPhotos();
+  editingHint.hidden = false;
+  editingHint.textContent = "You are changing “" + product.name + "”. Remove a row or a photo to delete it.";
+  msg.hidden = true;
+}
+function setMode(next) {
+  mode = next;
+  const editingMode = next === "edit";
+  document.getElementById("modeNew").classList.toggle("on", !editingMode);
+  document.getElementById("modeEdit").classList.toggle("on", editingMode);
+  document.getElementById("modeNew").setAttribute("aria-pressed", String(!editingMode));
+  document.getElementById("modeEdit").setAttribute("aria-pressed", String(editingMode));
+  document.getElementById("heading").textContent = editingMode ? "Change a product" : "Add a product";
+  document.getElementById("lede").textContent = editingMode
+    ? "Choose a product, change what you need, then save."
+    : "Fill in what applies. Empty rows are left off the website.";
+  finder.hidden = !editingMode;
+  categoryHint.hidden = !editingMode;
+  removeProductButton.hidden = !editingMode;
+  document.getElementById("dockNote").textContent = editingMode
+    ? "Changes appear on the website after Netlify publishes them."
+    : "The product appears on the website after Netlify publishes it.";
+  document.getElementById("save").textContent = editingMode ? "Save changes" : "Save product";
+  resetForm();
+  if (editingMode) loadProductOptions();
+}
+document.getElementById("modeNew").addEventListener("click", () => { if (mode !== "new") setMode("new"); });
+document.getElementById("modeEdit").addEventListener("click", () => { if (mode !== "edit") setMode("edit"); });
 
 function renderPhotos() {
   previews.replaceChildren();
@@ -273,6 +484,7 @@ function renderPhotos() {
     const img = document.createElement("img");
     img.src = photo.url;
     img.alt = "";
+    img.referrerPolicy = "no-referrer";
     top.appendChild(img);
     if (index === 0) {
       const badge = document.createElement("span");
@@ -297,7 +509,7 @@ function renderPhotos() {
     remove.type = "button";
     remove.textContent = "Remove";
     remove.addEventListener("click", () => {
-      URL.revokeObjectURL(photo.url);
+      if (photo.url && photo.url.startsWith("blob:")) URL.revokeObjectURL(photo.url);
       photos.splice(index, 1);
       renderPhotos();
     });
@@ -323,7 +535,7 @@ function addFiles(list) {
   let skipped = 0;
   [...list].forEach(file => {
     if (!file.type || !file.type.startsWith("image/")) { skipped++; return; }
-    photos.push({ id: crypto.randomUUID(), file, url: URL.createObjectURL(file) });
+    photos.push({ id: crypto.randomUUID(), existing: false, file, url: URL.createObjectURL(file) });
   });
   renderPhotos();
   if (skipped) show(skipped === 1 ? "One file was skipped because it is not a photo." : skipped + " files were skipped because they are not photos.", true);
@@ -360,86 +572,195 @@ function fileToJpeg(file) {
   });
 }
 
+function imageNumber(src) {
+  const match = String(src || "").match(/\/(\d+)\.[a-z0-9]+$/i);
+  return match ? Number(match[1]) : 0;
+}
+function batchesOf(encoded) {
+  const batches = [];
+  let current = [];
+  let size = 0;
+  encoded.forEach(image => {
+    if (current.length && (current.length >= 6 || size + image.data.length > 2800000)) {
+      batches.push(current);
+      current = [];
+      size = 0;
+    }
+    current.push(image);
+    size += image.data.length;
+  });
+  if (current.length) batches.push(current);
+  return batches;
+}
+async function postProduct(body) {
+  const res = await fetch("/.netlify/functions/save-product", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body)
+  });
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(data.error || "The product could not be saved.");
+  return data;
+}
+function productFields() {
+  return {
+    categoryId: category.value,
+    categoryName: document.getElementById("newCat").value.trim(),
+    name: document.getElementById("name").value.trim(),
+    fullTitle: document.getElementById("title").value.trim(),
+    price: document.getElementById("price").value,
+    video: document.getElementById("video").value.trim(),
+    description: document.getElementById("description").value,
+    specifications: [
+      ...CARD_FIELDS.map(field => ({ label: cardLabels[field.id], value: document.getElementById(field.id).value })),
+      ...collectPairs(specs)
+    ],
+    productDetails: collectPairs(details),
+    features: document.getElementById("features").value,
+    applications: document.getElementById("applications").value,
+    benefits: document.getElementById("benefits").value
+  };
+}
+function rememberSavedPhotos(images) {
+  clearPhotos();
+  (images || []).forEach(image => {
+    photos.push({ id: crypto.randomUUID(), existing: true, src: image.src, large: image.large || image.src, url: image.src });
+  });
+  renderPhotos();
+}
+
 form.addEventListener("submit", async event => {
   event.preventDefault();
   const save = document.getElementById("save");
   save.disabled = true;
-  show("Preparing the photos…");
+  removeProductButton.disabled = true;
+  show(photos.some(photo => !photo.existing) ? "Preparing the photos…" : "Saving…");
   try {
-    if (!photos.length) throw new Error("Add at least one photo.");
+    if (mode === "edit" && !editing) throw new Error("Choose a product to change.");
+    if (mode === "new" && !photos.length) throw new Error("Add at least one photo.");
     const videoValue = document.getElementById("video").value.trim();
     if (videoValue && !/(?:v=|youtu\.be\/|embed\/|shorts\/)[\w-]{6,}/.test(videoValue) && !/^[\w-]{6,}$/.test(videoValue)) {
       throw new Error("Paste a YouTube link for the product video.");
     }
-    const encoded = [];
-    for (let i = 0; i < photos.length; i++) {
-      show("Preparing photo " + (i + 1) + " of " + photos.length + "…");
-      encoded.push({ data: await fileToJpeg(photos[i].file) });
-    }
-    const batches = [];
-    let current = [];
-    let size = 0;
-    encoded.forEach(image => {
-      if (current.length && (current.length >= 6 || size + image.data.length > 2800000)) {
-        batches.push(current);
-        current = [];
-        size = 0;
+    const fields = productFields();
+    if (mode === "edit") {
+      const fresh = photos.filter(photo => !photo.existing);
+      const encoded = [];
+      for (let i = 0; i < fresh.length; i++) {
+        show("Preparing photo " + (i + 1) + " of " + fresh.length + "…");
+        encoded.push({ data: await fileToJpeg(fresh[i].file) });
       }
-      current.push(image);
-      size += image.data.length;
-    });
-    if (current.length) batches.push(current);
-    const fields = {
-      categoryId: category.value,
-      categoryName: document.getElementById("newCat").value.trim(),
-      name: document.getElementById("name").value.trim(),
-      fullTitle: document.getElementById("title").value.trim(),
-      price: document.getElementById("price").value,
-      video: document.getElementById("video").value.trim(),
-      description: document.getElementById("description").value,
-      specifications: [
-        { label: "Flow Rate", value: document.getElementById("flow").value },
-        { label: "Max Pressure", value: document.getElementById("pressure").value },
-        { label: "Power", value: document.getElementById("power").value },
-        { label: "Size", value: document.getElementById("size").value },
-        ...collectPairs(specs)
-      ],
-      productDetails: collectPairs(details),
-      features: document.getElementById("features").value,
-      applications: document.getElementById("applications").value,
-      benefits: document.getElementById("benefits").value
-    };
-    let saved = null;
-    let sent = 0;
-    for (let i = 0; i < batches.length; i++) {
-      const batch = batches[i];
-      show("Saving photos " + (sent + 1) + "–" + (sent + batch.length) + " of " + encoded.length + "…");
-      const body = saved
-        ? { append: true, categoryId: saved.categoryId, slug: saved.slug, images: batch, startIndex: sent }
-        : { ...fields, images: batch, startIndex: 0 };
-      const res = await fetch("/.netlify/functions/save-product", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(body)
+      const batches = batchesOf(encoded);
+      let base = 0;
+      (editing.images || []).forEach(image => {
+        if (String(image.src || "").startsWith("/images/")) base = Math.max(base, imageNumber(image.src));
       });
-      const data = await res.json().catch(() => ({}));
-      if (!res.ok) throw new Error(data.error || "The product could not be saved.");
-      saved = data;
-      sent += batch.length;
+      let staged = 0;
+      for (let i = 0; i < batches.length - 1; i++) {
+        show("Saving photos " + (staged + 1) + "–" + (staged + batches[i].length) + " of " + encoded.length + "…");
+        await postProduct({ action: "update", stage: true, slug: editing.slug, sourceCategoryId: editing.categoryId, images: batches[i], startIndex: base + staged });
+        staged += batches[i].length;
+      }
+      const imageSlots = [];
+      let newSeen = 0;
+      photos.forEach(photo => {
+        if (photo.existing) {
+          imageSlots.push({ src: photo.src, large: photo.large || photo.src });
+          return;
+        }
+        const number = base + newSeen + 1;
+        if (newSeen < staged) imageSlots.push({ src: "/images/" + editing.slug + "/" + number + ".jpg", large: "/images/" + editing.slug + "/" + number + ".jpg" });
+        else imageSlots.push({ upload: true });
+        newSeen += 1;
+      });
+      show("Saving the changes…");
+      const saved = await postProduct({
+        action: "update",
+        slug: editing.slug,
+        sourceCategoryId: editing.categoryId,
+        ...fields,
+        imageSlots,
+        images: batches.length ? batches[batches.length - 1] : [],
+        startIndex: base + staged
+      });
+      ensureCategory(saved.categoryId, saved.category);
+      suppressCategoryChange = true;
+      category.value = saved.categoryId;
+      suppressCategoryChange = false;
+      editing = { categoryId: saved.categoryId, slug: saved.slug, images: saved.images || [], name: saved.name };
+      rememberSavedPhotos(saved.images);
+      editingHint.hidden = false;
+      editingHint.textContent = "You are changing “" + saved.name + "”. Remove a row or a photo to delete it.";
+      if (findCategory.value !== saved.categoryId) {
+        findCategory.value = saved.categoryId;
+        loadProductOptions();
+      } else {
+        const option = [...findProduct.options].find(item => item.value === saved.slug);
+        if (option) option.textContent = saved.name;
+        findProduct.value = saved.slug;
+      }
+      const photoWord = (saved.imageCount || 0) === 1 ? "1 photo" : (saved.imageCount || 0) + " photos";
+      show("Saved changes to “" + saved.name + "” (" + photoWord + "). They will appear on the website after Netlify finishes publishing, usually within a couple of minutes.");
+    } else {
+      const encoded = [];
+      for (let i = 0; i < photos.length; i++) {
+        show("Preparing photo " + (i + 1) + " of " + photos.length + "…");
+        encoded.push({ data: await fileToJpeg(photos[i].file) });
+      }
+      const batches = batchesOf(encoded);
+      let saved = null;
+      let sent = 0;
+      for (let i = 0; i < batches.length; i++) {
+        const batch = batches[i];
+        show("Saving photos " + (sent + 1) + "–" + (sent + batch.length) + " of " + encoded.length + "…");
+        saved = await postProduct(saved
+          ? { append: true, categoryId: saved.categoryId, slug: saved.slug, images: batch, startIndex: sent }
+          : { ...fields, images: batch, startIndex: 0 });
+        sent += batch.length;
+      }
+      const photoWord = sent === 1 ? "1 photo" : sent + " photos";
+      show("Saved “" + saved.name + "” in " + saved.category + " with " + photoWord + ". It will appear on the website after Netlify finishes publishing, usually within a couple of minutes.");
+      ensureCategory(saved.categoryId, saved.category);
+      resetForm();
     }
-    const photoWord = sent === 1 ? "1 photo" : sent + " photos";
-    show(`Saved “${saved.name}” in ${saved.category} with ${photoWord}. It will appear on the website after Netlify finishes publishing, usually within a couple of minutes.`);
-    form.reset();
-    newCatWrap.hidden = true;
-    resetLists();
-    photos.forEach(photo => URL.revokeObjectURL(photo.url));
-    photos.length = 0;
-    renderPhotos();
-    if (category.options.length) category.value = category.options[0].value;
   } catch (error) {
     show(error.message || "The product could not be saved.", true);
   } finally {
     save.disabled = false;
+    removeProductButton.disabled = false;
+  }
+});
+
+removeProductButton.addEventListener("click", async () => {
+  if (!editing) {
+    show("Choose a product to delete.", true);
+    return;
+  }
+  if (Date.now() > deleteArmedUntil) {
+    deleteArmedUntil = Date.now() + 4000;
+    removeProductButton.textContent = "Click again to delete";
+    setTimeout(() => {
+      if (Date.now() >= deleteArmedUntil) removeProductButton.textContent = "Delete product";
+    }, 4100);
+    return;
+  }
+  deleteArmedUntil = 0;
+  removeProductButton.textContent = "Delete product";
+  removeProductButton.disabled = true;
+  document.getElementById("save").disabled = true;
+  show("Deleting “" + editing.name + "”…");
+  try {
+    const saved = await postProduct({ action: "delete", categoryId: editing.categoryId, slug: editing.slug });
+    show("Deleted “" + saved.name + "”. It leaves the website after Netlify finishes publishing, usually within a couple of minutes.");
+    const categoryId = editing.categoryId;
+    resetForm();
+    findCategory.value = categoryId;
+    loadProductOptions();
+  } catch (error) {
+    show(error.message || "The product could not be deleted.", true);
+  } finally {
+    removeProductButton.disabled = false;
+    document.getElementById("save").disabled = false;
   }
 });
 </script>

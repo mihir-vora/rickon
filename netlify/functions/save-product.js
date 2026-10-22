@@ -192,6 +192,116 @@ function applyProduct(file, category, product) {
   return next;
 }
 
+function assertSlug(slug) {
+  if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)) {
+    const error = new Error("The product was not found. Refresh the page and choose it again.");
+    error.statusCode = 400;
+    throw error;
+  }
+  return slug;
+}
+
+function findCategory(catalog, id) {
+  const categories = Array.isArray(catalog.categories) ? catalog.categories : [];
+  const found = categories.find(category => category.id === id);
+  if (!found || !/^[\w.-]+$/.test(found.file || "")) {
+    const error = new Error("Choose a category from the list.");
+    error.statusCode = 400;
+    throw error;
+  }
+  return { id: found.id, name: found.name, file: found.file, isNew: false };
+}
+
+function allowedImageRef(value, slug) {
+  if (value.startsWith("https://5.imimg.com/") && value.length < 500 && !/[\s"'<>]/.test(value)) return true;
+  return value.startsWith("/images/" + slug + "/") && /^\/images\/[a-z0-9-]+\/[\w.-]+$/i.test(value);
+}
+
+function imageRecordsFromSlots(payload, slug) {
+  if (!Array.isArray(payload.imageSlots)) {
+    const error = new Error("The photos could not be read. Refresh the page and try again.");
+    error.statusCode = 400;
+    throw error;
+  }
+  const incoming = Array.isArray(payload.images) ? payload.images : [];
+  const start = Number(payload.startIndex);
+  const startIndex = Number.isInteger(start) && start >= 0 ? start : 0;
+  const records = [];
+  const uploads = [];
+  let uploadAt = 0;
+  payload.imageSlots.forEach(slot => {
+    if (slot && slot.src) {
+      const src = String(slot.src);
+      const large = String(slot.large || src);
+      if (!allowedImageRef(src, slug) || !allowedImageRef(large, slug)) {
+        const error = new Error("One of the saved photos could not be kept. Refresh the page and try again.");
+        error.statusCode = 400;
+        throw error;
+      }
+      records.push({ src, large, primary: false });
+      return;
+    }
+    if (slot && slot.upload) {
+      const stored = imagesFromPayload({ images: [incoming[uploadAt]], startIndex: startIndex + uploadAt }, slug);
+      uploadAt += 1;
+      records.push(stored[0].record);
+      uploads.push({ path: stored[0].path, content: stored[0].content });
+      return;
+    }
+    const error = new Error("One of the photos could not be read. Choose the photo again.");
+    error.statusCode = 400;
+    throw error;
+  });
+  if (uploadAt !== incoming.length) {
+    const error = new Error("One of the photos could not be read. Choose the photo again.");
+    error.statusCode = 400;
+    throw error;
+  }
+  records.forEach((record, index) => { record.primary = index === 0; });
+  return { records, uploads };
+}
+
+function mergeProduct(existing, payload, imageRecords) {
+  const fresh = buildProduct(payload, existing.slug, imageRecords);
+  const next = { ...existing, ...fresh, id: existing.id || fresh.id, slug: existing.slug };
+  if (!fresh.features) delete next.features;
+  if (!fresh.applications) delete next.applications;
+  if (!fresh.benefits) delete next.benefits;
+  if (existing.price && existing.price.unit) next.price = { ...next.price, unit: existing.price.unit };
+  return next;
+}
+
+function placeProduct(file, category, product) {
+  const next = file || { category: { id: category.id, name: category.name, image: "" }, products: [] };
+  if (!next.category) next.category = { id: category.id, name: category.name, image: "" };
+  if (!Array.isArray(next.products)) next.products = [];
+  next.category.id = next.category.id || category.id;
+  next.category.name = next.category.name || category.name;
+  const index = next.products.findIndex(item => item.slug === product.slug);
+  if (index >= 0) next.products[index] = product;
+  else next.products.push(product);
+  if (!next.category.image && product.images[0]) next.category.image = product.images[0].large;
+  if ("extracted_count" in next.category) next.category.extracted_count = next.products.length;
+  return next;
+}
+
+function removeProduct(file, slug) {
+  if (!file || !Array.isArray(file.products)) {
+    const error = new Error("The product was not found. Refresh the page and choose it again.");
+    error.statusCode = 400;
+    throw error;
+  }
+  const index = file.products.findIndex(item => item.slug === slug);
+  if (index < 0) {
+    const error = new Error("The product was not found. Refresh the page and choose it again.");
+    error.statusCode = 400;
+    throw error;
+  }
+  const [product] = file.products.splice(index, 1);
+  if (file.category && "extracted_count" in file.category) file.category.extracted_count = file.products.length;
+  return product;
+}
+
 function jsonFile(value) {
   return Buffer.from(JSON.stringify(value, null, 2) + "\n", "utf8").toString("base64");
 }
@@ -269,7 +379,71 @@ async function commitFiles(token, repo, branch, files, message) {
   return commit.sha;
 }
 
+async function updateOnce(payload, token, repo, branch) {
+  const slug = assertSlug(String(payload.slug || ""));
+  const catalog = await readRepoJson(token, repo, branch, "data/catalog.json");
+  const source = findCategory(catalog, String(payload.sourceCategoryId || ""));
+  const current = await readRepoJson(token, repo, branch, "data/" + source.file);
+  const existing = current && Array.isArray(current.products) ? current.products.find(item => item.slug === slug) : null;
+  if (!existing) {
+    const error = new Error("The product was not found. Refresh the page and choose it again.");
+    error.statusCode = 400;
+    throw error;
+  }
+  if (payload.stage) {
+    const storedImages = imagesFromPayload(payload, slug);
+    await commitFiles(token, repo, branch, storedImages.map(image => ({ path: image.path, content: image.content })), `Add photos to: ${existing.name}\n\nSaved from the Rickon admin page.`);
+    return { name: existing.name, category: source.name, categoryId: source.id, slug, imageCount: storedImages.length, staged: true };
+  }
+  const destination = resolveCategory(catalog, payload);
+  const { records, uploads } = imageRecordsFromSlots(payload, slug);
+  const product = mergeProduct(existing, payload, records);
+  const files = [...uploads.map(image => ({ path: image.path, content: image.content }))];
+  if (source.id === destination.id) {
+    files.push({ path: "data/" + source.file, content: jsonFile(placeProduct(current, source, product)) });
+  } else {
+    removeProduct(current, slug);
+    files.push({ path: "data/" + source.file, content: jsonFile(current) });
+    let destinationFile = null;
+    try {
+      destinationFile = await readRepoJson(token, repo, branch, "data/" + destination.file);
+    } catch (error) {
+      if (!destination.isNew || error.status !== 404) throw error;
+    }
+    if (destinationFile && Array.isArray(destinationFile.products) && destinationFile.products.some(item => item.slug === slug)) {
+      const error = new Error("That category already has this product.");
+      error.statusCode = 400;
+      throw error;
+    }
+    files.push({ path: "data/" + destination.file, content: jsonFile(placeProduct(destinationFile, destination, product)) });
+    if (destination.isNew) {
+      catalog.categories = catalog.categories || [];
+      catalog.categories.push({ id: destination.id, name: destination.name, file: destination.file });
+      files.push({ path: "data/catalog.json", content: jsonFile(catalog) });
+    }
+  }
+  await commitFiles(token, repo, branch, files, `Update product: ${product.name}\n\nSaved from the Rickon admin page.`);
+  return { name: product.name, category: destination.name, categoryId: destination.id, slug, imageCount: product.images.length, images: product.images };
+}
+
+async function deleteOnce(payload, token, repo, branch) {
+  const slug = assertSlug(String(payload.slug || ""));
+  const catalog = await readRepoJson(token, repo, branch, "data/catalog.json");
+  const category = findCategory(catalog, String(payload.categoryId || ""));
+  const current = await readRepoJson(token, repo, branch, "data/" + category.file);
+  const product = removeProduct(current, slug);
+  const files = [{ path: "data/" + category.file, content: jsonFile(current) }];
+  if (!current.products.length) {
+    catalog.categories = (catalog.categories || []).filter(item => item.id !== category.id);
+    files.push({ path: "data/catalog.json", content: jsonFile(catalog) });
+  }
+  await commitFiles(token, repo, branch, files, `Remove product: ${product.name}\n\nSaved from the Rickon admin page.`);
+  return { name: product.name, category: category.name, categoryId: category.id, slug, deleted: true };
+}
+
 async function saveOnce(payload, token, repo, branch) {
+  if (payload.action === "update") return updateOnce(payload, token, repo, branch);
+  if (payload.action === "delete") return deleteOnce(payload, token, repo, branch);
   const catalog = await readRepoJson(token, repo, branch, "data/catalog.json");
   const category = resolveCategory(catalog, payload);
   let current = null;
@@ -320,7 +494,7 @@ async function saveOnce(payload, token, repo, branch) {
 
 async function handler(event) {
   if (event.httpMethod === "OPTIONS") return response(204, {});
-  if (event.httpMethod !== "POST") return response(405, { error: "Use the admin form to add a product." });
+  if (event.httpMethod !== "POST") return response(405, { error: "Use the admin form to save a product." });
 
   const token = process.env.GITHUB_TOKEN;
   const repo = process.env.GITHUB_REPO || "mihir-vora/rickon";
@@ -354,6 +528,7 @@ async function handler(event) {
   } catch (error) {
     const statusCode = error.statusCode || (error.status === 401 || error.status === 403 ? 502 : 500);
     let message = error.statusCode ? error.message : "The product could not be saved. Try again in a moment.";
+    if (payload && payload.action === "delete" && !error.statusCode) message = "The product could not be deleted. Try again in a moment.";
     if (error.status === 401 || error.status === 403) message = "GitHub refused the save. Check the GITHUB_TOKEN in Netlify.";
     if (error.status === 404) message = "GitHub could not find the repository or the catalogue file.";
     return response(statusCode, { error: message });
@@ -366,6 +541,10 @@ module.exports = {
   buildProduct,
   resolveCategory,
   applyProduct,
+  mergeProduct,
+  placeProduct,
+  removeProduct,
+  imageRecordsFromSlots,
   imagesFromPayload,
   paragraphs,
   specifications,
